@@ -1,0 +1,27 @@
+Package: libdeepin-kwinxrenderutils13
+Architecture: amd64
+Version: 4:5.25.27.4-bpo12+1
+Priority: optional
+Section: libs
+Source: deepin-kwin
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>, gfdgd xi <3025613752@qq.com>
+Installed-Size: 66
+Depends: libc6 (>= 2.14), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5), libxcb-render0, libxcb-xfixes0, libxcb1
+Filename: ./l/libdeepin-kwinxrenderutils13/libdeepin-kwinxrenderutils13_5.25.27.4-bpo12+1_amd64.deb
+Size: 26196
+MD5sum: febc3b72ae3a1ed3df51baaa1efceff4
+SHA1: c5403da5307da2b87d05caed74ab4f03ff7cc71b
+SHA256: 12de9fd41b169972878746009a5c9fde5981b5f514a35d6e8e4c54e97fa9f224
+SHA512: e77d135e60af0bd002624217bf037b761ecacbc7e05eb37125a007e950737e58e615471449a63dfe5bdeb7ca458687042120e858469d0ba4ef37527b2bc3e40f
+Homepage: https://projects.kde.org/projects/kde/workspace/kwin
+Description: KDE window manager render utils library
+ KWin (pronounced as one syllable "deepin-kwin") is the window
+ manager for the KDE Plasma Desktop. It gives you complete
+ control over your windows, making sure they're not in the way
+ but aid you in your task. It paints the window decoration,
+ the bar on top of every window with (configurable) buttons
+ like close, maximize and minimize. It also handles placing
+ of windows and switching between them.
+ .
+ This package is part of the KDE base workspace module.
+

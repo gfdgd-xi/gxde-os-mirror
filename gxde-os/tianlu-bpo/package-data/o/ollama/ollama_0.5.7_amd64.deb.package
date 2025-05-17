@@ -1,0 +1,17 @@
+Package: ollama
+Architecture: amd64
+Version: 0.5.7
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 26422
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 12)
+Filename: ./o/ollama/ollama_0.5.7_amd64.deb
+Size: 7298680
+MD5sum: bf371de7f9c615daa5e997036e51a774
+SHA1: 6e4b9b64f0f893d828a79449780816c1e5434012
+SHA256: 88a15444023c7e20f96da1f813b04b6e9f3909cdafc98d5fe8b693083f519b5d
+SHA512: ad151e467a92b36fff2334dfbf56d549b788e2ca9ea16ac625154d5ee28010d2ec95055236f3cdd332bd5291c39d9c5d5f59b9e5ed5284fc6ff9f1c09ba821f6
+Homepage: https://gitee.com/GXDE-OS/ollama
+Description: Get up and running with large language models.
+

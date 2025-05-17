@@ -1,0 +1,27 @@
+Package: android-libandroidfw-dev
+Architecture: amd64
+Version: 1:14~beta1~bpo12+3
+Multi-Arch: foreign
+Priority: optional
+Section: libdevel
+Source: android-platform-frameworks-base
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+Installed-Size: 276
+Depends: android-libandroidfw (= 1:14~beta1~bpo12+3), android-libutils-dev (>= 1:34), android-platform-frameworks-native-headers (>= 1:34)
+Breaks: android-libandroidfw (<< 21-2~)
+Replaces: android-libandroidfw (<< 21-2~)
+Filename: ./a/android-libandroidfw-dev/android-libandroidfw-dev_14~beta1~bpo12+3_amd64.deb
+Size: 57272
+MD5sum: 6e3666cc259e580d6e3bde9b4463bcd6
+SHA1: 56ff665912677bbe8ebe524ba97da30a4c8fb7d1
+SHA256: be7715084da37dd6d5d2b4007a69f62765ebc931910806667f2254c3dc9abeb1
+SHA512: a3bcab5d48869e21c4ca78ffa18a4d67f1c3d74e6b2674bed640eb81b2ff26f4d69e6f5f1a2bfd64ba881e14dc556cd648f0d26043061efdb24e28f3353bbbad
+Homepage: https://android.googlesource.com/platform/frameworks/base
+Description: Android utility library - Development files
+ Library providing utility functions to Android related tools. This is needed
+ purely to get various Android utilities working.  In the Google builds of the
+ Android SDK, this library is statically linked, but in the Debian packaging,
+ it is a private shared library.
+ .
+ This package contains the development files.
+

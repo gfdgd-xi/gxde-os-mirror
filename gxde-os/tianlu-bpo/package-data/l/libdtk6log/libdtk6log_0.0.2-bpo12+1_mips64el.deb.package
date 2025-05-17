@@ -1,0 +1,19 @@
+Package: libdtk6log
+Architecture: mips64el
+Version: 0.0.2-bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dtk6log
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 219
+Depends: libc6 (>= 2.32), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.4.0), libspdlog1.10-fmt9, libstdc++6 (>= 11), libsystemd0, qt6-base-abi (= 6.4.2)
+Filename: ./l/libdtk6log/libdtk6log_0.0.2-bpo12+1_mips64el.deb
+Size: 53612
+MD5sum: 327c6c800e16174a98d3ce32174f06e2
+SHA1: 6d8d1bb11f49ab0e6a7e1ee78b40c4bcc67dc715
+SHA256: cf85115721e804697483f53276590fe62c96aef22d143f8b290cdd46ddf0f450
+SHA512: 503babf729cdc95b8ea7cce52830d2f3d3254c25c31d8fbcba22ba0c3890927cb05b98fb0d83f14d030275c8e2fb9c85403e370a6d561e448c85b3fb555b2091
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the shared libraries.
+

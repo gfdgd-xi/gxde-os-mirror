@@ -1,0 +1,27 @@
+Package: android-libaapt
+Architecture: amd64
+Version: 1:14~beta1~bpo12+3
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: android-platform-frameworks-base
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+Installed-Size: 3433
+Depends: android-libandroidfw, android-libbase (>= 34.0.5), android-liblog (>= 34.0.5), android-libutils (>= 34.0.5), libc6 (>= 2.34), libexpat1 (>= 2.0.1), libgcc-s1 (>= 3.0), libpng16-16 (>= 1.6.2-1), libprotobuf32 (>= 3.21.12), libstdc++6 (>= 11), zlib1g (>= 1:1.1.4)
+Filename: ./a/android-libaapt/android-libaapt_14~beta1~bpo12+3_amd64.deb
+Size: 882192
+MD5sum: 1013c0fdaf93f8c6365a4fbb95bf5a0f
+SHA1: ed10e267a2f0b614c81c236eaafc90dc2fec937b
+SHA256: 080c578345dfe47a344e98ce8066e5ffce31551646cff6fd63c0e281eca00016
+SHA512: 073e9c853f00e78408b7b6689f45d136b024a81e1f6f880f949e10c06ab7bd295cfd21e39ba20d4d29c3a8172e16ab8560517966f3fe7fb6f6a250cdc20f43d1
+Homepage: https://android.googlesource.com/platform/frameworks/base
+Description: Android Asset Packaging Tool - Shared library
+ The Android Asset Packaging Tool (aapt) takes your application resource
+ files, such as the AndroidManifest.xml file and the XML files for your
+ Activities, and compiles them. An R.java is also produced so you can
+ reference your resources from your Java code. This tool allows you to view,
+ create, and update Zip-compatible archives (zip, jar, apk). It can also
+ compile resources into binary assets.
+ .
+ This package contains the shared library.
+

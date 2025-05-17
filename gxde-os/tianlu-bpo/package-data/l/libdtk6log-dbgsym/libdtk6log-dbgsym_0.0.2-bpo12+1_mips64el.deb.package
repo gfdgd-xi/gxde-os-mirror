@@ -1,0 +1,20 @@
+Package: libdtk6log-dbgsym
+Architecture: mips64el
+Version: 0.0.2-bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6log
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1520
+Depends: libdtk6log (= 0.0.2-bpo12+1)
+Filename: ./l/libdtk6log-dbgsym/libdtk6log-dbgsym_0.0.2-bpo12+1_mips64el.deb
+Size: 1492608
+MD5sum: 7977ea61704f9a5c38736e59869fbbe4
+SHA1: 39dfde4ac1dbf96bf41948d9148c9d0e59d354df
+SHA256: 80ec6e2c15ed5ebef2d7d78a031198bbd917387eb7a3e0e7e4959e9ce34a7bff
+SHA512: 7405736d57679b333acbd8afbf21ae9df3bea294edd3d7afc8b6893cd852ce694c463b6574f9647a93a39bfef0ea42976d9147ff15711307d15ef4c50eea2cd8
+Description: debug symbols for libdtk6log
+Build-Ids: b88ad10633f27721c8b37310ac0ea0c6bd6de0fc
+

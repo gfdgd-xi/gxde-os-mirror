@@ -1,0 +1,29 @@
+Package: deepin-kwin-x11
+Architecture: arm64
+Version: 4:5.25.27.4-bpo12+1
+Priority: optional
+Section: kde
+Source: deepin-kwin
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>, gfdgd xi <3025613752@qq.com>
+Installed-Size: 1959
+Provides: deepin-kwin, x-window-manager
+Depends: deepin-kwin-common (= 4:5.25.27.4-bpo12+1), libc6 (>= 2.34), libdeepin-kwineffects13 (= 4:5.25.27.4-bpo12+1), libdeepin-kwinglutils13 (= 4:5.25.27.4-bpo12+1), libdeepin-kwinxrenderutils13 (= 4:5.25.27.4-bpo12+1), libdwaylandserver5 (>= 5.24.3-1), libepoxy0 (>= 1.0), libkf5configcore5 (>= 5.89~), libkf5configgui5 (>= 5.89~), libkf5configwidgets5 (>= 5.89~), libkf5coreaddons5 (>= 5.90.0), libkf5crash5 (>= 5.89~), libkf5globalaccel-bin, libkf5globalaccel5 (>= 5.89~), libkf5i18n5 (>= 5.89~), libkf5notifications5 (>= 5.89~), libkf5plasma5 (>= 5.89~), libkf5quickaddons5 (>= 5.89~), libkf5service-bin, libkf5service5 (>= 5.89~), libkf5windowsystem5 (>= 5.89~), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.15.0~), libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libqt5qml5 (>= 5.15.0~), libqt5quick5 (>= 5.15.0~) | libqt5quick5-gles (>= 5.15.0~), libqt5widgets5 (>= 5.15.0~), libqt5x11extras5 (>= 5.15.0~), libstdc++6 (>= 11), libsystemd0, libx11-6, libxcb-composite0, libxcb-keysyms1 (>= 0.4.0), libxcb-randr0 (>= 1.3), libxcb-render0, libxcb-shape0, libxcb-xfixes0, libxcb1 (>= 1.6), libxi6 (>= 2:1.5.99.2), libxss1, dde-qt5xcb-plugin (>= 5.6.21)
+Breaks: deepin-kwin-addons (<< 4:5.14)
+Filename: ./d/deepin-kwin-x11/deepin-kwin-x11_5.25.27.4-bpo12+1_arm64.deb
+Size: 485672
+MD5sum: c055e566383db0d2d993515295c3ae93
+SHA1: 312c5ae6dcfe6ddcc50ac1e9ff1a46f8cdfefb24
+SHA256: 2e1772c7b690c654f0586583b46f4089189519afb2ce3cf7aa9ea9de5ae8086f
+SHA512: c49a2c8e6dfd530b8ce4b3fa3a1925a67aeb03da6a597c686fa50646ab622b6d0e8e0ee7403d0c9d3f2a149b53859621cf0a9b7258a6e4fe22f21990accf5440
+Homepage: https://projects.kde.org/projects/kde/workspace/kwin
+Description: KDE window manager, X11 version
+ KWin (pronounced as one syllable "deepin-kwin") is the window
+ manager for the KDE Plasma Desktop. It gives you complete
+ control over your windows, making sure they're not in the way
+ but aid you in your task. It paints the window decoration,
+ the bar on top of every window with (configurable) buttons
+ like close, maximize and minimize. It also handles placing
+ of windows and switching between them.
+ .
+ This package is part of the KDE base workspace module.
+

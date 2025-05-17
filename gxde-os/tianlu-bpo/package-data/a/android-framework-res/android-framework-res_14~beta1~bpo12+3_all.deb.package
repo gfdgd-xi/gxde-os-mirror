@@ -1,0 +1,20 @@
+Package: android-framework-res
+Architecture: all
+Version: 1:14~beta1~bpo12+3
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Source: android-platform-frameworks-base
+Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+Installed-Size: 57471
+Filename: ./a/android-framework-res/android-framework-res_14~beta1~bpo12+3_all.deb
+Size: 18769896
+MD5sum: 391b1e87ac821a7b659a4959d8230381
+SHA1: d41d97898c64d4f3962b12c3d5361eb3bcf9bad9
+SHA256: a10ed94f501c088556ac8b31e34b19eb4629cd3ef6ee8306d9f2c4a6801f1172
+SHA512: c8a90b7fc2396f126ccb1c3f4b4ae04754430e2bd2ce4d31e82a0090d6973200327c5bb3c5f5dae62e26a6e4ce4beeee4bceeb60f32099953cf922931db73465
+Homepage: https://android.googlesource.com/platform/frameworks/base
+Description: Android platform framework resources
+ This package provides the Android framework resources in an apk file,
+ framework-res.apk
+
