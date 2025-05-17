@@ -1,0 +1,19 @@
+Package: dtk6widget-examples-dbgsym
+Architecture: amd64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6widget
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 21997
+Depends: dtk6widget-examples (= 6.0.34)
+Filename: ./d/dtk6widget-examples-dbgsym/dtk6widget-examples-dbgsym_6.0.34_amd64.deb
+Size: 3899664
+MD5sum: 8c4124ff54aac3f0bb21883f8af29d95
+SHA1: 25c7fecfec9d9e8ce8a7350569bbf68e37632d5d
+SHA256: 01d36ff6dd5eeeda17066205688054383802407857104bd6121abc6ab9484ec2
+SHA512: b82f9169286f47e511715f39bbe1dee6d640cace04c0f9670e0ef1599c22d32c79e754d618cb10afddef8589a545dfc7f34a5730713eef9620f544aed7e7bba0
+Description: debug symbols for dtk6widget-examples
+Build-Ids: 471fc049043fab45db145ae6e300a0863742045d
+

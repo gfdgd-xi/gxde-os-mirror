@@ -1,0 +1,20 @@
+Package: libgxmr
+Architecture: arm64
+Version: 3.3.0-2
+Multi-Arch: same
+Priority: extra
+Section: libdevel
+Source: gxde-movie-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 541
+Depends: libavcodec61 (>= 7:7.0), libavformat61 (>= 7:7.0), libavutil59 (>= 7:7.0), libc6 (>= 2.38), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libffmpegthumbnailer4v5 (>= 2.2.3), libgcc-s1 (>= 3.0), libgl1, libmpv2 (>= 0.7.0), libqt5concurrent5t64 (>= 5.6.0~rc), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5network5t64 (>= 5.14.1), libqt5sql5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.5.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14)
+Filename: ./l/libgxmr/libgxmr_3.3.0-2_arm64.deb
+Size: 144248
+MD5sum: c426548e7249e734fd66165a93915e1b
+SHA1: 712724c6bc7022f3d891f4dfba4915494c571cc6
+SHA256: 0cc37beaba09986939aa3eb8fb817cf1d15eaa3a80f777b2c899b1fcd188b71e
+SHA512: 4f41bb3e72a6f03254070b7b604e73eb72668952b36c88302811ed2fb6c6e07c1458c463a543171eeac1b1c04e5bd4df204c27b72c73fee239f921692558934f
+Homepage: https://gitee.com/GXDE-OS/gxde-movie-reborn
+Description: movie player widget library
+ GXDE movie player widget library
+

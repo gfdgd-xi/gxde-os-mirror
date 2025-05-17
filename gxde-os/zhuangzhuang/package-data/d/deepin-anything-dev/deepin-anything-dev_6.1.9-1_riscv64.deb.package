@@ -1,0 +1,19 @@
+Package: deepin-anything-dev
+Architecture: riscv64
+Version: 6.1.9-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 35
+Depends: deepin-anything-libs (= 6.1.9-1)
+Filename: ./d/deepin-anything-dev/deepin-anything-dev_6.1.9-1_riscv64.deb
+Size: 9248
+MD5sum: 993475f6bf8169eba07376e990bae605
+SHA1: 3b4b7688e05ae80c02c8dd0a89c3b29913454ee3
+SHA256: b01870c6c706f77a70e953b78a2f936aa5cb483befc373df54ba1f23660bb53a
+SHA512: af8c48aade7427e9b95b68499ba3bd1b66179427415370f1f03aebeea4410cbf089df98d9715d6f4025cbd263e4514b043031b7ecd02059b61ae28ef4e15d8c3
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything user interface library
+ anything library developer package.
+

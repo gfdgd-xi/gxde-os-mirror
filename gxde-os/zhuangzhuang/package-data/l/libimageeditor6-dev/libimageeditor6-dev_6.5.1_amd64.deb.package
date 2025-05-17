@@ -1,0 +1,22 @@
+Package: libimageeditor6-dev
+Architecture: amd64
+Version: 6.5.1
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 41
+Depends: libimageeditor6 (= 6.5.1)
+Recommends: libqt6libgtk2, kimageformat6-plugins, deepin-ocr
+Conflicts: libimage-viewer-dev
+Replaces: libimage-viewer-dev
+Filename: ./l/libimageeditor6-dev/libimageeditor6-dev_6.5.1_amd64.deb
+Size: 11028
+MD5sum: c70db002bfcb0c5f927ab5306664ccd6
+SHA1: 4c0b5b17bf765bdc78d38317c9ecc91e99084c3f
+SHA256: 7b5eb131af9979df17c6d05800447c1e838cec08669ca927bb0c9c3bf7eafb56
+SHA512: 053a3f6d733451da3fed35dba8b59429ad65cba8cd2fc66b3865bd457b4dd00447149558ed581327da06846e04e52550d446f234be01f5e7ed9d9ca181a4c6e1
+Homepage: http://www.deepin.org
+Description: Image Viewer library development headers.
+ Deepin Image Viewer library development headers.
+

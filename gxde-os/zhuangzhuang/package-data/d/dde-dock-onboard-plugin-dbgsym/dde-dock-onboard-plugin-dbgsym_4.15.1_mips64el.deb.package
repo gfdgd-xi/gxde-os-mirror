@@ -1,0 +1,19 @@
+Package: dde-dock-onboard-plugin-dbgsym
+Architecture: mips64el
+Version: 4.15.1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 180
+Depends: dde-dock-onboard-plugin (= 4.15.1)
+Filename: ./d/dde-dock-onboard-plugin-dbgsym/dde-dock-onboard-plugin-dbgsym_4.15.1_mips64el.deb
+Size: 151044
+MD5sum: f98c30985c4ce86ad0720a701aed8680
+SHA1: 7e99fdcae7ce6b9d508379505baf6bad58ab735a
+SHA256: 44cf0fc72b87d2fb4e91f1dc4f68c6dcc06dc2e59dcae59e1cb7a9893b803a6e
+SHA512: cee4bbf94a7c809b694e30dc9804d32a97d6578c23ccd986d87b46f8628919c35e7ce23f33876c97f4779e1bcbd1926fd3744e1b092d023894176cac4b8388ab
+Description: debug symbols for dde-dock-onboard-plugin
+Build-Ids: 90bd9351d6151210f2e34d75c2c961f89dc096dc
+

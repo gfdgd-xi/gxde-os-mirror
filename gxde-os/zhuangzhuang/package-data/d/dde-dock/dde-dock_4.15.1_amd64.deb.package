@@ -1,0 +1,22 @@
+Package: dde-dock
+Architecture: amd64
+Version: 4.15.1
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3609
+Provides: dde-dock-monitor-plugin, gxde-dock-monitor-plugin
+Depends: libc6 (>= 2.38), libdbusmenu-qt5-2 (>= 0.9.3+14.10.20140619), libdde-network-utils, libdframeworkdbus2 (>= 6.1.0~gxde1), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 1.0.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.6.0~beta), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, libxcb-composite0, libxcb-ewmh2 (>= 0.4.2), libxcb-image0 (>= 0.2), libxcb1, libxtst6 (>= 2:1.2.5), deepin-menu
+Recommends: dde-disk-mount-plugin, dde-dock-onboard-plugin
+Conflicts: dde-dock-applets, dde-dock-monitor-plugin, dde-trash-plugin, dde-workspace (<< 2.90.5), gxde-dock-monitor-plugin
+Replaces: dde-dock-applets, dde-dock-monitor-plugin, dde-trash-plugin, gxde-dock-monitor-plugin
+Filename: ./d/dde-dock/dde-dock_4.15.1_amd64.deb
+Size: 678716
+MD5sum: 3cfdedc6918e4c740493f33ad0e7cfce
+SHA1: 1cf14113c2a2dd89b8419a192b33e95ce9e71971
+SHA256: 9ed4a94908ef29bee1098fee5ec183c0a2ed3815041073cabbed966329a72dae
+SHA512: 6ea173a7303583cc58dbd6c1fb31f862cbff83c0572897ac35a6e3ae3ed28209e83bc234ba927af56388a43753e697800ae87f1823ffa060c961e6d8d827954d
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module
+ Deepin desktop environment - dock module.
+

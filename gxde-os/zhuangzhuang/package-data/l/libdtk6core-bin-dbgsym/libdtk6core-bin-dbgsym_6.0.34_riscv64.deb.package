@@ -1,0 +1,19 @@
+Package: libdtk6core-bin-dbgsym
+Architecture: riscv64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6core
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 3439
+Depends: libdtk6core-bin (= 6.0.34)
+Filename: ./l/libdtk6core-bin-dbgsym/libdtk6core-bin-dbgsym_6.0.34_riscv64.deb
+Size: 2751936
+MD5sum: ae1220aafa4faa2d4e410ebdadf9a6c4
+SHA1: 0d24e31355691d961554574257ca195aabc2310b
+SHA256: 06413c232bde9fd4b3e878519eb2783dbe18e1247b3d0bba5450525e5bf06c20
+SHA512: 32e03c38a9892127aa0e179c78af503ff88224d1dc4997cf73e2e646def7e9e0a6a5cc941ff13afa17d416aa90ea10083b4e52494a0c1aac9b987d7c23a4f0d2
+Description: debug symbols for libdtk6core-bin
+Build-Ids: 2f405225a7ddea7f9208709b3b1abc7771584ab8 7585f438eb24465e60eef4c5af220779f7fc2a34 a4661fec60c882b01d946fac9aad5e4a3a32df68 a5a3b444033496247ea2fa1f026274c00533ab27 da55c50dc3dbcebf4449de5a949d839dc82af0b8 f6c889989ed483a5c4a9e3d2f3b0318d1e6c5539
+

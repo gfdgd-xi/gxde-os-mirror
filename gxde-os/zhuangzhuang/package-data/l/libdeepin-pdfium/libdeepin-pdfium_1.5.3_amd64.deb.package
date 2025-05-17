@@ -1,0 +1,18 @@
+Package: libdeepin-pdfium
+Architecture: amd64
+Version: 1.5.3
+Priority: optional
+Section: libdevel
+Source: deepin-pdfium
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 4987
+Depends: libc6 (>= 2.33), libchardet1t64, libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libicu76 (>= 76.1-1~), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), libopenjp2-7 (>= 2.2.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.1.2), libstdc++6 (>= 14), zlib1g (>= 1:1.1.4)
+Filename: ./l/libdeepin-pdfium/libdeepin-pdfium_1.5.3_amd64.deb
+Size: 1955596
+MD5sum: 42e640f0a5826bb41fc88f44d13d8eb6
+SHA1: 79d6c739dabfcc722408b6539bc6d7880b347247
+SHA256: 106b6c2453e2711bc4c95812f146d53bed4668192da41cd5a4c315513f0936fc
+SHA512: 5abce0b581465296e3b650eedad54aa23066c7f2a1bee56f389b97c9ae3012f37ae4423b12c90d9b066f7327663f08356f8e01ad3928a925f8bedb7880ef1de8
+Description: A libaray about PDF base on Qt6.
+ A library for parsing and editing and displaying PDF.
+

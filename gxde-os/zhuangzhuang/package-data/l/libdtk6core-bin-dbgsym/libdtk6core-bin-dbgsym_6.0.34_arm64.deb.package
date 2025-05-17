@@ -1,0 +1,19 @@
+Package: libdtk6core-bin-dbgsym
+Architecture: arm64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6core
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 4068
+Depends: libdtk6core-bin (= 6.0.34)
+Filename: ./l/libdtk6core-bin-dbgsym/libdtk6core-bin-dbgsym_6.0.34_arm64.deb
+Size: 3280700
+MD5sum: 18a1509e6d2d98579af9ad42681f0839
+SHA1: 97b782624348db93aa13d6f79215f10e5b78f37e
+SHA256: bbfbaa1b3c77275059de0275b554b54e7913d70bc18144e0c5265252cd8acd8a
+SHA512: 59ed37896d4d07ae374be25508c0385497baa69ee7aae3d8bb13c13c0f863f36ccf27f03282db8ae02bb58c992f571502733e1242e05bbb2f23653402a38dd12
+Description: debug symbols for libdtk6core-bin
+Build-Ids: 16da29faa38c2eb8d2a19cb0419c371a3da27e3f 2622c441bfe1360b502f74c781f93670d5375ee7 63cf2c3433af66b385217417ae395c5c2e62ca37 8d4c559d464ccd71480ce59772a2b95d0fbecbfb a3b3dc21f035a8d26c34e4911646ceed17e3a091 ddd74d0e146721940958c3b8ec282dc14a58f233
+

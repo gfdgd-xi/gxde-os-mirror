@@ -1,0 +1,19 @@
+Package: dde-qt6integration-dbgsym
+Architecture: amd64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: qt6integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 4271
+Depends: dde-qt6integration (= 6.0.34)
+Filename: ./d/dde-qt6integration-dbgsym/dde-qt6integration-dbgsym_6.0.34_amd64.deb
+Size: 4146832
+MD5sum: 7a9aebdb551962d7f72a81fac0f974c4
+SHA1: e69ac48ec82a4df597080f332a2deb51b8ca6ce3
+SHA256: a17dbba5ffede007ae39ab8ecbbdfdf5815c8f0a90574fca8e6e3cf6bfd48e6a
+SHA512: 01e5b2ed2ca6ef43179293ad8e3f6303565f10d35aafb2626bace4b5fa068f763c1454e4770237786ee89991fa70c73d81049cc09cbf7905865336d0e619af2c
+Description: debug symbols for dde-qt6integration
+Build-Ids: 1308743ae36b05ccc15c2b2ceaf6fd0ea51c67ad 1766f2cec7ca99767ef17390a8f6689a4590790c 6d59f540678a2ca543bb29d9cd885693e1c4ba9f 812ad7b15d82a460b320ea94138f2597550052b2 933fd2b14d565852de46732899cc52431375a1b4 9e8ce2bbf1745aa0bd1cc04f34e09fdd8cdbadea
+

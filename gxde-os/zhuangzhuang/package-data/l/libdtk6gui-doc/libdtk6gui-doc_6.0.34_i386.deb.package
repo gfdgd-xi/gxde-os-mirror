@@ -1,0 +1,19 @@
+Package: libdtk6gui-doc
+Architecture: i386
+Version: 6.0.34
+Priority: optional
+Section: libdevel
+Source: dtk6gui
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 3628
+Filename: ./l/libdtk6gui-doc/libdtk6gui-doc_6.0.34_i386.deb
+Size: 2609528
+MD5sum: 562f3e657d95abce15584e87b52ba984
+SHA1: fdf3feb72b9ce964532fac79bb09b37a63e740c5
+SHA256: fcd6291d33e06d055e990e38259bc1f345cfeb009ace2d630031ec941ac16b16
+SHA512: 056750fe5e358ef37879de88ea5f83a3f8605b9bd91aaeb07a0fb5f4efbf603f01368f8db8eea12b695f8255f1f66bb2ff1d8ca5ddb2561b90b3df211e0512ba
+Description: Deepin Tool Kit Gui (Document)
+ DtkGui is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the qt Document of DtkGui
+

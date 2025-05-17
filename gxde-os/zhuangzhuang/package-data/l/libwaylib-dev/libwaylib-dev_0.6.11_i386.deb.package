@@ -1,0 +1,19 @@
+Package: libwaylib-dev
+Architecture: i386
+Version: 0.6.11
+Priority: optional
+Section: libdevel
+Source: waylib
+Maintainer: JiDe Zhang <zhangjide@deepin.org>
+Installed-Size: 212
+Depends: libwaylib (= 0.6.11), libwlroots-0.18-dev, qt6-base-dev-tools (>= 6.6.0), qt6-base-private-dev (>= 6.6.0), qt6-declarative-private-dev (>= 6.6.0), wlr-protocols
+Filename: ./l/libwaylib-dev/libwaylib-dev_0.6.11_i386.deb
+Size: 29452
+MD5sum: 40c11f6a5dacf6ff8a609258741e112a
+SHA1: 5d71114ea2ebd208e61189b2a588a80e3a4ea5ed
+SHA256: 19df4d3a4b2b118b274a91ad7beda05395324dff6697055a32e9a2ab6b31c03e
+SHA512: 6a81270fb484fed3423f7c0e7789c220cd359e22ce68c905eb1d4acbc99ecf2bff3175b2ad16c78e4bd779ec0b881714397a8f1f819312d81e3d492b07db7a7e
+Description: A devel package for libwaylib
+ .
+ This package contains the header files and static libraries of waylib.
+

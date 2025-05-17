@@ -1,0 +1,19 @@
+Package: libdtk6gui-bin-dbgsym
+Architecture: riscv64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6gui
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 1092
+Depends: libdtk6gui-bin (= 6.0.34)
+Filename: ./l/libdtk6gui-bin-dbgsym/libdtk6gui-bin-dbgsym_6.0.34_riscv64.deb
+Size: 898776
+MD5sum: 490626e64db3d7f04c4c418f2e66337e
+SHA1: 5ca3246539b41f69e38d0088076fcf71c7a0c2b4
+SHA256: 453babe264ac3fa2407a6702b6ab75317982034efb08bdf8875ba66aa94be4e7
+SHA512: 1203926b9fa51c5836158dcf338a4ca4dad71a2fbf741a82fdd19308f10c6725a77a8f659c46183d9b35310bda1f3eae6e37c3bdda6164a68f9f95806da6bda6
+Description: debug symbols for libdtk6gui-bin
+Build-Ids: 16e69a3d9dac18c8e984c14a92cb8e8862e99b37 9057a2ef5a2cd4fc9188157a8a9ff8292e4e51d5 b49548e812d877e1ca1f9974afc65b4529ca3c6d b6a3e348483cb6e53cf7dd3f013a5cd039284472 b6f832bcda5056f559e3070dc08deaa494acc3f6
+

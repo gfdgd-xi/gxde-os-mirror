@@ -1,0 +1,22 @@
+Package: libimageeditor
+Architecture: riscv64
+Version: 6.5.1
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 12010
+Depends: libc6 (>= 2.38), libdtkcore5 (>= 5.7.11), libdtkgui5 (>= 5.7.11), libdtkwidget5 (>= 5.7.12), libgcc-s1 (>= 3.4), libqt5concurrent5t64 (>= 5.6.0~rc), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5t64 (>= 5.0.2), libqt5printsupport5t64 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.11.0~rc1), libstdc++6 (>= 14), libtiff6 (>= 4.0.3)
+Recommends: libqt5libqgtk2, kimageformat-plugins, deepin-ocr, ffmpegthumbnailer, ffmpeg
+Conflicts: libimage-viewer
+Replaces: libimage-viewer
+Filename: ./l/libimageeditor/libimageeditor_6.5.1_riscv64.deb
+Size: 882264
+MD5sum: 1def68908342d70b4f63a39dec83e0bb
+SHA1: d5d7af01395c15fbef14c2c1550ac4a88bd8646f
+SHA256: 8c38aefdb4bec97fe1436e595bf4a134351126800f4e04c2e6ac93e97544dfc8
+SHA512: 5498b9b793ecae0e7048ffa7bc3207d8e1f4e339b22f6b3b37cd0054b3fea71660dde8a80cf21668fed64b912a7436c25eb1a671c2a054769d22f867e05c9666
+Homepage: http://www.deepin.org
+Description: Image Viewer library.
+ Deepin Image Viewer library.
+

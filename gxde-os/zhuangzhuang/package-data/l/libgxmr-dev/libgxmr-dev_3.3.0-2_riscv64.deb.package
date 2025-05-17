@@ -1,0 +1,19 @@
+Package: libgxmr-dev
+Architecture: riscv64
+Version: 3.3.0-2
+Priority: extra
+Section: libdevel
+Source: gxde-movie-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 73
+Depends: libgxmr (= 3.3.0-2)
+Filename: ./l/libgxmr-dev/libgxmr-dev_3.3.0-2_riscv64.deb
+Size: 19216
+MD5sum: e00499ac6e36c4e47339bf2d3ef225a8
+SHA1: 57d70c0db0190fbf6f066722573678ade54de62a
+SHA256: 38333a1d19d593ba46680da847917c85ee014d98b2e4f9b6a28724463f3cef6c
+SHA512: 0b57a35c8165e499038d807918f88e7ca7e6ad1999d2815ab045dc1ed8721cf5f398f3da0620eae6ea7ad0e8099be863ce9de8bec5f305a256df830c64d1c616
+Homepage: https://gitee.com/GXDE-OS/gxde-movie-reborn
+Description: movie player widget library development headers
+ GXDE movie player widget library development headers
+

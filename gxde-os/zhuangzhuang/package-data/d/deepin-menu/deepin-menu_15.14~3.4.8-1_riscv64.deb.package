@@ -1,0 +1,18 @@
+Package: deepin-menu
+Architecture: riscv64
+Version: 15.14~3.4.8-1
+Priority: extra
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 128
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5t64 (>= 5.6.0~beta), libstdc++6 (>= 4.1.1)
+Filename: ./d/deepin-menu/deepin-menu_15.14~3.4.8-1_riscv64.deb
+Size: 41288
+MD5sum: c5a29c12bf84e435dec08a9fb7419fd9
+SHA1: c441c741f5b1c88ef5b32527674b21d7d907ee23
+SHA256: 6a8b9f7ba78815fdf80302472854240db51f25553ad7c727576e8bd48d31ef60
+SHA512: 6446e1e6d7d0bfb37fcd472790fb0181b2a277b6914adea8da672f43cb7ca93b610c048502c28653f5d961de72a37b660626d9e0138a03e5ce3bc7555f9b85e5
+Homepage: https://github.com/linuxdeepin/deepin-menu
+Description: Deepin menu service
+ Deepin menu service for building beautiful menus.
+

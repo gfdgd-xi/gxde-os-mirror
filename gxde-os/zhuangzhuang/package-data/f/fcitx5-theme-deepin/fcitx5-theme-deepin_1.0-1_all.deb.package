@@ -1,0 +1,17 @@
+Package: fcitx5-theme-deepin
+Architecture: all
+Version: 1.0-1
+Priority: optional
+Section: misc
+Maintainer: Cryolitia <liziyao@uniontech.com>
+Installed-Size: 54
+Depends: fcitx5
+Filename: ./f/fcitx5-theme-deepin/fcitx5-theme-deepin_1.0-1_all.deb
+Size: 8516
+MD5sum: 0804d9b216149ac7fcc5023f8dab4d62
+SHA1: 92c0e26f4567680e25a84ae2bc2fe9f407a18f08
+SHA256: 2e20f2940e2a7c746ca8e47cf31473e658ddeef005c923ee5eda15be74df9b24
+SHA512: 03a14b3fae8d697e02f9a89d8549c282ab02520ce1b162f0eb224af6520486dcec72d4996e8d79c275ea09f92c4cff649c99d523d2cb3def09a44e5059732100
+Homepage: https://github.com/linuxdeepin/fcitx5-theme-deepin
+Description: Deepin looklike fcitx5 theme
+

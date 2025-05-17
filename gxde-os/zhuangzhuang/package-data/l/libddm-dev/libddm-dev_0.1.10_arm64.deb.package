@@ -1,0 +1,19 @@
+Package: libddm-dev
+Architecture: arm64
+Version: 0.1.10
+Priority: optional
+Section: libs
+Source: ddm
+Maintainer: justforlxz <zhangdingyuan@deepin.org>
+Installed-Size: 112
+Depends: libddm (= 0.1.10), qt6-base-dev
+Filename: ./l/libddm-dev/libddm-dev_0.1.10_arm64.deb
+Size: 17824
+MD5sum: 200e4846b390d34868468331ee3b363c
+SHA1: 97554ce21ed80feefb10832d5b2c1b52b3092465
+SHA256: e0db10c9fdfc79dc82bfb7fd8d785c87a8cd4f6bca16a49e7022bdcd531af532
+SHA512: 3914807e6d2dc0092134763d934733f6b91a87b5d8468e7602a0730b3fa3291b5cb4ab41d293fcd514fc12f80b2775ae623a71c4c9fc89fe358dfbdf53ae05de
+Homepage: https://github.com/linuxdeepin/ddm.git
+Description: DDM devel library
+  provide PAM headers
+

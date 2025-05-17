@@ -1,0 +1,19 @@
+Package: dde-dock-onboard-plugin
+Architecture: riscv64
+Version: 4.15.2
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 78
+Depends: libc6 (>= 2.27), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.5.0), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 5), onboard
+Filename: ./d/dde-dock-onboard-plugin/dde-dock-onboard-plugin_4.15.2_riscv64.deb
+Size: 21644
+MD5sum: e1a3da5d66737dbbf62d57fedea412a1
+SHA1: ee5ac2a97ff850c61788ea7d87e01c4fe641a9ea
+SHA256: 5b9dfd39c34af5c430c101d86add2e2622a5a66d83d7351ef6aafcf552d0798c
+SHA512: b392bec5cef73eb57f63b2642d1447c292e3c036a7a5499cba051855f2ca26cfcc3b27a35dbf2b469629b0bfecd9359c0fa79482402ba6361210cc617b0a7597
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock plugin
+ Deepin desktop environment - dock plugin for onboard
+

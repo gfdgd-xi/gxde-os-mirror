@@ -1,0 +1,18 @@
+Package: dde-dock-dev
+Architecture: i386
+Version: 4.15.0
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 32
+Filename: ./d/dde-dock-dev/dde-dock-dev_4.15.0_i386.deb
+Size: 5696
+MD5sum: 7065daa5f2c2e16509bed978a98c5840
+SHA1: 091daea3c0c01042833f839b461fe72bbbf6b6d5
+SHA256: 218a2f12bbc785b7fb23d0f89f0739e08cc5c1380e01ac3a3e498043ed9076d5
+SHA512: b5a0d4b84fbe5058006ab1a4437cf8b2c5c2a5552ab3f38165feae98deb3df3a1836e5a01ee3acfe34d75806853cb090a23627f8d56312cffa370962c6cc655c
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module development files
+ Deepin desktop environment - dock module development files.
+

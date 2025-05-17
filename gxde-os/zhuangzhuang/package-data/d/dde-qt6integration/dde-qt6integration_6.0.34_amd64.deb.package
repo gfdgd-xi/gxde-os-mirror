@@ -1,0 +1,19 @@
+Package: dde-qt6integration
+Architecture: amd64
+Version: 6.0.34
+Priority: optional
+Section: devel
+Source: qt6integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 870
+Provides: libqt6deepintheme-plugin
+Depends: libc6 (>= 2.14), libdtk6core (>= 6.0), libdtk6gui (>= 6.0), libdtk6widget (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6widgets6 (>= 6.2.0), libstdc++6 (>= 14), libx11-6, qt6-base-private-abi (= 6.8.2), dde-qt6xcb-plugin
+Filename: ./d/dde-qt6integration/dde-qt6integration_6.0.34_amd64.deb
+Size: 220352
+MD5sum: a4fee2e869781e5e8b36bb3aa0e96924
+SHA1: 43590d6ecbad077767f29b29abcd63f60bcb270c
+SHA256: 4afd9f97b92af856ce03d5c3f826438f73aa2ace2fc46e76991ba3ff10085125
+SHA512: 229c186f4f3c51f8983459eec20ee1482953d140b3e3620ae7b2f404e2c8f6b65829e2c5204e987102cdbfb445caaf9032ad62a34690c62fee02490d5914b26d
+Description: Qt platform theme integration plugins for DDE
+ Multiple Qt plugins to provide better Qt6 integration for DDE is included.
+

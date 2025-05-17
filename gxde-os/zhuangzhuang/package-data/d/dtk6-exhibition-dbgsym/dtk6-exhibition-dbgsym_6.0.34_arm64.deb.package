@@ -1,0 +1,19 @@
+Package: dtk6-exhibition-dbgsym
+Architecture: arm64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22228
+Depends: dtk6-exhibition (= 6.0.34)
+Filename: ./d/dtk6-exhibition-dbgsym/dtk6-exhibition-dbgsym_6.0.34_arm64.deb
+Size: 268604
+MD5sum: 693a49bbbc58f015c6a70984d40019ee
+SHA1: 4cf08dd8dc1940066dd9a417119961ea176991e7
+SHA256: 5a1ff0e26e6056eea32534e0b74d2cdc953990cc66703d22cd79f279708b8324
+SHA512: 9ab8e5e887adb861b7e3c3afbef0db66c63aba884becdb5291a514242189c29ec93e925408efa7489efd11d51acb323797626d631e046b5ad9e15e67612c9b23
+Description: debug symbols for dtk6-exhibition
+Build-Ids: 7ba18bac8e35a3a4bca0fe01689ea25c9ccc4d4b
+

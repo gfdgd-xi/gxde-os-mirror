@@ -1,0 +1,19 @@
+Package: dde-file-manager
+Architecture: riscv64
+Version: 4.8.42
+Priority: optional
+Section: libdevel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1078
+Depends: libc6 (>= 2.34), libdde-file-manager (= 4.8.42), libdtkcore5 (>= 5.7.11), libdtklog0 (>= 0.0.3), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libjemalloc2 (>= 5.0.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, socat, libdtkcore2, libdisomaster, libisoburn1, gxde-compressor
+Recommends: dde-qt5integration, avfs
+Filename: ./d/dde-file-manager/dde-file-manager_4.8.42_riscv64.deb
+Size: 311868
+MD5sum: b59d91f3469bc8b0eb2fd2e6e3cafae7
+SHA1: 635a1157ba4fe6324f1c4c791ad02503593b0f41
+SHA256: f1e36b76080218f040004290840e2ff96cf8d36c351e6c65761574de7f2b5f52
+SHA512: b3e3b3fdc1799e0d640adca5ce29dc3f8e26de3f7e78d7f50ab93f47a3a3c6cec56cdd80eda168e6184ad4f07bb7043b96e252498501ea90015d29ef64c1533f
+Homepage: http://www.deepin.org
+Description: File manager front end
+ File manager front-end of Deepin OS
+

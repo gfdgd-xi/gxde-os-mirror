@@ -1,0 +1,22 @@
+Package: libimageeditor-dev
+Architecture: i386
+Version: 6.5.1
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 41
+Depends: libimageeditor (= 6.5.1)
+Recommends: libqt5libqgtk2, kimageformat-plugins, deepin-ocr
+Conflicts: libimage-viewer-dev
+Replaces: libimage-viewer-dev
+Filename: ./l/libimageeditor-dev/libimageeditor-dev_6.5.1_i386.deb
+Size: 11024
+MD5sum: e60d055e254aed98dcad9e4e8a650e66
+SHA1: b75d4fbdd26c27e854b697c8d91cf43274f0747d
+SHA256: 6e52a6eda12088cfc9a871f6b0443ee1a7cb8adfdc1567f03424c78c886ffadc
+SHA512: 5a0c07f71a2a7a79bc44edded83aad2834b14ff21ee89ddc2596ced662ec18e468cc09b96cee98482e183711a762ebdea40941629cea89327dd218e7d3bd1ee5
+Homepage: http://www.deepin.org
+Description: Image Viewer library development headers.
+ Deepin Image Viewer library development headers.
+

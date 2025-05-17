@@ -1,0 +1,19 @@
+Package: dtk6-exhibition
+Architecture: amd64
+Version: 6.0.34
+Priority: optional
+Section: libs
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 21971
+Depends: libc6 (>= 2.34), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.6.0), libqt6quickcontrols2-6 (>= 6.6.0), libstdc++6 (>= 5), libdtk6declarative (= 6.0.34), qml6-module-qtquick-controls2-styles-chameleon (= 6.0.34)
+Filename: ./d/dtk6-exhibition/dtk6-exhibition_6.0.34_amd64.deb
+Size: 10560248
+MD5sum: b5236b0902baf14896d558d6db77532f
+SHA1: 8543d6b29690d30ef2faae4c9363d89558b47cce
+SHA256: c3dd63780d877978fcb931674d677c7ebf5cbc5c27d71d9ec58a2199f39d5ec7
+SHA512: 444084a78fa2c53aac8a0718e58223c7d73c3f78a8e98ea118e4f5c0b98e05227be3365728c00fad873e455a30041c1200c89dac717548721b384592da9c3d79
+Homepage: http://www.deepin.org
+Description: Deepin Tool Kit QML Controls example.
+ This package contains a applicatioin.
+

@@ -1,0 +1,22 @@
+Package: libimageeditor6
+Architecture: riscv64
+Version: 6.5.1
+Priority: optional
+Section: utils
+Source: image-editor
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 12255
+Depends: libc6 (>= 2.38), libdtk6core (>= 6.0), libdtk6gui (>= 6.0), libdtk6widget (>= 6.0), libgcc-s1 (>= 3.4), libqt6concurrent6 (>= 6.1.2), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.3.0), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6svg6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 14), libtiff6 (>= 4.0.3)
+Recommends: libqt6libqgtk2, kimageformat6-plugins, deepin-ocr, ffmpegthumbnailer, ffmpeg
+Conflicts: libimage-viewer
+Replaces: libimage-viewer
+Filename: ./l/libimageeditor6/libimageeditor6_6.5.1_riscv64.deb
+Size: 909472
+MD5sum: f18bea25e6f1f7b8e130736672b5a084
+SHA1: 776e254f4bb09c03dde4a9bbe61962f3659eba64
+SHA256: f8d98d121a1fbe8bfdaf2a55be6b101bbcff186f9645a1e237acc3e8948d80fb
+SHA512: 66c6e7711e5eae5498dd1eba6ab44a4a54defc54eaeeb3d168fd9866b4b696fc14333b964917c689b39e78732d711edc58710b6adcdb76acd8309bc76a7fbce0
+Homepage: http://www.deepin.org
+Description: Image Viewer library.
+ Deepin Image Viewer library.
+

@@ -1,0 +1,18 @@
+Package: dde-dock-dev
+Architecture: riscv64
+Version: 4.15.2
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 32
+Filename: ./d/dde-dock-dev/dde-dock-dev_4.15.2_riscv64.deb
+Size: 5792
+MD5sum: c63597c3c2bfd34d75524f3021640b5a
+SHA1: 65828a49aeb7cb36c599f1c5f5b074df319c4115
+SHA256: ee98015cb61f09456945e6781a0ab678d848a887c1dd09e3def0d9aae9876556
+SHA512: 52ccbb04e1651af62bddf9a27531c81560af0052eb9dc496a3b99f7b1fa45b21312bdb8e50dc91dbe2afb3b94c6f6208f16060199d610938323ce6c65081bea8
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module development files
+ Deepin desktop environment - dock module development files.
+

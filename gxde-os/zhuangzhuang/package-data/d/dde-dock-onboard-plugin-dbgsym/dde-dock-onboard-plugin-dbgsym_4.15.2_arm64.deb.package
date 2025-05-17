@@ -1,0 +1,19 @@
+Package: dde-dock-onboard-plugin-dbgsym
+Architecture: arm64
+Version: 4.15.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 847
+Depends: dde-dock-onboard-plugin (= 4.15.2)
+Filename: ./d/dde-dock-onboard-plugin-dbgsym/dde-dock-onboard-plugin-dbgsym_4.15.2_arm64.deb
+Size: 834944
+MD5sum: 26f0df1eea257c6649b1e578d4c0480c
+SHA1: 0c6270f00f8666d8be49336e3c8aad0ea9acf34d
+SHA256: fd96e8fe24200a0d60b178eb1b983b56474fb80d1fcacf285d50c852a55faabd
+SHA512: d9b17c340197e7a99d67460afd6db95dae62283ba4335f079338856020ae883dcdde6e2a80732ed46ec118c222951db717a82ea7d10dcfd9f1f96c08cb19e245
+Description: debug symbols for dde-dock-onboard-plugin
+Build-Ids: 56acbfc9c772779eb55bdd55f6b448084dbda84b
+

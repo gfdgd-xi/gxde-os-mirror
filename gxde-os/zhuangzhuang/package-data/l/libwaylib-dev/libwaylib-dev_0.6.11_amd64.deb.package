@@ -1,0 +1,19 @@
+Package: libwaylib-dev
+Architecture: amd64
+Version: 0.6.11
+Priority: optional
+Section: libdevel
+Source: waylib
+Maintainer: JiDe Zhang <zhangjide@deepin.org>
+Installed-Size: 212
+Depends: libwaylib (= 0.6.11), libwlroots-0.18-dev, qt6-base-dev-tools (>= 6.6.0), qt6-base-private-dev (>= 6.6.0), qt6-declarative-private-dev (>= 6.6.0), wlr-protocols
+Filename: ./l/libwaylib-dev/libwaylib-dev_0.6.11_amd64.deb
+Size: 29452
+MD5sum: 4779629a82755b6e4a97ec1fe4f83a1e
+SHA1: 0a80a3bf17084e76f8211d0272700d81100bb278
+SHA256: 729193c4d24fe3218048d910ddc9392468ec1190e2e6002fafde782e1d11515b
+SHA512: 90e4e06cc02ce083ec1efa8542c15964310a83559344f01c7f52635ff26f5ba84302a2d67ccfaaabfe62c7d25636bcf775f4cabd6480c1465e49f8ce7cd0fb36
+Description: A devel package for libwaylib
+ .
+ This package contains the header files and static libraries of waylib.
+

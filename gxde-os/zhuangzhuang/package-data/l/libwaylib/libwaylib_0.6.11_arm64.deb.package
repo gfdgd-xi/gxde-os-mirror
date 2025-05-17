@@ -1,0 +1,20 @@
+Package: libwaylib
+Architecture: arm64
+Version: 0.6.11
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: waylib
+Maintainer: JiDe Zhang <zhangjide@deepin.org>
+Installed-Size: 3135
+Depends: libc6 (>= 2.33), libdrm2 (>= 2.4.113), libegl1, libgcc-s1 (>= 3.0), libopengl0, libpixman-1-0 (>= 0.25.2), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.4.0), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.7.2), libstdc++6 (>= 14), libwayland-server0 (>= 1.20.92), libwlroots-0.18 (>= 0.18.0), libxcb1, libxkbcommon0 (>= 0.5.0), qt6-base-private-abi (= 6.8.2), qt6-declarative-private-abi (= 6.8.2)
+Filename: ./l/libwaylib/libwaylib_0.6.11_arm64.deb
+Size: 556892
+MD5sum: 84f26a8882cd4461a72e0cc64f17f11b
+SHA1: e9eeca71ac488f243a94619f7bbf982305773439
+SHA256: f0f14ab6a88a525b9c16d1bd8f93d458e4ebd6032efba6f0eb3fe038fca2d7a6
+SHA512: fd4fbd2113b3f499e0a055c35aa3a44f264492add2e3d39f8b918b8566ed525854bbbcbff4bec347342340756d28ff58dd4830d1a17f7cd4239047b82ece8729
+Description: A wrapper for wlroots based on Qt
+ .
+ This package contains the shared libraries.
+
