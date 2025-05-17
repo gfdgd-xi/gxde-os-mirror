@@ -1,0 +1,19 @@
+Package: dde-cooperation-dev
+Architecture: i386
+Version: 1.1.1
+Priority: optional
+Section: libdevel
+Source: dde-cooperation
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 98
+Depends: dde-cooperation (= 1.1.1)
+Filename: ./d/dde-cooperation-dev/dde-cooperation-dev_1.1.1_i386.deb
+Size: 16440
+MD5sum: eabc2c00da9dc7dd3d7ce6098a73d072
+SHA1: d1c0334fc1f209677e7b768c82273ba0a442895a
+SHA256: 4964d3072f4bddfdfb9e5a7f7ba2190cc2c8d6a532ecb5ca348c087575e4d22f
+SHA512: 3f03205ba48d76c3447b57b953dc7d3544e2146940ae524db49fb9221e1e7422aabfc62d4de08edcef05cbcbe42d19c069f9b9e3cf6c129069611d95d1a96293
+Homepage: http://www.deepin.org
+Description: Development package for deepin cooperation application
+ This package contains the header files and static libraries
+

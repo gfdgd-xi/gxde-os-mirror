@@ -1,0 +1,20 @@
+Package: dde-cooperation-transfer
+Architecture: amd64
+Version: 1.1.1
+Priority: optional
+Section: utils
+Source: dde-cooperation
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 4127
+Depends: dde-cooperation, libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.11.0~rc1), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 11), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4)
+Replaces: dfmplugin-cooperation
+Filename: ./d/dde-cooperation-transfer/dde-cooperation-transfer_1.1.1_amd64.deb
+Size: 3103656
+MD5sum: 7546fa0dc768df07f0bf4d71308186ac
+SHA1: 1967b4f566cd2af4c648ebd5bebd69096185f24c
+SHA256: d966a790ea4be06e00d412dc194eefbadbe3553d7c1969f588279d6b09a89732
+SHA512: 9a5e9d1715bb35adbc4ad92e8bd3a3e58471cdae0049d472e739bdb2915bab2acc861f3ce336353531a6147ba9279beeb7eaab63e604fc9181e5fee6ae15544d
+Homepage: http://www.deepin.org
+Description: deepin file delivery
+ Deepin Desktop Environment (DDE) - file transfer application.
+

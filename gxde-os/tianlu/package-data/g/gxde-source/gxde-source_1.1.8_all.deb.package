@@ -1,0 +1,17 @@
+Package: gxde-source
+Architecture: all
+Version: 1.1.8
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 19
+Conflicts: deepin-desktop-base (<< 2024.09.01)
+Filename: ./g/gxde-source/gxde-source_1.1.8_all.deb
+Size: 4444
+MD5sum: 39b234ff30d65604126da7cda1eb2bd4
+SHA1: e589f9ad113aa082010b1c1bb6a1328a0069baf0
+SHA256: 844e12e20fa8e3fd9e3eccb02d1f00620954860c645d7aa1c4200fcf09e6ca08
+SHA512: 753cf501e720e926abdc07da625876cc2eb4c6d99bee119bcb10fbbfb2bfb90be748ef88730cd8debcf840a3dc63fd5df4e0000016615cd7364b91c2c1123e8e
+Homepage: https://gitee.com/GXDE-OS/gxde-source
+Description: GXDE Source
+

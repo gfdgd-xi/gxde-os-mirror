@@ -1,0 +1,20 @@
+Package: libqt6wlshellintegration6-dbgsym
+Architecture: mips64el
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 517
+Depends: libqt6wlshellintegration6 (= 6.4.2-5~bpo12+1)
+Filename: ./l/libqt6wlshellintegration6-dbgsym/libqt6wlshellintegration6-dbgsym_6.4.2-5~bpo12+1_mips64el.deb
+Size: 429180
+MD5sum: 159834426f4891cf93ea6662ba118241
+SHA1: 230db5ef885ba58b9cb26f8a340ff136200eb9cd
+SHA256: 87d453b00be4a2fae918b95c8bd5618be662fe96a77b0a9bd7d79f18d0dec219
+SHA512: 5391cb68e91390192d148356bc7b44d2dc039ab0889a6b0c980d7f6749cea748fa06fe956a46e77837c5cfe9e74b54db6af0cc911a4f951104e33613f70be5fc
+Description: debug symbols for libqt6wlshellintegration6
+Build-Ids: ddcd8a29312af0e408878af4890ddeb5cb2ad5c3
+

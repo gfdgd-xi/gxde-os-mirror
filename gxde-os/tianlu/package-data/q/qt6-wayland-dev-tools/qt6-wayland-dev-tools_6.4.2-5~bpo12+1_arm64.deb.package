@@ -1,0 +1,26 @@
+Package: qt6-wayland-dev-tools
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 93
+Depends: libc6 (>= 2.34), libqt6core6 (>= 6.4.2+dfsg~), libstdc++6 (>= 5)
+Filename: ./q/qt6-wayland-dev-tools/qt6-wayland-dev-tools_6.4.2-5~bpo12+1_arm64.deb
+Size: 26356
+MD5sum: 9644bccde7a384b29e467ba70aa6b782
+SHA1: 310ac7f67f1edc55d05f874dc49cc8b9e4880b61
+SHA256: 1e036a9d5c8b556db51604b26a02b061844353e0666ed06b5edd6cc391adfdc3
+SHA512: 689d97ddc211fcbfcdd3ca0b0983165197e979ab9474a13bc20adcac1593a3029bd3651aa2853310b9dee7484bf0c6c83b6e065f2a3ff556f8aff0944d834f94
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland developer tools
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ QtWayland is a Qt 6 module that wraps the functionality of Wayland.
+ .
+ This package contains the QtWayland developer tools.
+ At the moment there is only qtwaylandscanner tool here.
+

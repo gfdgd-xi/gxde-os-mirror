@@ -1,0 +1,17 @@
+Package: gxde-kglobalacceld
+Architecture: i386
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 14
+Depends: gxde-k9 (>= 1.6.0), kglobalacceld
+Filename: ./g/gxde-kglobalacceld/gxde-kglobalacceld_1.0.0_i386.deb
+Size: 2556
+MD5sum: b226b025d9f5a9eb9840b0ee6f3739e7
+SHA1: a8dc3ba34fe3c12e6a4a436571d96ac8f6c16d7b
+SHA256: 37388e5d47c44db150091d52932246f3ba4c80e987588c9ee095ddefd1bed989
+SHA512: a4575aa794e6b5ee28ec916ea6cbf045cb093c3e84ecdb1d2cb220dbc7cceb802aab2739726fb0cdc73b8c2044e20702a0d6a6cade62828f24cae3518b725cba
+Homepage: https://gitee.com/GXDE-OS/gxde-kglobalacceld
+Description: An daemon held by gxde-k9 to launch kglobalacceld
+

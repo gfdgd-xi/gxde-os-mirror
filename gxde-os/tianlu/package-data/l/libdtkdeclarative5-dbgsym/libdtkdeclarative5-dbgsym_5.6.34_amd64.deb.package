@@ -1,0 +1,20 @@
+Package: libdtkdeclarative5-dbgsym
+Architecture: amd64
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8951
+Depends: libdtkdeclarative5 (= 5.6.34)
+Filename: ./l/libdtkdeclarative5-dbgsym/libdtkdeclarative5-dbgsym_5.6.34_amd64.deb
+Size: 8701964
+MD5sum: d658cf85f5730118cdf6aa4751b66e1e
+SHA1: c990eb38b0dbf7b412b191d3959a2465706523b8
+SHA256: be9a2cf3bce8fd919b586fcc51bb4c811074aba1cc32e4db28de10236617e871
+SHA512: 10fccd4d49be3dde553d8f811adc8ec37b5604a9e0c90420c8188817454aba0970ae9486d1db55434197e4a39518c4e7fcb8b0b98124a1cc55347224b2c1ad47
+Description: debug symbols for libdtkdeclarative5
+Build-Ids: c1dab439fe725a249cc37d6dcd132da233aac7d6 f4c01004ed39e261e6e2a03f26b2229ef6942d30
+

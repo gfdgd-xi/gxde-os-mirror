@@ -1,0 +1,19 @@
+Package: libdtkwidget-bin-dbgsym
+Architecture: mips64el
+Version: 2:2.3.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkwidget2
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 257
+Depends: libdtkwidget-bin (= 2:2.3.2)
+Filename: ./l/libdtkwidget-bin-dbgsym/libdtkwidget-bin-dbgsym_2.3.2_mips64el.deb
+Size: 246000
+MD5sum: ab5a74b7fb193be618422dda34d4462e
+SHA1: 63ef1dc1508cb325f598d9fe9839e30095921a49
+SHA256: 98edb4627425dab7db3aca89e25aca0c077a658b13423efdf9b780004f567009
+SHA512: 08acac3c8ae1faaf694ed03d03c86f440459063eb9f493baef594d6becd4777fde5f304b754d8d2b20f8d43ef8069c9675732e6668c2cbf1d8a1364486196723
+Description: debug symbols for libdtkwidget-bin
+Build-Ids: 408b9e503c38b55f0c66d54e711b2bc4f0d29daf
+

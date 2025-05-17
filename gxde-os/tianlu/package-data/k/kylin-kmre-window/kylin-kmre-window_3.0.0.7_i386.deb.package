@@ -1,0 +1,20 @@
+Package: kylin-kmre-window
+Architecture: i386
+Version: 3.0.0.7
+Priority: optional
+Section: x11
+Maintainer: xiehuijun <xiehuijun@kylinos.cn>
+Installed-Size: 9637
+Depends: libasound2 (>= 1.0.16), libavcodec60 (>= 7:6.0), libavformat60 (>= 7:6.0), libavutil58 (>= 7:6.0), libc6 (>= 2.34), libdrm2 (>= 2.4.75), libegl1, libgcc-s1 (>= 7), libgles2, libgsettings-qt1 (>= 0.1+14.04.20140408), libkf5waylandclient5 (>= 4:5.35.0), libprotobuf32 (>= 3.21.12), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5waylandclient5 (>= 5.10.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.7.0), libqt5xml5 (>= 5.1), libsdl2-2.0-0 (>= 2.0.12), libstdc++6 (>= 12), libswscale7 (>= 7:6.0), libwayland-client0 (>= 1.20.0), libx11-6, libxcb-dri2-0, libxcb-dri3-0, libxcb1, libxext6, libxfixes3, libxinerama1 (>= 2:1.1.4), libxtst6, qtbase-abi-5-15-8, qtwayland-client-abi-5-15-8, dconf-gsettings-backend | gsettings-backend, kylin-kmre-display-control (>= 2.4.1), libkylin-kmre-emugl (>= 2.4.1), libqt5multimedia5-plugins, binfmt-support
+Conflicts: kydroid-display-window, kydroid-update-installer, kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data, kylin-kydroid-updates, startapp
+Replaces: kydroid-display-window, kydroid-update-installer, kylin-kydroid-updates, startapp
+Filename: ./k/kylin-kmre-window/kylin-kmre-window_3.0.0.7_i386.deb
+Size: 4294088
+MD5sum: b0d9ca4eaccdfd1e7cdc9556ac1207ce
+SHA1: 661d7f4d77517b0f67fe22320a38a1fcc3a55819
+SHA256: 43a4ad53ab35a5bc650e2888a330252f53fc8a5a6cc9adc712b60a2ba5dafca5
+SHA512: 1432e5ab5de917a6272e18378c4c605344f6d67a6ee01b0e1266d6899a6f93342344d8889002cca1531ea1fa74afcaa95015a5c9893130e9e579aaefe2a4744b
+Homepage: https://www.kylinos.cn
+Description: A qt window to show android app
+ A qt window to show android app
+

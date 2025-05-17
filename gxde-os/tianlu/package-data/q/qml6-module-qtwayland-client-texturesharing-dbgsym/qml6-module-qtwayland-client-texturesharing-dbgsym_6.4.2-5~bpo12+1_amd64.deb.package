@@ -1,0 +1,20 @@
+Package: qml6-module-qtwayland-client-texturesharing-dbgsym
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 674
+Depends: qml6-module-qtwayland-client-texturesharing (= 6.4.2-5~bpo12+1)
+Filename: ./q/qml6-module-qtwayland-client-texturesharing-dbgsym/qml6-module-qtwayland-client-texturesharing-dbgsym_6.4.2-5~bpo12+1_amd64.deb
+Size: 653724
+MD5sum: 97e4ac5bd5276d9a4e5315d4ff5b8500
+SHA1: f590db67a49452292f35bba0bba350bf92adaf01
+SHA256: ebc21e0cf2f05cf8ae90b4cfe5cc0ef01a7eb42bae62d710e79ed4aaf776419c
+SHA512: e8fb5927ec617008e513e04b75f2034ac8ce9d5d962a802896f54407288effbb7e4aa31d366846183d3155d9bda810fc5d978bdfdab526513ce41989a29a2b1e
+Description: debug symbols for qml6-module-qtwayland-client-texturesharing
+Build-Ids: 424db5e1eb9374fdfc3c00d605577636367e8570
+

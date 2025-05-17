@@ -1,0 +1,19 @@
+Package: dde-qt6xcb-plugin-dbgsym
+Architecture: loong64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-qt6platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8058
+Depends: dde-qt6xcb-plugin (= 6.0.34)
+Filename: ./d/dde-qt6xcb-plugin-dbgsym/dde-qt6xcb-plugin-dbgsym_6.0.34_loong64.deb
+Size: 7988812
+MD5sum: ceb192c07be144ba58dce16fc889d98e
+SHA1: ce828a5d3384da5c25c2e5a2e7993df7fe54ab09
+SHA256: 5562a5cd91330b5ced25fb8efef156b0e05ac1381fc38309b957ecbe4dcfb593
+SHA512: ef988b309233f1e42e170acd0203d32f4195ed2b8c042863d69d904634c3c9afed06ba45ca1b858686e7b4c82b478bbfa2ef49d82af28734c67270a5c2f2ec95
+Description: debug symbols for dde-qt6xcb-plugin
+Build-Ids: 8ff0d606fc1a8b3ed1984c0981490c936ef0a3a3
+

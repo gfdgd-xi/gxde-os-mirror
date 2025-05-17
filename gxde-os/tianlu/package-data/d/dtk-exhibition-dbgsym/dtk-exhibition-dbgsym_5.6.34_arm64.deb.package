@@ -1,0 +1,19 @@
+Package: dtk-exhibition-dbgsym
+Architecture: arm64
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 237
+Depends: dtk-exhibition (= 5.6.34)
+Filename: ./d/dtk-exhibition-dbgsym/dtk-exhibition-dbgsym_5.6.34_arm64.deb
+Size: 221660
+MD5sum: e5c9f63449196cd90ecb50b3a083738a
+SHA1: b6fa73d2d9a2e3c25c7090f131d277c4e557d879
+SHA256: d86ceb4eaefcc605cc6d5b77c75cfb8490e3202929bfcc159296d3e02f8f3164
+SHA512: 7f0c060e1d1de1b4e88917913c8ac21ca711ca18857c2e536a7f4b8467a5acd6ea60150c6759d2d3d42caea7029adf7656bdd6658115b0fb847df026a535bd06
+Description: debug symbols for dtk-exhibition
+Build-Ids: ea43543a0d3657d86dc11549b3b8bcf9c608e3d9
+

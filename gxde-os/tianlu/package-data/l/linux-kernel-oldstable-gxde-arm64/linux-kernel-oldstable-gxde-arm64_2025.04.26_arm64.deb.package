@@ -1,0 +1,18 @@
+Package: linux-kernel-oldstable-gxde-arm64
+Architecture: arm64
+Version: 2025.04.26
+Priority: optional
+Section: utils
+Source: linux-kernel-gxde
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Depends: linux-image-arm64, linux-headers-arm64
+Filename: ./l/linux-kernel-oldstable-gxde-arm64/linux-kernel-oldstable-gxde-arm64_2025.04.26_arm64.deb
+Size: 2428
+MD5sum: 60d1d3a2e2229bac2d439a1fd0e5ca84
+SHA1: efca3af73d693f898056d099f5c8438736a38658
+SHA256: d6a006fcb824f228b74bfc2ffd1878bc6ef9e38ed9b7df75fdf7a1c3a06b4395
+SHA512: 5b3bb68b81a93f8e2487f422414d03070a26f5ceff38274a4ffe69dfd0c8abe0c16f569f53a24e01a073a80220c434d0640a87d58a2a35e8722c4e3b4dfdb6fe
+Homepage: https://gitee.com/GXDE-OS/linux-kernel-gxde
+Description: GXDE Kernel For arm64 (debian)
+

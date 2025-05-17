@@ -1,0 +1,23 @@
+Package: dde-control-center
+Architecture: mips64el
+Version: 4.13.1
+Priority: optional
+Section: admin
+Maintainer: gfdgd xi <3025613752@qq.com>,shenmo <shenmo@spark-app.store>
+Installed-Size: 22002
+Provides: gxde-control-center
+Depends: libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libdde-network-utils, libdframeworkdbus2 (>= 6.1.0~gxde1), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libkf5networkmanagerqt6 (>= 5.6.0), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.15.1), libqt5network5 (>= 5.5.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 11), libxext6, gxde-account-faces, dde-daemon, dde-api (>= 2.92.1), xkb-data, deepin-installer-timezones, passwd, gxde-top-panel, systemd-timesyncd, garma, gxde-shell-tools, gxde-app-uninstaller (>= 1.2.0), transhell, wireplumber, libspa-0.2-bluetooth
+Recommends: netselect, x11vnc, gxde-live-local, fantascene-dynamic-wallpaper | fantascene-gxde
+Suggests: redshift
+Conflicts: dde-control-center-plugin-notify, dde-control-center-plugin-weather
+Replaces: dde-control-center-plugin-notify, dde-control-center-plugin-weather
+Filename: ./d/dde-control-center/dde-control-center_4.13.1_mips64el.deb
+Size: 4630660
+MD5sum: 2ab8914c80a63384fc63f6335750ebc9
+SHA1: dc780aeb3e60f2dbdf8af0b36d2a6ee4367c8975
+SHA256: 0223dfca76b4a8c6a90e9dbe96b0c17053500080388c313786346c28a1c11fd0
+SHA512: 06053b7a09da2673516c72a1d333d32b45a0eaecaaf77c9bfbd5f604f0a698125c614051a1e5750421e8b79da85cd6178863bde3360f90f039f0e46c859f6af4
+Homepage: https://gitee.com/GXDE-OS/dde-control-center
+Description: New control center for GXDE Desktop Environment
+ GXDE Control Center is the control panel of GXDE Desktop Environment.
+

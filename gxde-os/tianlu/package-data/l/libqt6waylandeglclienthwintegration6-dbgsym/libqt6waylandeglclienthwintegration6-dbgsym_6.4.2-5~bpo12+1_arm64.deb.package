@@ -1,0 +1,20 @@
+Package: libqt6waylandeglclienthwintegration6-dbgsym
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 444
+Depends: libqt6waylandeglclienthwintegration6 (= 6.4.2-5~bpo12+1)
+Filename: ./l/libqt6waylandeglclienthwintegration6-dbgsym/libqt6waylandeglclienthwintegration6-dbgsym_6.4.2-5~bpo12+1_arm64.deb
+Size: 413868
+MD5sum: b8253bd7364f47e091534eb16b9f9cd9
+SHA1: 804563feffa0c89c48143ba941ea255ae419bd2b
+SHA256: e55087af617fbfc305c4901d302f27ad497708b45e35824b8909501c3e0966f3
+SHA512: 2ad36bacce3004e223fae57a2697a489eabdad9020ad31b7a07a669927cebbf82bfc0cfe804fbfd14c2b3268c44f25589894b72a0677f132343e8f775307f6ee
+Description: debug symbols for libqt6waylandeglclienthwintegration6
+Build-Ids: dae0226a6b85b1995f407d656e50e08fa5b4c5ed
+

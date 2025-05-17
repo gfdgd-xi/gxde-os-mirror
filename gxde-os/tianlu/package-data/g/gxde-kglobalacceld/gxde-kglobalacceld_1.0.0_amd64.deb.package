@@ -1,0 +1,17 @@
+Package: gxde-kglobalacceld
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 14
+Depends: gxde-k9 (>= 1.6.0), kglobalacceld
+Filename: ./g/gxde-kglobalacceld/gxde-kglobalacceld_1.0.0_amd64.deb
+Size: 2560
+MD5sum: 7531dad8e0ce07b952ef7aeac0a2e41e
+SHA1: 1a0ca4697b4ab63dd058532c5af3818f3b75b90a
+SHA256: eb07a8d469e855f7932ea3d69ab8898a7835230b76b85112984c9158003c5c2c
+SHA512: 32613e170393be8f18d88c792ccff5386059b1a640003e8c96e4aad42b6c0ca52daa1e9128a9b690c4ed12d0531c41ffade09cc9f5c20ae39c25a40cb7978cee
+Homepage: https://gitee.com/GXDE-OS/gxde-kglobalacceld
+Description: An daemon held by gxde-k9 to launch kglobalacceld
+

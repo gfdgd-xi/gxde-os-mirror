@@ -1,0 +1,20 @@
+Package: libdde-file-manager-dev
+Architecture: mips64el
+Version: 4.8.41
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 262
+Depends: libdde-file-manager (= 4.8.41)
+Filename: ./l/libdde-file-manager-dev/libdde-file-manager-dev_4.8.41_mips64el.deb
+Size: 35180
+MD5sum: 563a411cc4feae4088f23aa423af62cf
+SHA1: 3be66872ad7b3d046344c6a557cfe4a4a0bfba16
+SHA256: 2f0cf7e6d3be37d051b0857c519b74952111541b6e43c1fa1aa24008dd5d6edf
+SHA512: f762828a41dca30a1de7e8a90a7823ded619fabe3815101cc7bd5bf9734b79406282033a42d2d61420fb8fb9c96640b71be4b80cc8498b0e4c5d78a255b550cd
+Homepage: http://www.deepin.org
+Description: DDE File Manager Devel library
+ This package contains the header files and static libraries
+ of libdde-file-manager
+

@@ -1,0 +1,24 @@
+Package: qml6-module-qtwayland-client-texturesharing
+Architecture: i386
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 85
+Depends: libc6 (>= 2.4), libqt6core6 (>= 6.4.2+dfsg~), libqt6gui6 (>= 6.4.2+dfsg~), libqt6opengl6 (>= 6.4.2+dfsg~), libqt6qml6 (>= 6.4.2+dfsg~), libqt6quick6 (>= 6.4.2+dfsg~), libqt6waylandclient6 (>= 6.2.2), libstdc++6 (>= 5), libwayland-client0 (>= 1.20.0), qt6-base-abi (= 6.4.2)
+Filename: ./q/qml6-module-qtwayland-client-texturesharing/qml6-module-qtwayland-client-texturesharing_6.4.2-5~bpo12+1_i386.deb
+Size: 25156
+MD5sum: 5562cbc5e204762d78622f1766f4e6e6
+SHA1: 6c98fb5e735bd4174900e9b8f29bebb0fcdceb13
+SHA256: 951a6270120109d33b4339184504c14e4d307549019b3b87324d32823fd588ca
+SHA512: ce91a00de4070aee547b4b5b44e7f52a056bb51f70c10ee622dafd77ac8fa2dcd2206576dc5bc1b415c1b8458178febaad73a37a949631f661e67c5ec014f8eb
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland Shared Texture Provider QML module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This module allows Qt Wayland clients to use graphical resources exported
+ by the compositor, without allocating any graphics memory in the client.
+

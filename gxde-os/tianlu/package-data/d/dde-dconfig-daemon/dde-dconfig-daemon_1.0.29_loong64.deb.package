@@ -1,0 +1,20 @@
+Package: dde-dconfig-daemon
+Architecture: loong64
+Version: 1.0.29
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 566
+Depends: libc6 (>= 2.41), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libstdc++6 (>= 14), systemd | systemd-standalone-sysusers | systemd-sysusers
+Conflicts: dconfig-daemon
+Replaces: dconfig-daemon
+Filename: ./d/dde-dconfig-daemon/dde-dconfig-daemon_1.0.29_loong64.deb
+Size: 130692
+MD5sum: 7292f3e3f0ba532d182f8d7850bd36b9
+SHA1: f8910f214e67001b18c87c499a13effb1eee8f9c
+SHA256: 38cda1bd1450c81da6aed12e88b2e211d2f30f1643222b177c50274ac03dba5d
+SHA512: 3854b79495d4293ed7851bf9db94e172131b24b41971acbfa14efa5dd713d930b8d28f377fdae0fc6740fc191b967ce95f05b358722da84131522c67d41ef32d
+Description: deepin desktop-environment - dde-dconfig-daemon module
+ dde-dconfig-daemon provids dbus service for reading and writing DSG configuration.
+

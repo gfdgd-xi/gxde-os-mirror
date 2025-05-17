@@ -1,0 +1,19 @@
+Package: ddm
+Architecture: loong64
+Version: 0.1.10
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Maintainer: justforlxz <zhangdingyuan@deepin.org>
+Installed-Size: 1137
+Depends: libc6 (>= 2.41), libddm (>= 0.1.10), libgcc-s1 (>= 3.0), libpam0g (>= 0.99.7.1), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libqt6network6 (>= 6.6.1~), libqt6qml6 (>= 6.6.1~), libstdc++6 (>= 13.1), libsystemd0, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtqml-workerscript, qml6-module-qtquick-templates, qml6-module-qtquick-particles, qml6-module-qtquick-dialogs, qml6-module-qtquick-window, qml6-module-qt5compat-graphicaleffects, qml6-module-qtquick-effects, qml6-module-qt-labs-folderlistmodel, adduser, seatd, qt6-wayland, libqt6svg6
+Recommends: libpam-systemd, xwayland
+Filename: ./d/ddm/ddm_0.1.10_loong64.deb
+Size: 244992
+MD5sum: 845cc6a3272deb5594bf75b9dab77aee
+SHA1: 3a73fcf0aa7b629ffe864cc104ffcde3fb42afe5
+SHA256: 1f641e33b4a46b5967ab07b6ec765af7e5f945a6cb2f53055e0d6c61056d91c1
+SHA512: 8fac7d1cbaceecbcecf2346f2e4765c9b09ed70b1329e6edad6d12d59bf5b39e0954a96668ede825c02295714be57b9291037e5185e5c5ce5ff79ee78a76757f
+Homepage: https://github.com/linuxdeepin/ddm.git
+Description: a modern display manager for Wayland sessions aiming to be fast, simple and beautiful.
+

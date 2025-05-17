@@ -1,0 +1,19 @@
+Package: deepin-anything-server
+Architecture: i386
+Version: 6.1.9-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 425
+Depends: deepin-anything-dkms, libpcre3
+Filename: ./d/deepin-anything-server/deepin-anything-server_6.1.9-1_i386.deb
+Size: 123140
+MD5sum: 7b192c42b117859dec99672839d09831
+SHA1: 61e2c45e68d985b71b323644773e95669f89476f
+SHA256: b66e1e038864db4a1ae3c8107d82d0d26719a25222fcffc33bc90c8c5abe37da
+SHA512: 2d54e839eb22d15a9151b45121276052a83f66d39d5aeb127b49a67a32260bfad8db49fc3df96aca4afd3bdec87b2412acb375d0dcadf75e4beaae7434338a60
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything server application and lib
+ anything server package
+

@@ -1,0 +1,26 @@
+Package: qt6-wayland
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 1500
+Depends: libc6 (>= 2.17), libegl1, libopengl0, libqt6core6 (>= 6.4.2+dfsg~), libqt6gui6 (>= 6.4.2+dfsg~), libqt6opengl6 (>= 6.4.2+dfsg~), libqt6waylandclient6 (>= 6.4.0), libqt6waylandcompositor6 (>= 6.2.2), libqt6waylandeglclienthwintegration6 (>= 6.2.2), libqt6waylandeglcompositorhwintegration6 (>= 6.2.2), libqt6wlshellintegration6 (>= 6.2.2), libstdc++6 (>= 5), libwayland-client0 (>= 1.20.0), libwayland-server0 (>= 1.8.0), qt6-base-abi (= 6.4.2)
+Filename: ./q/qt6-wayland/qt6-wayland_6.4.2-5~bpo12+1_arm64.deb
+Size: 113148
+MD5sum: 8b2b25db353b638e1eeced557470934d
+SHA1: 6e26294edf660288874fa12727c87e5a8a6179e3
+SHA256: c5c68584083b7afa5f58f987c235d72822fa8e6969ac07fa07dce7b975bb9372
+SHA512: 0318f63612492c8ec6268266b7d92b60669013f6641fd54942230d70a8c334d2329891ecd3944d059be51db16819f02c54b466935df8efd412d09ca812089d3d
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland platform plugin
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ QtWayland is a Qt 6 module that wraps the functionality of Wayland.
+ .
+ This package contains the QtWayland platform plugin, which allows users
+ to run Qt 6 applications under Wayland, and the qtwaylandscanner
+ binary.
+

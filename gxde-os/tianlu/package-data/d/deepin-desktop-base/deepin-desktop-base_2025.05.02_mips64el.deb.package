@@ -1,0 +1,21 @@
+Package: deepin-desktop-base
+Architecture: mips64el
+Version: 2025.05.02
+Priority: optional
+Section: misc
+Maintainer: gfdgd xi<3025613752@qq.com>, shenmo <shenmo@spark-app.store>, Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 171
+Provides: deepin-appstore-config, gxde-install-source
+Depends: deepin-keyring, distro-info-data, eject, fonts-noto, fonts-symbola, base-files (>= 12.4+deb12u10), systemd (>= 256.5-2) | systemd (<< 254.22-1~bpo12+1) | gxde-bpo-source
+Recommends: gxde-source, tela-grub2-themes
+Conflicts: deepin-desktop-server, gxde-install-source
+Replaces: gxde-install-source
+Filename: ./d/deepin-desktop-base/deepin-desktop-base_2025.05.02_mips64el.deb
+Size: 74740
+MD5sum: 57f235aa9d841f87ee84442daddd3ece
+SHA1: 65bc0ecfd5cc4c7078a2ca0ff965692f71f94e35
+SHA256: 0de64ba835c9ebf1fe8c64924700503b80b875f8156955dca6b5b0c2e90c400a
+SHA512: 3af90c9ca68e73e48b5c37993fec5aa0adfbcb20e615b0a410c9f207dcdac021abb66d670a072bab317bf80214738a135decc6e2bd070061cb7687cb2af04938
+Description: The basic file of GXDE Desktop,
+ provides system attribute description for DDE components
+

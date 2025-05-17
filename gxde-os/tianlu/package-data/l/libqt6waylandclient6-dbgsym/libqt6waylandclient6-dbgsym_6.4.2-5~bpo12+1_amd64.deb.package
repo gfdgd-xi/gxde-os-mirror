@@ -1,0 +1,20 @@
+Package: libqt6waylandclient6-dbgsym
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 5827
+Depends: libqt6waylandclient6 (= 6.4.2-5~bpo12+1)
+Filename: ./l/libqt6waylandclient6-dbgsym/libqt6waylandclient6-dbgsym_6.4.2-5~bpo12+1_amd64.deb
+Size: 5582640
+MD5sum: 0f609048768cc6057bde9155c34f6c58
+SHA1: 0990d4fc2c31ba9e0f1cdcd34df2556e2420e5f1
+SHA256: 2ff922fc55b2b9d9d1368a22c2beb4ff31e67784936899477de2a676cf74b064
+SHA512: 3486d6e82bf32abe3bbf2fd942957c92916821b0577bb288b8ad0e05cc85f2044126255f35ce109d1ae545154f19df5e08d4bcbc5d46fb7c5a0ec4fe2949a279
+Description: debug symbols for libqt6waylandclient6
+Build-Ids: e986ffbdc06ee8ac7de45c1a9ca8c67d9ee05e6f
+

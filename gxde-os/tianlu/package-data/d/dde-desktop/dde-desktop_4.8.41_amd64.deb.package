@@ -1,0 +1,21 @@
+Package: dde-desktop
+Architecture: amd64
+Version: 4.8.41
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 4940
+Depends: libc6 (>= 2.34), libdde-file-manager (= 4.8.41), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libxcb-ewmh2 (>= 0.4.1), libxcb-shape0, qtbase-abi-5-15-8, gxde-daemon, gxde-requ
+Recommends: deepin-screensaver, fantascene-dynamic-wallpaper
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-desktop/dde-desktop_4.8.41_amd64.deb
+Size: 1912200
+MD5sum: 8b9dc732ae6aeeab07d36e916bc5d40e
+SHA1: 1c9757adc1cbf156befe64c6de89c7718b11501c
+SHA256: 82380f942ff75721ca0c427d64400eacff8ce63c20e5b0c070f6b0e101f2d3f8
+SHA512: b21bdc2ec90bc27bd3e60188e4db45a82aaf02d169263673606042a0a24f004a6be7d0fb521402bb403799092971ca386251176c8472041f5795e28bf8a74521
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop module
+ Deepin Desktop Environment (DDE) - desktop module.
+

@@ -1,0 +1,23 @@
+Package: qt6-wayland-doc
+Architecture: all
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 865
+Depends: qt6-base-doc
+Filename: ./q/qt6-wayland-doc/qt6-wayland-doc_6.4.2-5~bpo12+1_all.deb
+Size: 617156
+MD5sum: c62edfc588c1e64e4df257db79c21040
+SHA1: 3b56adf4f77727268ff7d6dcbc423b3593bef517
+SHA256: 7d003da6878b9f97df7c9f0d5d624ad90bb535881005167b3b006d9e30639489
+SHA512: 82db66b3bd27fbac231f2da374c4497047599db179761ed7358b9fcd2c48cc301bcae74552b059f8e355720856a4be5e7c055b2f31f1fbf389fc080a4dec138c
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 wayland documentation
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the documentation for the Qt 6 wayland.
+

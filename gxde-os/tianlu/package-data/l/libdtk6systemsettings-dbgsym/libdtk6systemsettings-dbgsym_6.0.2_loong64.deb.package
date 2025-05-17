@@ -1,0 +1,19 @@
+Package: libdtk6systemsettings-dbgsym
+Architecture: loong64
+Version: 6.0.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6systemsettings
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 9652
+Depends: libdtk6systemsettings (= 6.0.2)
+Filename: ./l/libdtk6systemsettings-dbgsym/libdtk6systemsettings-dbgsym_6.0.2_loong64.deb
+Size: 9382656
+MD5sum: fe6e1e2b8322955b2a05962bca8fefb8
+SHA1: 6f1f35ccbe52540e0383fcdc078c368c4dfd754f
+SHA256: a149fcb8e74eb8891e787fca896f3ea1547ba8c32378a76e2c887b751e66dde4
+SHA512: 067d5ac4e6899ba433db771cc74b516e276b794452a1b46cab53777c1340d46d9b38383fd9ae66b5ed9224448d9d54e7d56aa8b43e14804397c2cdb8e2dfce42
+Description: debug symbols for libdtk6systemsettings
+Build-Ids: 92e47a16b851b9b3b37d0ebbcff61456e124cea1
+

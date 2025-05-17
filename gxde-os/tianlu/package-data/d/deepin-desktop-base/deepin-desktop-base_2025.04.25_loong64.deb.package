@@ -1,0 +1,21 @@
+Package: deepin-desktop-base
+Architecture: loong64
+Version: 2025.04.25
+Priority: optional
+Section: misc
+Maintainer: gfdgd xi<3025613752@qq.com>, shenmo <shenmo@spark-app.store>, Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 170
+Provides: deepin-appstore-config, gxde-install-source
+Depends: deepin-keyring, distro-info-data, eject, fonts-noto, fonts-symbola, base-files (>= 12.4+deb12u10), systemd (>= 256.5-2) | systemd (<< 254.22-1~bpo12+1) | gxde-bpo-source
+Recommends: gxde-source, tela-grub2-themes
+Conflicts: deepin-desktop-server, gxde-install-source
+Replaces: gxde-install-source
+Filename: ./d/deepin-desktop-base/deepin-desktop-base_2025.04.25_loong64.deb
+Size: 74424
+MD5sum: e6307d80bd7d7c3cf5178a316b3f6d44
+SHA1: 8041b1b6061da446af335d2636e6fb9a4042ecd6
+SHA256: e34837ce1f57b7677f43b89c1e2e121e367219d972bbc425d1a7e0b12a8b481f
+SHA512: 8a4887193834e2865954f282f8e1d5715f4c5a27586917065d26f47f13ab1f7eebfd49d9ab4cfb595424d86b78223aca97c29a179f233d2eab61be70a54ed1e6
+Description: The basic file of GXDE Desktop,
+ provides system attribute description for DDE components
+

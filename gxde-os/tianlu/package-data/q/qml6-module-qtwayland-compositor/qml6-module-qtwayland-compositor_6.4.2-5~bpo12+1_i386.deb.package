@@ -1,0 +1,24 @@
+Package: qml6-module-qtwayland-compositor
+Architecture: i386
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 486
+Depends: libc6 (>= 2.4), libqt6core6 (>= 6.4.2+dfsg~), libqt6gui6 (>= 6.4.2+dfsg~), libqt6qml6 (>= 6.4.2+dfsg~), libqt6quick6 (>= 6.4.2+dfsg~), libqt6waylandcompositor6 (>= 6.3.0), libstdc++6 (>= 5), libwayland-server0 (>= 1.8.0), qt6-base-abi (= 6.4.2)
+Filename: ./q/qml6-module-qtwayland-compositor/qml6-module-qtwayland-compositor_6.4.2-5~bpo12+1_i386.deb
+Size: 86220
+MD5sum: 4fd97a794d23bf14772380d6aa660df0
+SHA1: b0be0715819d2926b25e8f85c4baa6629c49ac0b
+SHA256: a8d75944a7ec8f91f127cd316e4d14f3f9502b81fed235f90588865bc5d259aa
+SHA512: 2818cb83d874047730f0d91660e7d38f6bceb4c69fe7a987d8afd0192ea7be4f1042ec8b5379e527e0680a4e9a9ef802d1ba6b266ac2b2bbfd529336b6b61a96
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland Compositor QML module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt Wayland Compositor modules provide QML types that can be used to
+ create custom display servers supporting the Wayland protocol.
+

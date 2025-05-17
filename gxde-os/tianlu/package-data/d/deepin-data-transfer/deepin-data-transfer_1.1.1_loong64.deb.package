@@ -1,0 +1,19 @@
+Package: deepin-data-transfer
+Architecture: loong64
+Version: 1.1.1
+Priority: optional
+Section: utils
+Source: dde-cooperation
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 15745
+Depends: libc6 (>= 2.41), libdtkcore5 (>= 5.7.11), libdtkgui5 (>= 5.7.11), libdtkwidget5 (>= 5.7.12), libgcc-s1 (>= 14.2.0-19), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.11.0~rc1), libqt5widgets5t64 (>= 5.11.0~rc1), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libuuid1 (>= 2.16), libzip5 (>= 0.10), zlib1g (>= 1:1.1.4)
+Filename: ./d/deepin-data-transfer/deepin-data-transfer_1.1.1_loong64.deb
+Size: 11441088
+MD5sum: 3071d7069f3fe50d0e6b96f0b6b847b0
+SHA1: 566e40880dcf753ef24994f945b795fc147dcfc9
+SHA256: 66426556f5fe3c7e161c327807cee6d7e2f32e5ce687f0b8775eb102f0961d22
+SHA512: 86fe9b1cf618e32c7f8457b2dab0374555a42424c8a5cc27ed45818710e4f6217c452f20cb311b3dd6e4aad0afff3babbcfac828d8e00105b9e244d4ce450433
+Homepage: http://www.deepin.org
+Description: deepin data transfer application
+ Deepin Desktop Environment (DDE) - data transfer application.
+

@@ -1,0 +1,18 @@
+Package: dde-qt5wayland-plugin
+Architecture: loong64
+Version: 5.6.34
+Priority: optional
+Section: devel
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 537
+Depends: libc6 (>= 2.41), libdwaylandclient5 (>= 5.25.0-kwayland.5.24.3), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5waylandclient5 (>= 5.10.1), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 14), libwayland-cursor0 (>= 1.0.2), libxkbcommon0 (>= 0.5.0), qtbase-abi-5-15-15, qtwayland-client-abi-5-15-15, qtwayland5
+Filename: ./d/dde-qt5wayland-plugin/dde-qt5wayland-plugin_5.6.34_loong64.deb
+Size: 114848
+MD5sum: 1b040f001e8ed86300947411795df7a5
+SHA1: d3934c9a9afc72e503aad12f955acdc3cd404657
+SHA256: d528ec42129dfd9d6beac6be39f0b863f3e7fe172e5a413fdabf3d0af7b47ead
+SHA512: f74f7186bd5c8be4d5449b0b1d456f56fe6173b7bc9bac666901c24bc8ab0f5751eb428f149a91f6430a30d6323941ee485b5a72e4e282484d581c9e8963519f
+Description: Qt platform plugins
+ Qt platform plugins for DDE.
+

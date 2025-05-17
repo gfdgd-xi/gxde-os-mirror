@@ -1,0 +1,19 @@
+Package: dde-dock-dbgsym
+Architecture: arm64
+Version: 4.15.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 26903
+Depends: dde-dock (= 4.15.2)
+Filename: ./d/dde-dock-dbgsym/dde-dock-dbgsym_4.15.2_arm64.deb
+Size: 26816708
+MD5sum: 873b5ce3d7b87dac3b193e24f8bdfbb1
+SHA1: f2b24657d5ab3c4e468624c1c97e6c9f67cbc219
+SHA256: b09615bf5187ecaa4daaec5b7837e6529f7248fb23f256241d83db114d98e4f4
+SHA512: 4e67167c5d9dfe75caaed05856efeed3577f7e6051d34f38747be4a4d27ac0bbee59a599b0c794b10f19af74847a9615e852e331ad8a7c3ec5d91e27315fc9d5
+Description: debug symbols for dde-dock
+Build-Ids: 212ac3b9358dc2b1ef8272becd37a75669674fc9 2e7375e6b24cfb6b373761e9e09607bb6a39d42e 5e0dc173de6dd80eb0fddad166582dd75e572cae 626d9c35bebd0f95b8ebfffbec7e039273c81337 75973dd229ed85bd2b38494c684b7188887f13e2 80a6482eaf0b1dc4ed35d1d4d7d60d26c3156962 9b74fd633d9b33c6db8d141bc234197301f1ba9f b5d63d433b68fbf23052beb17d149df82667e992 bd902c5420e1a91a7143b889f025537024945762 c4b2d419e05cc533435c0344e97588206eb8bc1b d3c367932f7a9f632d7f031c1edee88dc9ee7502 dfaa615fc8992e9b6fbcc614fc7faac9fe6d7117
+

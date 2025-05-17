@@ -1,0 +1,23 @@
+Package: gxde-desktop
+Architecture: all
+Version: 2025.05.07
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Depends: deepin-desktop-base, dde-desktop, dde-dock, dde-control-center (>> 2.90.5), dde-launcher, startdde, dde-session-ui, gxde-artwork, dde-file-manager, dde-qt5integration, eject, gxde-wallpapers, fonts-noto, dde-kwin | gxde-kwin, deepin-screensaver, gxde-default-settings, gxde-shell-tools, gxde-compressor, gxde-introduction
+Recommends: gxde-desktop-extra | gxde-desktop-android, gxde-editor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, gxde-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, gxde-image-viewer, gxde-calendar, gxde-calculator, gxde-voice-recorder, deepin-screen-recorder, warm-sched, deepin-camera, gxde-top-panel, fcitx5-material-color, tela-grub2-themes, plymouth-theme-gxde-logo, fcitx5, fcitx5-table, fantascene-dynamic-wallpaper, x11vnc
+Conflicts: dde-control-center (<< 2.90.5), deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher
+Filename: ./g/gxde-desktop/gxde-desktop_2025.05.07_all.deb
+Size: 3004
+MD5sum: 3df29b64f7445e5191435379aa1bdf5b
+SHA1: 9156d3631968770127f39c19511b55bba2d945a8
+SHA256: 3803497fc1b37f6db0aaef8c074bff213d16f4113739ad46128c9ee680e69ae0
+SHA512: 8bb9831b100020b9bd4d050dc1fae90abcf3a5740a2115c5212424a16156eea33f83e725fa1978c9851c7af500381dfd733f73b6d7d7a8f3f3d2bdebae499ed6
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

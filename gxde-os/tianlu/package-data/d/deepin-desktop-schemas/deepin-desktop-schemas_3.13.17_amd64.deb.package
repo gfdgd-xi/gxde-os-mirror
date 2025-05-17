@@ -1,0 +1,22 @@
+Package: deepin-desktop-schemas
+Architecture: amd64
+Version: 3.13.17
+Priority: optional
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 301
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: deepin-default-gsettings
+Breaks: dde-daemon (<< 2.92.2), deepin-default-gsettings, deepin-wm (<< 0.2.1), startdde (<< 2.91.0)
+Replaces: deepin-default-gsettings
+Filename: ./d/deepin-desktop-schemas/deepin-desktop-schemas_3.13.17_amd64.deb
+Size: 38724
+MD5sum: e659a778d0e80e299edfa2037f9f939f
+SHA1: 68cce67ae160584f742b3d45bafb9b5c987ee382
+SHA256: 86fd6dfef166a06d960a987fe068889fb436ed29347eb0376b6fea1dcbe94b76
+SHA512: eb099c3e15ef24d98893513870e93797c38e631e5eaae9a57c5369a8b9d68c093e2536a222375744864eecf32eaa63295ab8d81388fc97b68c3de3e50ebf20db
+Homepage: http://www.deepin.org/
+Description: GSettings deepin desktop-wide schemas
+ deepin-desktop-schemas contains a collection of GSettings schemas for
+ settings shared by various components of a desktop.
+

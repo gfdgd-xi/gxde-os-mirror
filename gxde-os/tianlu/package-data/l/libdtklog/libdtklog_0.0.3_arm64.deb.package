@@ -1,0 +1,19 @@
+Package: libdtklog
+Architecture: arm64
+Version: 0.0.3
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 210
+Depends: libc6 (>= 2.32), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.6.0~beta), libspdlog1.10-fmt9, libstdc++6 (>= 11), libsystemd0, qtbase-abi-5-15-8
+Filename: ./l/libdtklog/libdtklog_0.0.3_arm64.deb
+Size: 49696
+MD5sum: 533b4603873cb178d0ed02d8689eab7e
+SHA1: 057b1b7c22ea91caa7d8bbd62b4cc7b9dfe12367
+SHA256: c9495ee271d66411a473b93c622fc98de6afde0433c2b3a83e501e3e6edcb06b
+SHA512: 4ba3d40043ddf518aec5ed3f1e63acc5506ab4ea23bd14cb8d57d0eb8c4aab2559615dfd0173f9a6e827cf228df3251885628482afcdc1cc804db8a72d362673
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the shared libraries.
+

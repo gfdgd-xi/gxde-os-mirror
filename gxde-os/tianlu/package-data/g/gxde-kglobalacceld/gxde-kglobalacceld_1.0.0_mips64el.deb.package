@@ -1,0 +1,17 @@
+Package: gxde-kglobalacceld
+Architecture: mips64el
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 14
+Depends: gxde-k9 (>= 1.6.0), kglobalacceld
+Filename: ./g/gxde-kglobalacceld/gxde-kglobalacceld_1.0.0_mips64el.deb
+Size: 2568
+MD5sum: 5d413fd6af41a38ab979dc3a01e88c7f
+SHA1: 997e2c460c1eacb4f74df746319b3828979e6901
+SHA256: 363a3ea944201d3faeebafff0913c2b126e9ca3974efc15630d3797650aa61a9
+SHA512: c050f7a7593c6198a8a0aa70ad40456bb1537a2a9544964311a019dbd9b14643bfe0d91f1f745cc17a2e2eb2ca74053f75c5adb8ba6b839254ff304e1893a064
+Homepage: https://gitee.com/GXDE-OS/gxde-kglobalacceld
+Description: An daemon held by gxde-k9 to launch kglobalacceld
+

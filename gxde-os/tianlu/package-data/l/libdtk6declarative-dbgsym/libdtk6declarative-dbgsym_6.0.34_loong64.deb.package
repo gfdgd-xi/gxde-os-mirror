@@ -1,0 +1,20 @@
+Package: libdtk6declarative-dbgsym
+Architecture: loong64
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 28440
+Depends: libdtk6declarative (= 6.0.34)
+Filename: ./l/libdtk6declarative-dbgsym/libdtk6declarative-dbgsym_6.0.34_loong64.deb
+Size: 27095704
+MD5sum: d032c71063b41c0dbbc30b20ff9b66ad
+SHA1: 0d6c21ed11e35b45f83eb5e56361935bfe6e5008
+SHA256: b6feae709c0b7eefad47000be669e13bac347ccb0c67de11d9de518035973a5a
+SHA512: 07bda0e6a2c3bc9ae07f995d04a195c28f6d04349877eb6c5ed413ee66c92b03d8b35d4c78dfe4c4f37a8a7b6ae4b6241185ff22cabc550d79612a1f8ff812c3
+Description: debug symbols for libdtk6declarative
+Build-Ids: 2b06e680c96d2abba19453b9dcb1dbb520d0b368 4a66b5f0b665a65c45e35cb805ee6db66be5ba1f 5f933061920087327dbd8280c32ff7d223d36d2b fb204ca9a5aeab2a17e168ed6fcb05b9542dd461
+

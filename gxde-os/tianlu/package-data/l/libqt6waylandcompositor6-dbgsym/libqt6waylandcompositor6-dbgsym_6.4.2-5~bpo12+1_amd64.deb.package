@@ -1,0 +1,20 @@
+Package: libqt6waylandcompositor6-dbgsym
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 13961
+Depends: libqt6waylandcompositor6 (= 6.4.2-5~bpo12+1)
+Filename: ./l/libqt6waylandcompositor6-dbgsym/libqt6waylandcompositor6-dbgsym_6.4.2-5~bpo12+1_amd64.deb
+Size: 13445796
+MD5sum: bdacba85ec7ee65aef7511fd96c6ecd6
+SHA1: 9bbe6484d17ea23520468775f95f61f371e4c6f5
+SHA256: 372a2a49b828533d0cd2c19691aefb80765dd6902416450f6e6f05ee98ff17c2
+SHA512: 8be9562814f857fe6e56c12c3fbf3adaf9751823bab983c4a7eec37ca51a38031b5983a97541a70274096f58aee5427619b18a04c891954a3fbbd4545a8fa9d4
+Description: debug symbols for libqt6waylandcompositor6
+Build-Ids: e928e97918e0263a8008e4cb274bc406f4e7cf0b
+

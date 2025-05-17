@@ -1,0 +1,20 @@
+Package: libdtk6systemsettings
+Architecture: loong64
+Version: 6.0.2
+Priority: optional
+Section: libdevel
+Source: dtk6systemsettings
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1832
+Depends: libc6 (>= 2.41), libcrypt1 (>= 1:4.1.0), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libstdc++6 (>= 5.2)
+Filename: ./l/libdtk6systemsettings/libdtk6systemsettings_6.0.2_loong64.deb
+Size: 323744
+MD5sum: 22c9f19dc2c3ade7e5af3fa10b760239
+SHA1: 2f68e7e24349275aa2dc9853b92f8f9311aed1b7
+SHA256: b0f5d9c0682c47e993e04db60ddb7c427d8cb9e8a794ddc15ce1ced24230600d
+SHA512: caa7c89f0ebc07ae6fa5711d95bd3d7bc2a079c2094ed3ffcc6210151a7c61779fc3b8c7dc4c79358543f717f41d3d06a479d6ea603da2fec56b82362a70696e
+Description: Deepin Tool Kit template library
+ libdtk6systemsettings is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

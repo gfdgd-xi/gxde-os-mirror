@@ -1,0 +1,18 @@
+Package: gxde-k9
+Architecture: all
+Version: 1.6.1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 41
+Depends: bash, coreutils
+Filename: ./g/gxde-k9/gxde-k9_1.6.1_all.deb
+Size: 6888
+MD5sum: 4a082c4b06335dec738bd3db8b57bfaa
+SHA1: a921174c919faf901b4a02b2c95c439032242892
+SHA256: a765b7c1d01deb094d9a23a2f163e93ad1ab55cbce814a0efc650e82bd06f335
+SHA512: 8e654d9a12cca03e1588b25e75c1f180240c43846036c12bdb44c6e247c67a2a8d1ca88c0dcd00d99a99b1f4281ae06a35cec587ed06d003f4c2a8e1664fd1c1
+Homepage: https://gitee.com/GXDE-OS/gxde-k9
+Description: A simple timer runner to pull up services based on screen.
+

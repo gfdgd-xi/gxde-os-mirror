@@ -1,0 +1,19 @@
+Package: libdtkwidget-bin-dbgsym
+Architecture: i386
+Version: 2:2.3.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkwidget2
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 252
+Depends: libdtkwidget-bin (= 2:2.3.2)
+Filename: ./l/libdtkwidget-bin-dbgsym/libdtkwidget-bin-dbgsym_2.3.2_i386.deb
+Size: 244448
+MD5sum: 9213a154d5488b4665b06c7964d45ea2
+SHA1: 0a4c063958838b0137757e1349fb45838dd75a2f
+SHA256: 7b18d8b46bc2a2430aed593456c656e6138179710b368c746b19948c31657eed
+SHA512: d397e132fa29ebc367729f9e3ae118800655772f7921d934d809234833d821b8fe52e198a15af0a59ef73f18d081860d4340def4ac3c92b1fb367873bb9850b6
+Description: debug symbols for libdtkwidget-bin
+Build-Ids: 37d85f2c3a9328cb8bed4c6768d900446a5e1b8b
+

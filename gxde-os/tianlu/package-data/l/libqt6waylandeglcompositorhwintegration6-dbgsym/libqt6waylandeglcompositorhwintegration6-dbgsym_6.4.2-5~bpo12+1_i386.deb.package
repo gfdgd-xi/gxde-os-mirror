@@ -1,0 +1,20 @@
+Package: libqt6waylandeglcompositorhwintegration6-dbgsym
+Architecture: i386
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 285
+Depends: libqt6waylandeglcompositorhwintegration6 (= 6.4.2-5~bpo12+1)
+Filename: ./l/libqt6waylandeglcompositorhwintegration6-dbgsym/libqt6waylandeglcompositorhwintegration6-dbgsym_6.4.2-5~bpo12+1_i386.deb
+Size: 274132
+MD5sum: 3bedaa4a8b923f603acf7fe7cc8fd5e3
+SHA1: 2e7baec2a08187fc06891357f052c2c335706397
+SHA256: a633b7093eb5fdcb81d7d5ea945355eb66dc74e0a5f65fe095a16dfc0e50b50a
+SHA512: e4dfd5de4a334aed1fa41446b3ee8682bbc83c536810083e37afd85a215254b1f8f5788b1e38fb804af55d2e3fcfc63282105565835f0839ce0ad684807d235e
+Description: debug symbols for libqt6waylandeglcompositorhwintegration6
+Build-Ids: c4498f2bab962c39c384334251bb55fd6d2b1f54
+

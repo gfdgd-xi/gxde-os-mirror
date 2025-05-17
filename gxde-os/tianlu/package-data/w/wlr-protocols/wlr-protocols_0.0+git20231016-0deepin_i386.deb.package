@@ -1,0 +1,21 @@
+Package: wlr-protocols
+Architecture: i386
+Version: 0.0+git20231016-0deepin
+Priority: optional
+Section: x11
+Maintainer: rewine <luhongxu@deepin.org>
+Installed-Size: 124
+Filename: ./w/wlr-protocols/wlr-protocols_0.0+git20231016-0deepin_i386.deb
+Size: 20656
+MD5sum: 90e7c6e4f1e865046df88f9e334b9310
+SHA1: c0d55e46814645206560d2171d1a7aaf4721b97b
+SHA256: 4c5dcc2092b85b62bafd69b2bee6ec84e50491b0234baee834a3b15b728bb70a
+SHA512: 78596299238bde77009a890e3308b08e4139195026509d2856fc5a3ede1c00ee8f69d302893d9fedf8fb299b4198406017765db389e296eaebb76bdeaa47c821
+Homepage: https://gitlab.freedesktop.org/wlroots/wlr-protocols
+Description: Wayland protocols designed for use in wlroots
+  wlr-protocols contains Wayland protocols that add functionality not
+  available in the Wayland core protocol, and specific to wlroots-based
+  compositors. Such protocols either add completely new functionality, or
+  extend the functionality of some other protocol either in Wayland core,
+  or some other protocol in wayland-protocols.
+

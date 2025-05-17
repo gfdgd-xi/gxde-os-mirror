@@ -1,0 +1,19 @@
+Package: qt6-wayland-dev-tools-dbgsym
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 301
+Depends: qt6-wayland-dev-tools (= 6.4.2-5~bpo12+1)
+Filename: ./q/qt6-wayland-dev-tools-dbgsym/qt6-wayland-dev-tools-dbgsym_6.4.2-5~bpo12+1_amd64.deb
+Size: 281616
+MD5sum: 5bfd54054125070fd816fbbcf0737fab
+SHA1: 820913340cb786f2a1ecdaaf900774bbbd115558
+SHA256: 309ae042816203293d84bb0639f9689bc24eed818dabe4005adc288a9f9a9d32
+SHA512: 6145cfebbb51e3c4e11d09e33daed893c5ead99611f08911eef90f18111b7cd75312b17f472e192af89f691869be665756ee140115bab37b24477f8918874d63
+Description: debug symbols for qt6-wayland-dev-tools
+Build-Ids: 9e740e68e381bf2f979c967f9725072cbf34928c
+

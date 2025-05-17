@@ -1,0 +1,19 @@
+Package: qml-module-qtquick-controls2-styles-chameleon-dbgsym
+Architecture: i386
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 376
+Depends: qml-module-qtquick-controls2-styles-chameleon (= 5.6.34)
+Filename: ./q/qml-module-qtquick-controls2-styles-chameleon-dbgsym/qml-module-qtquick-controls2-styles-chameleon-dbgsym_5.6.34_i386.deb
+Size: 362504
+MD5sum: 0d16577d20e7b5b1c44588a7b7abfc06
+SHA1: 6ae1acd2f91e1a526a1e323faa78ce2418078cbe
+SHA256: 17df18736f9d12a103e4f79aebf9a3f464227cdbc15f56b650105c6cc4e9adb6
+SHA512: 2536fa8dc13bd75ee300b023397cebb2ba12502c2c068684948b4e3e32c1dcdd293e4acedae9e4c1870215248353a8bd52957812973c111809a4cbdf6758f712
+Description: debug symbols for qml-module-qtquick-controls2-styles-chameleon
+Build-Ids: 79e454788918b2c39fc3952cc59fa4c456a209dc
+

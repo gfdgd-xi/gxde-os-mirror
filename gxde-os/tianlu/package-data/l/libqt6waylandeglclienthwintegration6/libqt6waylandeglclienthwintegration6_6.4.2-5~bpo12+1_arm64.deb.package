@@ -1,0 +1,25 @@
+Package: libqt6waylandeglclienthwintegration6
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 101
+Depends: libqt6waylandclient6 (= 6.4.2-5~bpo12+1), libc6 (>= 2.34), libegl1, libopengl0, libqt6core6 (>= 6.4.2+dfsg~), libqt6gui6 (>= 6.4.2+dfsg~), libqt6opengl6 (>= 6.4.2+dfsg~), libstdc++6 (>= 5), libwayland-client0 (>= 1.20.0), libwayland-egl1 (>= 1.15.0), qt6-base-abi (= 6.4.2)
+Filename: ./l/libqt6waylandeglclienthwintegration6/libqt6waylandeglclienthwintegration6_6.4.2-5~bpo12+1_arm64.deb
+Size: 19236
+MD5sum: fc670a5111c0717313535545aec98c66
+SHA1: d5c0876424902e4872fbfbcacebc3ca913604c43
+SHA256: 339c37b2bb8795a4a6d319ce84a7e00fc025cd0425f865f240385efd86700cda
+SHA512: 1bcafc24df6289937661b534b763d46c7f0b481380cfa263f334c49e4f440085664581e4a92cc0fe0ccba5e61844884a42ab0398e1c77365c1a1cbaabf1f20d9
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland WaylandEglClientHwIntegration library
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ QtWayland is a Qt 6 module that wraps the functionality of Wayland.
+ .
+ This package contains the Qt 6 Wayland EglClientHwIntegration library.
+

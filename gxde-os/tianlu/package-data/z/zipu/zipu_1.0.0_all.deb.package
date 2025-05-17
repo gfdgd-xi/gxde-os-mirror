@@ -1,0 +1,18 @@
+Package: zipu
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 19
+Depends: python3
+Filename: ./z/zipu/zipu_1.0.0_all.deb
+Size: 4428
+MD5sum: e69fc0f44f0b5ac4f188ed6769fb339d
+SHA1: 2589feac1ab4dcd530260093d2b347af768bb1f6
+SHA256: 2f9d31fb08f8cbeef79170a6e5960ea9abb80db7c980c2d02b5e366bb63bb89f
+SHA512: 6c936b9601a18ea29b419ce3b4c74c1b3510058cf91f44d77e85643638ecf1cb505d63ae21bb2a598b56e4845cc7a473365fc50a8a7d756b96294d2b07920054
+Homepage: https://gitee.com/GXDE-OS/zipu
+Description: Packing from https://github.com/Dragon2fly/ZipUnicode A very useful tool to uncompress files
+

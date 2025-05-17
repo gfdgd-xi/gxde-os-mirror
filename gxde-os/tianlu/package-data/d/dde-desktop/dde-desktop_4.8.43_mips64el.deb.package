@@ -1,0 +1,21 @@
+Package: dde-desktop
+Architecture: mips64el
+Version: 4.8.43
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 5268
+Depends: libc6 (>= 2.34), libdde-file-manager (= 4.8.43), libdframeworkdbus2 (>= 6.1.0~gxde1), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5.2), libxcb-ewmh2 (>= 0.4.1), libxcb-shape0, qtbase-abi-5-15-8, gxde-daemon, gxde-requ
+Recommends: deepin-screensaver, fantascene-dynamic-wallpaper
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-desktop/dde-desktop_4.8.43_mips64el.deb
+Size: 1904380
+MD5sum: 0071a00444d3215d0686d8d390496bad
+SHA1: 553bdb92ba714687a3b6d9002907d216fd4e6e19
+SHA256: 380f6cf9407b212c82637f1450fa9f5761cd63981698f720047389a2b15071e7
+SHA512: 437348ee58cdafa720f9cbff3716525e55d760af699177f8e2057b9f0b6bfa95c3306ef9720f8c19dee4825cd2afbdc30f9e71d937f7aa45e2e60b4a3056e607
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop module
+ Deepin Desktop Environment (DDE) - desktop module.
+

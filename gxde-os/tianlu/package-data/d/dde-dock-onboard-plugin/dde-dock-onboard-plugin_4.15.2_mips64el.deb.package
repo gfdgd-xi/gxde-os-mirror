@@ -1,0 +1,19 @@
+Package: dde-dock-onboard-plugin
+Architecture: mips64el
+Version: 4.15.2
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 83
+Depends: libc6 (>= 2.2), libdtkcore5 (>= 5.6), libdtklog (>= 0.0), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.5.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 4.1.1), onboard
+Filename: ./d/dde-dock-onboard-plugin/dde-dock-onboard-plugin_4.15.2_mips64el.deb
+Size: 16784
+MD5sum: d104bc1bab64f96feb130574f5490775
+SHA1: f9eb3af693cb7a3ca97f102d95824ecb4599f7b7
+SHA256: 028be2fb2c2de23625599d83b46942b4cfebf179adbb2a06df9e79329f376965
+SHA512: 9f70e0f9a9f0df8e2c132f92fdd28577bb5a428e385e7929ca8f5c6dd3e5105479020ba4ac0745796075b5263accdc505e5bddfd4ccb1102e1ac45cd1582b79d
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock plugin
+ Deepin desktop environment - dock plugin for onboard
+

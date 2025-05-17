@@ -1,0 +1,25 @@
+Package: libqt6wlshellintegration6
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 195
+Depends: libqt6waylandclient6 (= 6.4.2-5~bpo12+1), libc6 (>= 2.4), libqt6core6 (>= 6.4.2+dfsg~), libqt6gui6 (>= 6.4.2+dfsg~), libstdc++6 (>= 5), libwayland-client0 (>= 1.20.0), qt6-base-abi (= 6.4.2)
+Filename: ./l/libqt6wlshellintegration6/libqt6wlshellintegration6_6.4.2-5~bpo12+1_amd64.deb
+Size: 36400
+MD5sum: 8de62ec9c767f2b3133a294b90f425b4
+SHA1: 56bd964fd66ca7b9d30d6209d3bc15b2c00eb723
+SHA256: 45787b18b8b4abfba6203a31406d956536fd2b622d9339b6b541578e04cf4e07
+SHA512: 45f0302445a51b4eb8287cc71e1819fd17db89efdc08ae4a4368cff37f3ff05beee88fe51ce5641ea13ae2ae207ed922c3f5aca02364ffa9acd5cb985d06ce6b
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland ShellIntegration library
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ QtWayland is a Qt 6 module that wraps the functionality of Wayland.
+ .
+ This package contains the Qt 6 Wayland ShellIntegration library.
+

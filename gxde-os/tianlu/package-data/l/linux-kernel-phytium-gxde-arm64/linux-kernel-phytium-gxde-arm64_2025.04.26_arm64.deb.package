@@ -1,0 +1,18 @@
+Package: linux-kernel-phytium-gxde-arm64
+Architecture: arm64
+Version: 2025.04.26
+Priority: optional
+Section: utils
+Source: linux-kernel-gxde
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Depends: linux-image-6.6.63-phytium-embedded-gxde, linux-headers-6.6.63-phytium-embedded-gxde
+Filename: ./l/linux-kernel-phytium-gxde-arm64/linux-kernel-phytium-gxde-arm64_2025.04.26_arm64.deb
+Size: 2436
+MD5sum: dc3b64f7b8b3b720b86ae4fb736278f9
+SHA1: a4fc4f2f627dc868afe7f81fd4664994b282e02a
+SHA256: 4fec7e955ec10ff073d1f7de226cf9d609818ce3389a566573f1d168e004a0ef
+SHA512: fe869daa47bdaf4c56bcc96c3636171c30b29f0fe9b0bd6412c7a838dc62db0365079f14bd61fe2ec9c0de0e2a6f16ac28ce40ad3b83ef3a5392be915094b42b
+Homepage: https://gitee.com/GXDE-OS/linux-kernel-gxde
+Description: GXDE Kernel For phytium (debian)
+

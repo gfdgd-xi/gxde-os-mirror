@@ -1,0 +1,18 @@
+Package: libdtklog-dev
+Architecture: mips64el
+Version: 0.0.3
+Priority: optional
+Section: libdevel
+Source: dtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 54
+Depends: libdtklog (= 0.0.3)
+Filename: ./l/libdtklog-dev/libdtklog-dev_0.0.3_mips64el.deb
+Size: 9068
+MD5sum: 65519e0ff888a387abc7734e48bd11d4
+SHA1: 39d3e8231f79543ec071852daf69abbcf7f2a798
+SHA256: 9237eb6a8738f6e78d75e0b16dcc4aa316f7f02c7518fd014ebf058138703c2b
+SHA512: e530bfae539149b1d2be30526f86ea7836945c5f17cf37317406bcd17af51a90b25065e9ffdc2ec188de26c0db617330a1f5720a2b756bdb8796bd130f179e24
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the header files and static libraries of dlog
+

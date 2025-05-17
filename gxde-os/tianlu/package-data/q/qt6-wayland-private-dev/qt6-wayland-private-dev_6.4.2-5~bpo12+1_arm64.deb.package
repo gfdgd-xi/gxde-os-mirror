@@ -1,0 +1,30 @@
+Package: qt6-wayland-private-dev
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 1650
+Depends: qt6-wayland-dev (= 6.4.2-5~bpo12+1)
+Breaks: qt6-wayland-dev (<< 6.4.2-4)
+Replaces: qt6-wayland-dev (<< 6.4.2-4)
+Filename: ./q/qt6-wayland-private-dev/qt6-wayland-private-dev_6.4.2-5~bpo12+1_arm64.deb
+Size: 163460
+MD5sum: 022c3bda68cffb3a183f45fafc2ed6a9
+SHA1: ad7831e64b37349f82be88e27927374679d749b9
+SHA256: 1c4c06e1a7b67e82cb165f4729c6c3b4f191950fdb867e18cc330481b636f7af
+SHA512: b239b4a217559691e6d51413b9f7613f08cbe2a9766d439f5ed8230936b85531a88ce4d1e4ade6a9bdd8b3acd7fa4e8137e73eb2ebcfc22a4aafc46e09cd774c
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Wayland - private development files
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ QtWayland is a Qt 6 module that wraps the functionality of Wayland.
+ .
+ This package contains the private header development files for
+ QtWayland client and compositor libraries.
+ .
+ Use at your own risk.
+

@@ -1,0 +1,20 @@
+Package: gxde-editor
+Architecture: i386
+Version: 1.4.5.2
+Priority: optional
+Section: editors
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 2225
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libkf5codecs5 (>= 4.96.0), libkf5syntaxhighlighting5 (>= 5.28.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5printsupport5 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.6.0~beta), libstdc++6 (>= 5.2), qtbase-abi-5-15-8
+Recommends: gxde-daemon (>= 1.2.6)
+Replaces: deepin-editor
+Filename: ./g/gxde-editor/gxde-editor_1.4.5.2_i386.deb
+Size: 1295308
+MD5sum: 807955b11afff279fec73b08ac1ab796
+SHA1: db32dd8744d36ee419a31b21110acddcf1fc18bc
+SHA256: 0f0d44d72402753e5517e673e3cb8fd39ffa0e005d1eba58df64c2d47adec0ae
+SHA512: abe5e56b35dcf44a67c00053589a689dbb0e07f70d2ac4541e879df3d66c62effa98e595b3705919a35e77d170e992615e1c27e9922159ba9aa4e58dca61bb3a
+Homepage: https://www.gxde.top
+Description: dtk based text editor
+ Advanced text editor based on dtk.
+

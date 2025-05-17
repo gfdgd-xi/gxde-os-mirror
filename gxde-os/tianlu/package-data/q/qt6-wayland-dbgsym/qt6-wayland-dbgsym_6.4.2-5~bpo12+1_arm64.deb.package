@@ -1,0 +1,20 @@
+Package: qt6-wayland-dbgsym
+Architecture: arm64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 5341
+Depends: qt6-wayland (= 6.4.2-5~bpo12+1)
+Filename: ./q/qt6-wayland-dbgsym/qt6-wayland-dbgsym_6.4.2-5~bpo12+1_arm64.deb
+Size: 4895432
+MD5sum: 4a3a0b0b5c98f096f0aa2b558dbd07f0
+SHA1: f7d7460ef3a37ecdc1052c5c3e0c6d770f838abd
+SHA256: 2faf7602ff3cfc646a770489e53d4e402cf1f4f129b35ea83f83806d9205bf28
+SHA512: 8777ac4d68b388f3c8aac60698f74c20a81eae2c01a5fed971f4acbe185b43cd9fd3a9052460df94fdd79af8552f870435660814449b2c8a5bee6447a20a58ec
+Description: debug symbols for qt6-wayland
+Build-Ids: 0614bb93bdf723af03981fae5f15932a09c173ff 0c76db404a8f80ffb9fc458edf44ab0e1c2de75d 15c8e7a8b8bce3da86d58bb2a7b95c1c01e43085 1cb144f0520f028a4527e2f8fa8471f3211e92a4 20f736ec2fc24370a5be651f89186281d5f77f11 2408765a857b2391c36f2c00bedc73bd9cb7eb87 281b043dc66ba39c2f875d511cc5be5dca68d193 3284df0a3541ec84615dd7f6cd6515caa7c01d6a 356d07d35cfd7b805f1af1ba8188a34fa1d1b748 455b28331186765057a0594eb350457d4a008d78 52d2b41abf3b8fefa70d8cfdba79013c2d3a36a1 55721e23cc6a771aade7a65117518070c7ce2291 59ad451ec30a21574a19e2d8a9b88f47e2259b88 679a8b054c28515289118aefe62d2104d2a117e4 6e0e90696a97109168b4ddfc461dd0a64c530ee5 8c9eca4fbacedc47c5cf8ce42bb30a87a5d356aa c0b59d8ed0e1f7de2d67c2997a245521a99148ce ca9374cabc4bddf359aa42dc4ac020c317ce7fd3 cbf6571bb7ddd9f8901924587a68813ae21fd776 e506467d681563c8157c2fcf287f5f26b2e0a33c
+

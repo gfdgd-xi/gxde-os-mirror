@@ -1,0 +1,19 @@
+Package: dde-qt5wayland-plugin-dbgsym
+Architecture: loong64
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3309
+Depends: dde-qt5wayland-plugin (= 5.6.34)
+Filename: ./d/dde-qt5wayland-plugin-dbgsym/dde-qt5wayland-plugin-dbgsym_5.6.34_loong64.deb
+Size: 3253556
+MD5sum: c9c8cafc6936895395d8e43ef9edc35d
+SHA1: 5ecb4f12633f3317f10ac531c5e7efda2cb6f87f
+SHA256: e12f5bc75e0417d6ae2fbbb39201f8b2ff782718f4285d187ad1286aecaf7e59
+SHA512: 8117c0e4481574adec260bd41fb9052edd94a4e7616653797f1cf336f7403745d53bf253d232fc066c0a9fa3e8aff66fdabf548912d5410998a37291afafefef
+Description: debug symbols for dde-qt5wayland-plugin
+Build-Ids: 2b309acb4f60aa754c80c0c93c61ee515db75d9e 92319118661c65c16f231e249bd4312e9f79518c
+

@@ -1,0 +1,20 @@
+Package: qml6-module-qtwayland-compositor-dbgsym
+Architecture: amd64
+Version: 6.4.2-5~bpo12+1
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: qt6-wayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 2790
+Depends: qml6-module-qtwayland-compositor (= 6.4.2-5~bpo12+1)
+Filename: ./q/qml6-module-qtwayland-compositor-dbgsym/qml6-module-qtwayland-compositor-dbgsym_6.4.2-5~bpo12+1_amd64.deb
+Size: 2614052
+MD5sum: aee5c85a38907b256b5670d3c150aa3d
+SHA1: cc1536c242127420cb2a52525faa3b985ac7dddf
+SHA256: 332a942712e75eee6ae0a812e6985db7c7e52fce246555efe5ee80289fd10383
+SHA512: ea8bed24ab3cf289aea5edfab85d2887f7da0738d204f0d95838c6cc8fd3498ed3afbfe9ee3face207d5d05b13bbf2d7b383edfadc3d07630dc7cc9776b43697
+Description: debug symbols for qml6-module-qtwayland-compositor
+Build-Ids: 2ded6019bd7d4c54dddbf60d5a3263d6b148e7f9 5bc716f005f4f9502a558e94e6ef5ec36bb499ad 64b8fb60c0f6d70d13d256e228bbf925603f0c27 6acf5db5ed2be0c11f3e883fd4ffd92f308b11a5 6f989d854ee3bf8d18bc7eb8a4e21896b08673ea 905197b9a510aadb6634dfde646171de39d81474 cc88af55dd3a78fbc814d89cd4bec0b567a13ebc
+

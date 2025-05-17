@@ -1,0 +1,20 @@
+Package: libdde-file-manager-dev
+Architecture: i386
+Version: 4.8.43
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 262
+Depends: libdde-file-manager (= 4.8.43)
+Filename: ./l/libdde-file-manager-dev/libdde-file-manager-dev_4.8.43_i386.deb
+Size: 35236
+MD5sum: eaee405aebba0d50be4b0725e1559a40
+SHA1: 67ad703fe32f6e34ff4b2b58a786d9ffed032ba9
+SHA256: 225b2fe3e9119b701ca5d70cb01623376459eebbb15fdb819b87d5d20389e6c8
+SHA512: 672d9f0a2eb87eea7f4923f5db02e0399c26b82a99f3465c12be98835b95d3b2130c2bdac8da8191f7acc76eda5f01d90f08c98068414b4c548c67191c98a430
+Homepage: http://www.deepin.org
+Description: DDE File Manager Devel library
+ This package contains the header files and static libraries
+ of libdde-file-manager
+
