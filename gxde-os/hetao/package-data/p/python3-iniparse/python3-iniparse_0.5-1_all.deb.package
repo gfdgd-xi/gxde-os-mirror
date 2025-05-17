@@ -1,0 +1,40 @@
+Package: python3-iniparse
+Architecture: all
+Version: 0.5-1
+Priority: optional
+Section: python
+Source: python-iniparse
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Installed-Size: 92
+Depends: python3-six, python3:any
+Replaces: python-iniparse (<< 0.4-2.3)
+Filename: ./p/python3-iniparse/python3-iniparse_0.5-1_all.deb
+Size: 21092
+MD5sum: 16b2d9460c63911858613e4947fd7adf
+SHA1: 2b597e16fd012fa42904eca6704211c8cebc3928
+SHA256: 1e2160ceb36fb294050ef5cfc87c5ac2b696d775b6b2d2eed611e91a29611f7a
+SHA512: 01e31c0218e24420742f534bb4fa2c30fc0b5384cb8854e103482faf557e5ab6ddd4b87282332461ac79eebed575d879dea542c28080086c4c46a567859c5e55
+Homepage: https://github.com/candlepin/python-iniparse
+Description: access and modify configuration data in INI files (Python 3)
+ iniparse is a INI parser for Python which is:
+ .
+  * Compatible with ConfigParser: Backward compatible implementations of
+    ConfigParser, RawConfigParser, and SafeConfigParser are included that are
+    API-compatible with the Python standard library. They pass all the unit
+    tests in Python-2.4.4.
+ .
+  * Preserves structure of INI files: Order of sections & options, indentation,
+    comments, and blank lines are preserved as far as possible when data is
+    updated.
+ .
+  * More convenient: Values can be accessed using dotted notation
+    (cfg.user.name), or using container syntax (cfg['user']['name']).
+ .
+ It is very useful for config files that are updated both by users and by
+ programs, since it is very disorienting for a user to have her config file
+ completely rearranged whenever a program changes it. iniparse also allows
+ making the order of entries in a config file significant, which is desirable
+ in applications like image galleries.
+ .
+ This is a Python 3 version of the package
+

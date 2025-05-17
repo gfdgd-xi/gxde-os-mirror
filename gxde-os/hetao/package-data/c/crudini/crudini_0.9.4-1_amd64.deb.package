@@ -1,0 +1,20 @@
+Package: crudini
+Architecture: amd64
+Version: 0.9.4-1
+Priority: optional
+Section: utils
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Installed-Size: 76
+Depends: python3-iniparse, python3:any
+Filename: ./c/crudini/crudini_0.9.4-1_amd64.deb
+Size: 18340
+MD5sum: 79a7247a89ec0edb4f9cb2db05745d70
+SHA1: 1e156db58e81bfbb872fd22923450a2108d1754c
+SHA256: b9d92f6079ffde782ec4614f7e86c92481adfc248928bb4d618d87be90955874
+SHA512: f849412dd382531cd08aec1ab27f151d7890338b6951c13514e952ad54a011b1dfea38b748ceb2e0dc9bc026de1d4439160e921438e33818652a3a1715b6319a
+Homepage: https://www.pixelbeat.org/programs/crudini/
+Description: utility for manipulating ini files
+ crudini is a utility to simplify reading and updating ini files
+ from shell scripts, so named as it provides CRUD functionality.  It
+ can handle most variants of ini.
+

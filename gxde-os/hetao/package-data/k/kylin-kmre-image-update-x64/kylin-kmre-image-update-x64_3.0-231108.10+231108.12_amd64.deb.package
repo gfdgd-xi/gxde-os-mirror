@@ -1,0 +1,19 @@
+Package: kylin-kmre-image-update-x64
+Architecture: amd64
+Version: 3.0-231108.10+231108.12
+Priority: optional
+Section: kernel
+Maintainer: jianglinxuan (droiing)  <jianglinxuan@kylinos.cn>
+Installed-Size: 72156
+Provides: kylin-kmre-image-update
+Depends: kylin-kmre-image-data-x64 (>= 3.0-231108.10)
+Filename: ./k/kylin-kmre-image-update-x64/kylin-kmre-image-update-x64_3.0-231108.10+231108.12_amd64.deb
+Size: 73349540
+MD5sum: f8007155aca2c4dec13013ae2bff68a6
+SHA1: 0c49db44503dc0d69412ac422ac1fb90dd40def9
+SHA256: 10387652cc1823197960d52be2be16d30818df7e451505a4750e710da8b1f3a3
+SHA512: ecd138503955f9a9a70c666c61cafbefc11b92c0fe6fd5a6ef870a73d708c03a175635dc07bc37c7cd0510e83c16b4e443ed2b8f2e4e20f504e0e619a4382ee0
+Homepage: https://launchpad.dev/
+Description: Kmre image update files
+ Kmre image update files.
+

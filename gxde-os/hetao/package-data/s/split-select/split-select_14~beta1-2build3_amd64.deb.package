@@ -1,0 +1,27 @@
+Package: split-select
+Architecture: amd64
+Version: 1:14~beta1-2build3
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Source: android-platform-frameworks-base
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Android Tools Maintainers <android-tools-devel@lists.alioth.debian.org>
+Installed-Size: 95
+Depends: android-libaapt, android-libandroidfw, android-liblog (>= 34.0.4), android-libutils (>= 34.0.4), libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./s/split-select/split-select_14~beta1-2build3_amd64.deb
+Size: 31248
+MD5sum: 65f8e9657e50490d9aa28db6bf2d4621
+SHA1: ab53a9f133b5c1bb8d1a6d973015f550be6905bd
+SHA256: 43b19e3773d6f00fc0b6f398b92633a7426fb0f43234c337a1a739f22aca3aa6
+SHA512: 183e9f664bab9aea16ea7ab0b38bfb9d073790fa6009246b2e768983689c9439f369a349b3aebac6f6f6e33ed92527453a9ec344dba72d2c58ef0d702372bc53
+Homepage: https://android.googlesource.com/platform/frameworks/base
+Description: APK split and selection tool
+ Generates the logic for selecting a Split APK given some target Android device
+ configuration.
+ .
+ Using the flag --generate will emit a JSON encoded tree of rules that must be
+ satisfied in order to install the given Split APK. Using the flag --target
+ along with the device configuration will emit the set of Split APKs to install,
+ following the same logic that would have been emitted
+

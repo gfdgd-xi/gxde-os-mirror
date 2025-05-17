@@ -1,0 +1,23 @@
+Package: kylin-kmre-manager
+Architecture: amd64
+Version: 3.0.0.5
+Priority: optional
+Section: utils
+Maintainer: xiehuijun <xiehuijun@kylinos.cn>
+Installed-Size: 667
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.34), libdrm2 (>= 2.4.75), libegl1, libgcc-s1 (>= 3.0), libgles2, libglib2.0-0 (>= 2.46.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libpciaccess0, libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.6.0~rc) | libqt5gui5-gles (>= 5.6.0~rc), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.1), libspeexdsp1 (>= 1.2.1), libstdc++6 (>= 6), libxcb-dri3-0, libxcb1, kylin-kmre-display-control (>= 1.4.7), libkylin-kmre-emugl (>= 1.2), libqt5multimedia5-plugins, binfmt-support
+Conflicts: kydroid-appstream, kydroid-audio, kydroid-filewatcher, kydroid-manager, kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data
+Replaces: kydroid-appstream, kydroid-audio, kydroid-filewatcher, kydroid-manager
+Filename: ./k/kylin-kmre-manager/kylin-kmre-manager_3.0.0.5_amd64.deb
+Size: 184348
+MD5sum: 91886ae06f854793d6cf58a33cce72ba
+SHA1: 2965b90da42a39f915f7d512e37bba8c08bff74c
+SHA256: c136c346a903e5d99f26d7a563ff0481689ada16443370b5435380a8422e16eb
+SHA512: e8c7563808dd2929177666f896aad811dfb62907312cae95d32c43e788a498765f0185a1897251fd37e796552e9de3b2e99e48c73d1404ef2a04f01c371a520c
+Homepage: https://www.kylinos.cn
+Description: Communication and management module for kmre
+ It is the backend manager, audio server, input control, filewatcher for KMRE.
+ .
+ Features:
+  * .
+

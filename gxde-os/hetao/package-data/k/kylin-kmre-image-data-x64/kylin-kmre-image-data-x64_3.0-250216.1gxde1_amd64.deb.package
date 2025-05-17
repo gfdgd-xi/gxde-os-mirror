@@ -1,0 +1,20 @@
+Package: kylin-kmre-image-data-x64
+Architecture: amd64
+Version: 3.0-250216.1gxde1
+Priority: optional
+Section: kernel
+Maintainer: jianglinxuan (droiing)  <jianglinxuan@kylinos.cn>
+Installed-Size: 1840676
+Provides: kylin-kmre-image-data
+Conflicts: kydroid-image-data, kydroid-image-data-x64
+Replaces: kydroid-image-data, kydroid-image-data-x64
+Filename: ./k/kylin-kmre-image-data-x64/kylin-kmre-image-data-x64_3.0-250216.1gxde1_amd64.deb
+Size: 531782916
+MD5sum: 0d4ab974652afe555ecc157e1897a14a
+SHA1: adcbc6bdd9648c41826828a43589c3816d9b7fb2
+SHA256: 5cc5cca62896bffd6fc69d259106e0297667fdfe47c8bf1c54f73d12506565e7
+SHA512: 6f049cd91d2d35336904058fa149c46c1f0149c3181bef91822b9f39958e2d85d307d459e98609f53efb82d920453ef03fe96b2ddbc83446ccd3c8a1122ec8fa
+Homepage: https://launchpad.dev/
+Description: kmre image data for x86_64
+ kmre image data for x86_64.
+

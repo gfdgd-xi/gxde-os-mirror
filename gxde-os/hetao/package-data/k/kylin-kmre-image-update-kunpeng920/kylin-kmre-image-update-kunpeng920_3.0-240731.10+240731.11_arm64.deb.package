@@ -1,0 +1,18 @@
+Package: kylin-kmre-image-update-kunpeng920
+Architecture: arm64
+Version: 3.0-240731.10+240731.11
+Priority: optional
+Section: kernel
+Maintainer: jianglinxuan (droiing)  <jianglinxuan@kylinos.cn>
+Installed-Size: 66841
+Depends: kylin-kmre-image-data (>= 3.0-240731.10)
+Filename: ./k/kylin-kmre-image-update-kunpeng920/kylin-kmre-image-update-kunpeng920_3.0-240731.10+240731.11_arm64.deb
+Size: 68165056
+MD5sum: 5a6de44bdfced4aff67b882e418f7608
+SHA1: ea433af3835cf5bd5d7480cf0f15ee73ae56b7a6
+SHA256: 3580a702550cb0436a4b133e316abd1ba8048a22115dca162b541d629824b969
+SHA512: 9197f2f6133c14b88334b3482a894f1d70ec7ddca2ca39ac4e33b33860768107090009b83220f428b585a0cda49993f276a34dcea22bfa572979fae1ada32f98
+Homepage: https://launchpad.dev/
+Description: Kmre image update files
+ Kmre image update files.
+

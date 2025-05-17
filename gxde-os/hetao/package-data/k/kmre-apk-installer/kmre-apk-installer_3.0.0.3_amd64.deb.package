@@ -1,0 +1,18 @@
+Package: kmre-apk-installer
+Architecture: amd64
+Version: 3.0.0.3
+Priority: optional
+Section: x11
+Maintainer: lixiang <lixiang@kylinos.cn>
+Installed-Size: 311
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.2.0~alpha1), libqt5x11extras5 (>= 5.6.0), libssl3 (>= 3.0.0), libstdc++6 (>= 5.2), libx11-6, aapt, android-libaapt, android-libandroidfw, android-libbacktrace, android-libbase, android-libcutils, android-liblog, android-libunwind, android-libutils, android-libziparchive, libpng16-16, zlib1g
+Filename: ./k/kmre-apk-installer/kmre-apk-installer_3.0.0.3_amd64.deb
+Size: 88652
+MD5sum: 14de7694a39559e96f08b9c70c19ccef
+SHA1: 78f4e873950a3b47eee059babba69e131ed67b75
+SHA256: 677fc97804365ea2338d10113c3c8b13de4b2c38aa8c3c1b6855acf59ae8959f
+SHA512: 248dd81f022932a5f129e08a66445dbf1a1e6141de10a4ab713849257f7bd4440f6a591aa3b8f5e677e8c05180d4a1f611dbbb2206d6e81c985a09133676574c
+Homepage: https://www.kylinos.cn
+Description: kmre apk installer
+ A qt window to install apk packages.
+

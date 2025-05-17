@@ -1,0 +1,18 @@
+Package: libkylin-kmre
+Architecture: riscv64
+Version: 3.0.0.1
+Priority: optional
+Section: libs
+Maintainer: xiehuijun <xiehuijun@kylinos.cn>
+Installed-Size: 832
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.4), libprotobuf32t64 (>= 3.21.12), libstdc++6 (>= 13.1)
+Conflicts: kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data, libkydroidrequest
+Replaces: libkydroidrequest
+Filename: ./l/libkylin-kmre/libkylin-kmre_3.0.0.1_riscv64.deb
+Size: 131020
+MD5sum: 9cd33e46ae60000ebb3e5bef4c4ade74
+SHA1: 6c1303b272befb1020ff754f4e3e27c8026ed8f9
+SHA256: ba5b7823ba873ffc4c98fa0ca126bc66c1492157fc185eace08ffc47a4bcc640
+SHA512: 4897522a3e1366dae223bc78545a5d66f849a701802483f1ae3d673ba0ba111d12d758ff5f0c3024ca08a611c6bcaea2ad4e00c3b47b57e42154435b88bfac3d
+Description: kmre socket library API for other programs.
+
