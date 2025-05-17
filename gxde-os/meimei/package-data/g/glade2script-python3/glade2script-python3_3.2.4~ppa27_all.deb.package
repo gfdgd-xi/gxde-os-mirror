@@ -1,0 +1,22 @@
+Package: glade2script-python3
+Architecture: all
+Version: 3.2.4~ppa27
+Priority: optional
+Section: devel
+Source: glade2script
+Maintainer: Yann MRN <yannubuntu@protonmail.com>
+Installed-Size: 199
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Recommends: gir1.2-notify-0.7
+Suggests: gir1.2-appindicator3-0.1
+Filename: ./g/glade2script-python3/glade2script-python3_3.2.4~ppa27_all.deb
+Size: 36024
+MD5sum: 9f093d907652fa897b9f14825c5d5699
+SHA1: 5ff3cd39a1b98c01c845bad7c762c4bcfb1b88ab
+SHA256: fdbc496d4b1cf6cc9754934f919dd9de109c9a78d8854c429ed5a9fedc7a4539
+SHA512: 2169d31a5bacea7884165ca27f8fff1ecddc70b4569c1f92b831341be78e8e7f60928217298fb9efc740dce1d97be86323992a62f4507f62a7d9a2d5d87b3229
+Homepage: https://launchpad.net/glade2script
+Description: Glade interface engine for scripts (Python3 version)
+ Glade2script allows a script (Bash, Python or other) to display and
+ interact with a GUI (created with Glade).
+

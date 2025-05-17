@@ -1,0 +1,19 @@
+Package: layer-shell-qt5-dbgsym
+Architecture: loong64
+Version: 5.27.5-2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: layer-shell-qt
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 223
+Depends: layer-shell-qt5 (= 5.27.5-2)
+Filename: ./l/layer-shell-qt5-dbgsym/layer-shell-qt5-dbgsym_5.27.5-2_loong64.deb
+Size: 213124
+MD5sum: bbf2c79810fb8a06610be6d35bc0e98e
+SHA1: 98bb7ef91c31119b7d68a3510f2be48f64aa3a5a
+SHA256: 408fcae2b99d3f406b0e31d7a60a05dd2d5d34efec4e7c8049ca56df35b5e572
+SHA512: c93543c6505954d6d9e4d2b4a910644556969bf887cd0bf1ec0c1975d62861122592b524eb48cdb83fa5b83c5614c852ede5085f9d2967f450e582ada1e14f88
+Description: debug symbols for layer-shell-qt5
+Build-Ids: bc4362913887b0942f8e5bc381f6ff2871d075d2
+

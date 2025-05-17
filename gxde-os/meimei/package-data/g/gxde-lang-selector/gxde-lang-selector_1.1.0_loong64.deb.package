@@ -1,0 +1,18 @@
+Package: gxde-lang-selector
+Architecture: loong64
+Version: 1.1.0
+Priority: extra
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1318
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./g/gxde-lang-selector/gxde-lang-selector_1.1.0_loong64.deb
+Size: 923388
+MD5sum: 1a768419c5f71727d489ee14b95f6a35
+SHA1: b5e8721989981ba3fadc9facf68f5371396c9791
+SHA256: 3390b4ee58fbcd21bd11832c005768cee4e3734bbbe0169958d511bef415b7a9
+SHA512: 9e1ad21a93e45f33377ba85e56789ada627ea30c910c978ac7932d9f6f4264fc6559aaf86cf4927ae53d30f9a6caa76e3f21f134df3cf33a0391d4dab9703de2
+Homepage: http://www.deepin.org
+Description: Language selection page
+ Language selection page
+

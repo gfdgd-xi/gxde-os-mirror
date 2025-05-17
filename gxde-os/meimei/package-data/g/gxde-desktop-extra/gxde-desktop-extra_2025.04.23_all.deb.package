@@ -1,0 +1,21 @@
+Package: gxde-desktop-extra
+Architecture: all
+Version: 2025.04.23
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Recommends: gxde-voice-recorder, deepin-calculator, gxde-terminal, gxde-deb-installer, gxde-editor, gxde-image-viewer, gxde-icon-theme, gxde-sea-icon-theme, gxde-ocr, gxde-music, gxde-picker, gxde-font-installer, gxde-movie, gxde-quick-hash, gxde-sendbylan, gxde-dict, gxde-system-assistant, spark-store | aptss, loongsonapplication, gxde-boot-maker, deepin-clone, dde-printer | system-config-printer, deepin-system-monitor, gxde-downloader, gparted, fantascene-dynamic-wallpaper, x11vnc, com.github.minesweep, 2048-qt, papirus-icon-theme | gxde-desktop-android, remmina, screensaver-pp, gxde-time-screensaver
+Filename: ./g/gxde-desktop-extra/gxde-desktop-extra_2025.04.23_all.deb
+Size: 2616
+MD5sum: 5c8a1c4d2fe5724d9ff9b5dfcc3ff80e
+SHA1: 4b189a8daa5f09559bd31e950857dd8a61e7ac02
+SHA256: 2eae87860d70ca6e5a1d35d38a92741824298cef216184abbb72b92d86cb4b07
+SHA512: af98c93247d5c32c1c62822e1856fb0de584b3acf08c7e4ce6faf7f6a249372b37bc2fac2bd682b6c64582d6bb3b82863a5cf8bb8e61bceb88ecd540c55b281d
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment Extra - Next
+ This is a meta package depends GXDE New Desktop Envrionment Extra.
+ .
+ You can safety remove it after installed.
+

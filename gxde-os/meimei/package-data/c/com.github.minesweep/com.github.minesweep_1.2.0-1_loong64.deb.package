@@ -1,0 +1,17 @@
+Package: com.github.minesweep
+Architecture: loong64
+Version: 1.2.0-1
+Priority: optional
+Section: utils
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Installed-Size: 92
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 4.3)
+Filename: ./c/com.github.minesweep/com.github.minesweep_1.2.0-1_loong64.deb
+Size: 24956
+MD5sum: 891209bfffe615e0728687e51b7c7d3a
+SHA1: fde8f798c1a6a3577add504f56ea07a05b1e333a
+SHA256: a906421847921dfb9222dec2831c8b0fe0e8a362505f05ce35e7c0f1bfab1d7a
+SHA512: 27c68307ef5feaaae90d8e86652c96b576d4025a76916731800b38fce23707026029eec9fde2eb7a1957bfcb462678c486829572d744edc3288c08985ddb2e65
+Homepage: https://github.com/dependon/MineSweep
+Description: minesweep.
+

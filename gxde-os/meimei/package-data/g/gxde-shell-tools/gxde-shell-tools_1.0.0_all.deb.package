@@ -1,0 +1,18 @@
+Package: gxde-shell-tools
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 44
+Depends: gxde-app-installer, gxde-app-upgrader, gxde-app-uninstaller
+Filename: ./g/gxde-shell-tools/gxde-shell-tools_1.0.0_all.deb
+Size: 12640
+MD5sum: 1dab4a5d9f0d595a104c8e69b4d3e4a5
+SHA1: b761cb954020e467ac18c4b33e97bee2fb876586
+SHA256: e6503c2b3b95ef30248f73a9b161080c9b1e1cd8a19ff28151c769ac5cd71def
+SHA512: 9c66d6abc6b0d7ac348565343fe35f9a6f7275fcdf09e187e700a54041b64372fd516f31d5e833b38a769d22ad68a640e8ae5138e425ba665b7f26a08f859329
+Homepage: https://gitee.com/GXDE-OS/gxde-shell-tools
+Description: Meta package to install gxde shell tools
+

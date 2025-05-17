@@ -1,0 +1,23 @@
+Package: libpcre3-dbg
+Architecture: loong64
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: extra
+Section: debug
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 912
+Depends: libpcre3 (= 2:8.39-15), libpcrecpp0v5 (= 2:8.39-15)
+Filename: ./l/libpcre3-dbg/libpcre3-dbg_8.39-15_loong64.deb
+Size: 860992
+MD5sum: 8f213f447ef83a4f9c875473398eac41
+SHA1: 68faa1373bacfebbdd87aac2dc7638d069cc4883
+SHA256: e792fcbf0e22cb51893eaaef1e4701453fd6e309457a196499748856ca34de17
+SHA512: 9342fbb67fc9905ec54c631003d02b360a1721599457a0fd2cb7405443efdbe6f53680f70b9d9cff0b0fae2268a6ff415ef196798da5b79f03342fa5a489df1d
+Description: Old Perl 5 Compatible Regular Expression Library - debug symbols
+ This is a library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ This package contains the debug symbols,
+Build-Ids: 17d118a0398ea61952c160a2b1e157eb356b074a 22dbbd972b4493f4a304a210b556df65af657864 23a2a41d17d07f0f22e9c1baed66692ebaf62501 4ad0da197f6978324f1938b9b81f5c0b6a53f90a c77160ab57d73c0013777cae0f3a80a81e9c4343 d6a6f382cdf86918a449d000357a891330eb10c7
+

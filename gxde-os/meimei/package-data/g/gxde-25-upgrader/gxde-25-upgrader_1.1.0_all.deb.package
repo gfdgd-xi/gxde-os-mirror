@@ -1,0 +1,18 @@
+Package: gxde-25-upgrader
+Architecture: all
+Version: 1.1.0
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 3723
+Depends: zenity, garma, spark-store | spark-store-console | aptss, sudo, bash, gxde-terminal, xclip
+Filename: ./g/gxde-25-upgrader/gxde-25-upgrader_1.1.0_all.deb
+Size: 3787220
+MD5sum: f9c06c0f39d0f6c79ffb1f82395b1e47
+SHA1: 3c3d7d1360d6adde1f16d53fa12a648d1df798c2
+SHA256: 54de4e48ee17b6adb3cbdccec433a749f9e5a76a3f165c11ba50e744ac51e928
+SHA512: 3d501fa518ab32b7c1bded5b44702f187cdf7be8530aaf5dac706293c63a2fae4497453ffd6ab8ffa2f3283fa3eb61d42e42c199d6b60f833ce9017ebc6587cd
+Homepage: https://gitee.com/GXDE-OS/gxde-25-upgrader
+Description: GXDE OS 15 to 25 Upgrader
+

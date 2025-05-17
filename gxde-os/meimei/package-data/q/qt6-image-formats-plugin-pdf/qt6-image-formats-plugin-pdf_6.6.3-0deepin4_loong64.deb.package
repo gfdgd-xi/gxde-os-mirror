@@ -1,0 +1,26 @@
+Package: qt6-image-formats-plugin-pdf
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 209
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglx0, libopengl0, libqt6core6 (>= 6.6.1+dfsg~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6pdf6 (>= 6.6.0), libstdc++6 (>= 5)
+Filename: ./q/qt6-image-formats-plugin-pdf/qt6-image-formats-plugin-pdf_6.6.3-0deepin4_loong64.deb
+Size: 46912
+MD5sum: d36c82792ef7d8c6d4a2fe44f8111e9a
+SHA1: e7aa3a932a4024de063770aa1ab34173b949797c
+SHA256: 6216bbc8cebe98222ff96dedd4dfed4e6406e7b6ebc63e9cb820765480e79e90
+SHA512: 8e6391f7d2db527e8289aa41649bb5106a9fa557306db8fb9c82936094f629d86a802a76801f963adff2f1f937607e84d2d5f4be7f4182af64efde2e91cc807c
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 PDF image format plugin
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt PDF module contains classes and functions for rendering PDF documents.
+ .
+ This package provides an image plugin that allows image-viewing applications
+ to view PDF files (the first page of PDF will be shown).
+

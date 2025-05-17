@@ -1,0 +1,21 @@
+Package: xdg-desktop-portal-gxde
+Architecture: loong64
+Version: 1.0.5
+Priority: optional
+Section: libdevel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 361
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.14.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.9.0~beta), libstdc++6 (>= 14)
+Filename: ./x/xdg-desktop-portal-gxde/xdg-desktop-portal-gxde_1.0.5_loong64.deb
+Size: 87700
+MD5sum: cf95acf092c9f05466ab17eb2ab5fb03
+SHA1: 4d4bd5882ba8474b3f77117ae861bffef1a72ede
+SHA256: 1d4bc549cddbcd58297e3ec575b6699e011a18067fd9374e83e51c8552075cbb
+SHA512: 20189c4011a74436b681cac5c621397bb4b992111957726c1082f2d9dbaaf5f43511716757cd5987e0bc28bb526a0ec921a9f4b803ff90767bcdb8abf9c2678c
+Description: GXDE poortal backend for xdg-desktop-portal
+  xdg-desktop-portal-gxde provide a GXDE implementation for the
+  desktop-agnostic xdg-desktop-portal service. This allows sandboxed
+  applications to request services from outside the sandbox using
+  GXDE GUIs (app chooser, file chooser, print dialog) or using GNOME
+  services (session manager, screenshot provider).
+

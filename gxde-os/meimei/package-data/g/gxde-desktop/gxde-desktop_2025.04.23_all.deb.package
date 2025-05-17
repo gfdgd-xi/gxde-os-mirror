@@ -1,0 +1,23 @@
+Package: gxde-desktop
+Architecture: all
+Version: 2025.04.23
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Depends: deepin-desktop-base, dde-desktop, dde-dock, dde-control-center (>> 2.90.5), dde-launcher, startdde, dde-session-ui, gxde-artwork, dde-file-manager, dde-qt5integration, eject, gxde-wallpapers, fonts-noto, dde-kwin | gxde-kwin, deepin-screensaver, gxde-default-settings, gxde-shell-tools, gxde-compressor, gxde-introduction
+Recommends: gxde-desktop-extra | gxde-desktop-android, gxde-editor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, gxde-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, gxde-image-viewer, gxde-calendar, gxde-calculator, gxde-voice-recorder, deepin-screen-recorder, warm-sched, deepin-camera, gxde-top-panel, plank, fcitx5-material-color, tela-grub2-themes, plymouth-theme-gxde-logo, fcitx5, fcitx5-table, fantascene-dynamic-wallpaper, x11vnc
+Conflicts: dde-control-center (<< 2.90.5), deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, libdframeworkdbus2 (>> 15)
+Filename: ./g/gxde-desktop/gxde-desktop_2025.04.23_all.deb
+Size: 2976
+MD5sum: c61b051a8ba3d5ee5e596b37e543ffd4
+SHA1: 0d3cd6a006bd850ef7f6237394f0479b5d8f726d
+SHA256: f3fbc2e80b99b0b32330a256ca266b87f1de4ad265175c98d9c4070524e8e64f
+SHA512: 6a39b05b232b4036d247cbb7d56c010eae8c59f61933e945f772842ca507bc40d5cf19af52c5005406e4fb02fed4468a17af465a94f9a8acf6d6aa7807f6a046
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

@@ -1,0 +1,19 @@
+Package: dde-session-ui-dbgsym
+Architecture: loong64
+Version: 4.9.23
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-session-ui
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 99695
+Depends: dde-session-ui (= 4.9.23)
+Filename: ./d/dde-session-ui-dbgsym/dde-session-ui-dbgsym_4.9.23_loong64.deb
+Size: 100557444
+MD5sum: bde58b1994620a6071b829c7a132588c
+SHA1: da3f0df88610943c7e3ef792bd4ca4cb2933a198
+SHA256: b4db03f00292cb33e7c36276d3c1272ff4593ab014aea5f42447bbe190176281
+SHA512: 23c03bed615a3bad651be4e2254e1250cc29b377e29b7255f1aa6be3204388f4fa30bee4ceb71ac674cd637895da22e7ffe6bb9320b02d5974bd40a6ace143cb
+Description: debug symbols for dde-session-ui
+Build-Ids: 53353abc1730a2b573829a57575ed071af2b37a7 56cca2335f87835843f22a77889d64668c07bb3b 778bb6b648a0c017051c050fdce79da9a63a83ac 7ac77bd12e7c0c8940624e2d7c5ab46f14e9a7e1 7d44268fe41768dbfe6675180b420d87a7616187 9593066e921fc53bf285e551795c0d5263d4811e 9ff5c1565bfb2f55d98bf395767cda3166b96a68 a550d5aa669bae4f40ac2d6086ed98bcaa0a6850 b90bc9fdada1a59a4f59976b5ae3072eb1391d7c c535e691c6d37dd2f3559dc4e2734545ccde13ac d52659c2b0323590bd8923712b87ee03d0f74dae da2129cfdaf985c2fb8ddf94369b865917824568 f17cd1c60f24221cdf77f2a3358a6571c7e1f296
+

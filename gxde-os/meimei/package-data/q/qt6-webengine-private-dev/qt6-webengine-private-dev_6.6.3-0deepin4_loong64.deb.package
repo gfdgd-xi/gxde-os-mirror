@@ -1,0 +1,29 @@
+Package: qt6-webengine-private-dev
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 370
+Depends: qt6-webengine-dev (= 6.6.3-0deepin4)
+Filename: ./q/qt6-webengine-private-dev/qt6-webengine-private-dev_6.6.3-0deepin4_loong64.deb
+Size: 62188
+MD5sum: ced9353de2d960e99bccdfe9b3095d8b
+SHA1: f778f0ea50a51651c473c966f8ccab4480454ef6
+SHA256: fae00b59a9bd8d3cebfa291e7c920831628ef74b636589c81ccb6665a8289312
+SHA512: 3af1fe11a9163f600647cee95a71ead4c7c80ae8c0ac44c371b79e99fb019bc7d69ebfe44acf6631eff6caf8eafc512517d16dcfed50777dbee3d13cf2c90fbd
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 WebEngine library - private development files
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ Qt WebEngine provides a Web browser engine that makes it easy to embed content
+ from the World Wide Web into your Qt application.
+ .
+ This package contains the private development files needed to build Qt 6
+ applications using Qt WebEngine libraries.
+ .
+ Use at your own risk.
+

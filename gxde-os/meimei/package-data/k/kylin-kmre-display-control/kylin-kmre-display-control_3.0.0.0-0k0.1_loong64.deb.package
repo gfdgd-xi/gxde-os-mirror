@@ -1,0 +1,20 @@
+Package: kylin-kmre-display-control
+Architecture: loong64
+Version: 3.0.0.0-0k0.1
+Priority: optional
+Section: libs
+Maintainer: mc <machao@kylinos.cn>
+Installed-Size: 107
+Provides: display-control-host
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Conflicts: display-control-host, kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data
+Replaces: display-control-host
+Filename: ./k/kylin-kmre-display-control/kylin-kmre-display-control_3.0.0.0-0k0.1_loong64.deb
+Size: 21752
+MD5sum: 11c00f05e2bfe84984490c2229bea815
+SHA1: 43d04b37e034b3ee590d84f50d1f4d54f2c122e6
+SHA256: 3cc29f11df7910e5a99d014fba9ba23a1d84e999755bc1434810504f9769a715
+SHA512: b9112a69800b9fb4de43eefa26c95aec182042402fe31c599bf3a8b43cfff22b788fc02a568767ce15b4dfbb2b423fd929b8b525d1f32993618bdb8334564e5f
+Homepage: http://www.kylinos.cn
+Description: display control libraries for AppStream.
+

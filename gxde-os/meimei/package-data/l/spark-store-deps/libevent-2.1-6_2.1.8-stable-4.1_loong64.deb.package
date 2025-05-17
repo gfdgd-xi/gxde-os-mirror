@@ -1,0 +1,31 @@
+Package: libevent-2.1-6
+Architecture: loong64
+Version: 2.1.8-stable-4.1
+Multi-Arch: same
+Priority: standard
+Section: libs
+Source: libevent
+Maintainer: Anibal Monsalve Salazar <anibal@debian.org>
+Installed-Size: 506
+Depends: libc6 (>= 2.28),liblol,liblol-dkms
+Filename: ./l/spark-store-deps/libevent-2.1-6_2.1.8-stable-4.1_loong64.deb
+Size: 175108
+MD5sum: 9800857d23c31ee6e29766b3a3defb91
+SHA1: 19b5173675847c0d376ffb6af7c464ac713b7c38
+SHA256: 37e513d881387e83c9e6cc8b923cdf0e2b3a501400b0d12f40779b051d669ef2
+SHA512: b0fe52063be4ab100a8d564a5aaffe942cf9905c6112f999a82a28b83ce4688e83aba0449bac6e670adeb91691a2d23e4816e65cd21efd5fa683912e67298a85
+Homepage: http://libevent.org/
+Description: Asynchronous event notification library
+ Libevent is an asynchronous event notification library that provides a
+ mechanism to execute a callback function when a specific event occurs
+ on a file descriptor or after a timeout has been reached.
+ .
+ It is meant to replace the asynchronous event loop found in
+ event driven network servers. Currently, libevent supports /dev/poll,
+ kqueue(2), event ports, select(2), poll(2) and epoll(4).
+ .
+ For backward compatibility and to transition to "libevent_core only"
+ or "libevent_core + libevent_extra", the libevent source package builds
+ the libevent library that includes everything in libevent_core and
+ libevent_extra.
+

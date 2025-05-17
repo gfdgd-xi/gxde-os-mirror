@@ -1,0 +1,18 @@
+Package: lat
+Architecture: loong64
+Version: 1.4.4-1
+Multi-Arch: same
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: deepin <support@deepin.org>
+Depends: libc6 (>= 2.37)
+Filename: ./l/lat/lat_1.4.4-1_loong64.deb
+Size: 1462968
+MD5sum: 850defee6109d0ca1f8e9d828612b67c
+SHA1: ec8be4f4da40093f7b7b744123e2bc465bb3c9d6
+SHA256: b87e0e8e543127b1a092b62289cf290224814b6269dd815050c106ea00b8b504
+SHA512: 81557f9d1cc7a39b08d479edd5ffdb40b4609b04462093ebd5f6b1fe8036fc28c58bf9b97af0318715ea7461f782719f9fc76cae18d918a614278fb2eca08293
+Homepage: http://loongnix.cn
+Description: Loongson Architecture Translator
+ Static binary for Loongson Architecture Translator
+

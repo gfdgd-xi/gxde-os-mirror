@@ -1,0 +1,25 @@
+Package: libdwaylandserver5
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 2595
+Provides: libdwaylandserver5-5.25
+Depends: dwayland-data (= 5.25.0-kwayland.5.24.3), libc6 (>= 2.40), libegl1, libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5.2), libwayland-server0 (>= 1.18~)
+Breaks: libkwin4-effect-builtins1
+Filename: ./l/libdwaylandserver5/libdwaylandserver5_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 393572
+MD5sum: a2e4d0e054ebc34a35de84bbb59707ff
+SHA1: 4adfdf1110afae65b1e639d8041f06d1790850a3
+SHA256: f98cc5de8e7a7f948d699ff11d232559d7decc813f6c41f9ee2b04c1dcbc51c2
+SHA512: 9e324e5fb000c21aeda74d6244b00ce7f0377c14bd716acd59bf4f65ab1de175b37d6f12c7822a44abcb297f4a9511ee6bb0a7b02e31d5592e2339335e740b37
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries
+ DWaylandServier provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+ .
+ This package contains the shared library.
+

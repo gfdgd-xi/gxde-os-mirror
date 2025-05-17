@@ -1,0 +1,20 @@
+Package: python-edgetts-doc
+Architecture: all
+Version: 7.0.0
+Priority: optional
+Section: doc
+Source: python3-edgetts
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Filename: ./p/python-edgetts-doc/python-edgetts-doc_7.0.0_all.deb
+Size: 2756
+MD5sum: bc6d530c71795e67afa241605ee3273d
+SHA1: 5e32aa8cf86e0b5e4de7080a90258e77d4fc5f8e
+SHA256: 9c8635b9572e7ed6bc452125cfada859b4d8d5cdb5e3356adbaecfe6c02dfe08
+SHA512: fb2ac6a9896f4447fa0a6170ee24811c64484cd2e6ad8834fc3176fb9ea737ce7c37c513d42eab513e86bc81ef92f528a8712957bff66f7e8c5e3cd98b247c7e
+Homepage: https://github.com/GXDE-OS/edge-tts
+Description: edge-tts is a Python module that allows you to use Microsoft Edge's online text-to-speech service from within your Python code or using the provided edge-tts or edge-playback command. (common documentation)
+ edge-tts is a Python module that allows you to use Microsoft Edge's online text-to-speech service from within your Python code or using the provided edge-tts or edge-playback command.
+ .
+ This is the common documentation package.
+

@@ -1,0 +1,19 @@
+Package: dde-desktop-dbgsym
+Architecture: loong64
+Version: 4.8.33
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 11792
+Depends: dde-desktop (= 4.8.33)
+Filename: ./d/dde-desktop-dbgsym/dde-desktop-dbgsym_4.8.33_loong64.deb
+Size: 11863536
+MD5sum: e5b269c47cad6e513d5236acd2c4b7c9
+SHA1: 3937d0f29939c7cc209fba5facf0917a88b2bd61
+SHA256: bc147818312752303a545af42e5f59e61ec93380d61e482db6d3bb44bf63331f
+SHA512: b278dfe051eb4469a821d2726cfc2e036186c8d698a8f9d5f88651166bb73bcb124366a815d4e6c1c149c1a2e2c63712aea4fb5a15fdf453effef4b52ce93218
+Description: debug symbols for dde-desktop
+Build-Ids: 7cc4572f593934cc6c9229c7c1a995aec544386a
+

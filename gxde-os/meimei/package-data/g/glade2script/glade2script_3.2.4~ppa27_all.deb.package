@@ -1,0 +1,33 @@
+Package: glade2script
+Architecture: all
+Version: 3.2.4~ppa27
+Priority: optional
+Section: devel
+Maintainer: Yann MRN <yannubuntu@protonmail.com>
+Installed-Size: 9
+Depends: glade2script-python3 | glade2script-python2
+Filename: ./g/glade2script/glade2script_3.2.4~ppa27_all.deb
+Size: 2304
+MD5sum: 9f24cb883b228d114565d982e87e5493
+SHA1: 2393999e27e144751c45f1fcc24292983990f212
+SHA256: 9d67e78e7adb28920cc591d389a11d0979b9ea289e2bfb36352f0c6c0ab0ec35
+SHA512: 98b40f2d68b0d3e04186c5c790a378b548618ab5bb1562ac4e39fc53d3a1e896881c7b0b91823c2b9c4e5946091b2f01f61f9dcbb41f9d037c0d8606c7fc599d
+Homepage: https://launchpad.net/glade2script
+Description: Glade interface engine for scripts
+ Glade2script allows a script (Bash, Python or other) to display and
+ interact with a GUI (created with Glade).
+ .
+ Most of the opportunities offered by Gtk are available. A terminal
+ (vte) and/or webkit are integrable. One can also embed an external
+ application that supports it natively, like mplayer or gvim. A plugin
+ system was added to extend G2S capability.
+ .
+ Documentation, many examples, and an interface giving access to the
+ archive supports (simply install and run glade2script-doc).
+ .
+ Glade2script is used by several software, such as Boot-Repair,
+ OS-Uninstaller, Debeditor, DeskWall, GUnity, LaunchBash, Malokal,
+ mkv_extractor_gui, Screencastor, Sylaba2, Xee, Zenitor.
+ Glade2script allows a script (Bash, Python or other) to display and
+ interact with a GUI (created with Glade).
+

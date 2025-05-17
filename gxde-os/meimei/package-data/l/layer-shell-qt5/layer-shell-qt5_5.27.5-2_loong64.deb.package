@@ -1,0 +1,23 @@
+Package: layer-shell-qt5
+Architecture: loong64
+Version: 5.27.5-2
+Priority: optional
+Section: kde
+Source: layer-shell-qt
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 33
+Depends: libc6 (>= 2.40), liblayershellqtinterface5 (>= 5.21.90), libqt5core5t64 (>= 5.0.2), libqt5waylandclient5 (>= 5.15.2~), libstdc++6 (>= 5), qtwayland-client-abi-5-15-13
+Conflicts: layer-shell-qt
+Filename: ./l/layer-shell-qt5/layer-shell-qt5_5.27.5-2_loong64.deb
+Size: 5992
+MD5sum: 29330a029dd3b68f33f159c57b6460aa
+SHA1: 8f59ede3009abeb8a87ee5cc336c0ee9c2264e74
+SHA256: a1d67c207a6d7b80877b3e7322d4e96accc0b27c639d24a0989c61a2ea3943ea
+SHA512: d671563848eff169448f01dae9099ee7db9468fef35dbe3fb176fc37ea0da93f6969339fba74fe68c24f2fe741b5499a467606c17e5c395b28c00dc1fe265f5d
+Homepage: http://www.kde.org/
+Description: use the Wayland wl-layer-shell protocol - plugin
+ Qt component to allow applications to make use of the Wayland
+ wl-layer-shell protocol.
+ .
+ This package contains the plugin.
+

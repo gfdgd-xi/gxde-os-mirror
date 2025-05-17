@@ -1,0 +1,17 @@
+Package: deepin-gtk-theme
+Architecture: all
+Version: 25.3.9
+Priority: optional
+Section: gnome
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 4435
+Breaks: libgtk-3-0 (<= 3.5.0)
+Filename: ./d/deepin-gtk-theme/deepin-gtk-theme_25.3.9_all.deb
+Size: 262984
+MD5sum: d494169260099a1562a873c08803d234
+SHA1: 9d97d22ba42a9723a709f9dfa6605af3cf5cb534
+SHA256: a82e73bf0a3765253d51019c161a4950c8648f01a894012416d7837c5fc89810
+SHA512: c9ffd0229a7ca7e778ac77aeca236f270c70f480be3ca93fdfced928faa321169aaeec899cc92d29abad1f82dc769696e1996245fe5b7f40548ff578a4785b71
+Description: Deepin Gtk Themes
+ This package contains GTK+ themes for Deepin Desktop Environment.
+

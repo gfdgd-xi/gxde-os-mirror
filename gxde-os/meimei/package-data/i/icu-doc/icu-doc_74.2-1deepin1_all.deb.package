@@ -1,0 +1,21 @@
+Package: icu-doc
+Architecture: all
+Version: 74.2-1deepin1
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Source: icu
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 44540
+Filename: ./i/icu-doc/icu-doc_74.2-1deepin1_all.deb
+Size: 3073400
+MD5sum: d1928575a7dc8b4c01e24f5d678e2d11
+SHA1: 69e49ae8b16c9b935c79e2c2981b166038ebddf6
+SHA256: c7871b3a3567bd8ee080cdf7f6f74d54e015a7f679d02ed4f59596f00d42437b
+SHA512: 3f4757d2243f4f9e5803d6eab7b9a95159bcbc6b949d79d9e114ea8c09c6dbfe52cc023477b150f48c88b23348aab75c1c78726efc4ff58272ebf901a6771fd4
+Homepage: https://icu.unicode.org/
+Description: API documentation for ICU classes and functions
+ ICU is a C++ and C library that provides robust and full-featured
+ Unicode and locale support.  This package contains HTML files
+ documenting the ICU APIs.
+

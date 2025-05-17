@@ -1,0 +1,19 @@
+Package: gxde-downloader
+Architecture: all
+Version: 1.1.3
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Source: gxde-downloader-neo
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1827
+Depends: spark-webapp-runtime (>= 1.8), aria2, bash, unzip, python3-miniupnpc
+Filename: ./g/gxde-downloader/gxde-downloader_1.1.3_all.deb
+Size: 547692
+MD5sum: 128a31f22331bfb4c0d8b701c07e542b
+SHA1: 584e823067bc1680fc76bae3dc2a99049c6ef230
+SHA256: 8f8352f220c34829890dd8682871f2d72c522b0e353900df571b2b653d9911e4
+SHA512: e2d09a3eb16a898de17851a32ce0752407bec9a47f17b8e8dd5334d103b2daa301edd31f71f3244a094234e897c72106c77cc9ed1abca135051a6d94940f602a
+Homepage: https://gitee.com/GXDE-OS/gxde-downloader-neo
+Description: Based on AriaNG we create Downloader NEO
+

@@ -1,0 +1,17 @@
+Package: deepin-scanner
+Architecture: loong64
+Version: 0.1.3
+Priority: optional
+Section: graphics
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 441
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libpng16-16t64 (>= 1.6.2), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5printsupport5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.3.0), libquazip1-qt5-1t64 (>= 1.4), libsane1 (>= 1.0.27), libstdc++6 (>= 14)
+Filename: ./d/deepin-scanner/deepin-scanner_0.1.3_loong64.deb
+Size: 119232
+MD5sum: 73ec3366f4e3277626b9178b93938a15
+SHA1: 473ba62536b74f42d2554ee02f8381ce80d4f1d4
+SHA256: 09504bfd229e4952de875a6d0bfd46451ecb399ac8ad346c99c803d053462b05
+SHA512: 90ead7973604f79f95e752c552b3a26a942bcdc295dd24055d3889815649d05092a186bf1807808cc46e63cd74764819ec1e44430911ff41210a3822fe73addc
+Description: a tool for scanning.
+ Document Scanner is a tool for scanning document files, supporting PDF, JPEG, PNG, TIFF.
+

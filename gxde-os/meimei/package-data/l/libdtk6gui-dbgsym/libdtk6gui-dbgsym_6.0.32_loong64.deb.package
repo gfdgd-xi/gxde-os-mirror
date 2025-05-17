@@ -1,0 +1,20 @@
+Package: libdtk6gui-dbgsym
+Architecture: loong64
+Version: 6.0.32
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6gui
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 8278
+Depends: libdtk6gui (= 6.0.32)
+Filename: ./l/libdtk6gui-dbgsym/libdtk6gui-dbgsym_6.0.32_loong64.deb
+Size: 8106188
+MD5sum: 67ea22f8bcc7da37911a523df9e5bc9b
+SHA1: 5bd2108ed07902910565ec048e7843a45c9792b4
+SHA256: 6bcf28898fd0e0299863b01a2ef750c8d2756e97d140cce637609c418c525a77
+SHA512: 6acb65e02a631c4d91831889df747a49805b9e158c03ee15eb30b71b8947b6782376e41a98fc61c7274d1311d60d0ba61cf5b00d8c995153c753ed4726d9910b
+Description: debug symbols for libdtk6gui
+Build-Ids: f692bac6558ee901b7257e78ac417987c10ea1b5
+

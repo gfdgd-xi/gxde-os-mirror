@@ -1,0 +1,20 @@
+Package: kylin-kmre-daemon
+Architecture: loong64
+Version: 3.0.0.0gxde1
+Priority: optional
+Section: admin
+Maintainer: Machao <machao@kylinos.cn>
+Installed-Size: 710
+Depends: libc6 (>= 2.40), libdbus-c++-1-0v5 (>= 0.9.0), libfuse2t64 (>= 2.9), libfuse3-3 (>= 3.12.0), libgcc-s1 (>= 3.0), libglibmm-2.4-1t64 (>= 2.66.7), libjsoncpp25 (>= 1.9.5), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), crudini, rsync
+Conflicts: kydroid-daemon, kydroid-fuse, kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data, kylin-kmre-fuse
+Replaces: kydroid-daemon, kydroid-fuse, kylin-kmre-fuse
+Filename: ./k/kylin-kmre-daemon/kylin-kmre-daemon_3.0.0.0gxde1_loong64.deb
+Size: 195404
+MD5sum: babd84b0700137e721a0321fb9852509
+SHA1: 98681e849524f647648698d62cd391e7a1eb0d03
+SHA256: 60b6bfd25edffcc929aa0a7161895f46b85beb9248dca362f443e14dacd62ee9
+SHA512: fe8c04423e93b2b56d1ae5a1e18f700f62981f15333847741f28a6e8bed5f6f8fc0db22baa494ae7941c3428e30f091e50ab46addc968b75ef5d346d6cfa3da6
+Homepage: https://www.kylinos.cn
+Description: A DBus daemon for kmre
+ A DBus daemon for kmre.
+

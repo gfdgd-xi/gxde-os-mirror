@@ -1,0 +1,18 @@
+Package: lastore-daemon
+Architecture: all
+Version: 0.14.9
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 9
+Depends: gxde-app-installer, gxde-app-uninstaller, gxde-app-upgrader
+Filename: ./l/lastore-daemon/lastore-daemon_0.14.9_all.deb
+Size: 1680
+MD5sum: 3e3175e26b33f13858584225737ac76e
+SHA1: 40e2704da787879c150729917c02f5011ef73c5b
+SHA256: 3614c217478f2299ee8e0e3432a2a69effdab9222d74ada261011c82c3c0f8c8
+SHA512: e1526e1c2923ed528f25847d56bc95ee05325519b5cbc129bbd1ff0f4b2bc47277f73bc922db0ae10c675a8f521b8264ba80ea98bbabab62c93acbc9b7bed4cf
+Homepage: <insert the upstream URL, if relevant>
+Description: Empty package to replace lastore-daemon
+

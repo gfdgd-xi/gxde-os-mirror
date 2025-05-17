@@ -1,0 +1,16 @@
+Package: treeland-protocols
+Architecture: all
+Version: 0.4.5
+Priority: optional
+Section: dde
+Maintainer: rewine <luhongxu@deepin.org>
+Installed-Size: 90
+Filename: ./t/treeland-protocols/treeland-protocols_0.4.5_all.deb
+Size: 12336
+MD5sum: eaea28968dae6c92a9b86ab85e272255
+SHA1: 260f9d357407d14a9c77dc5c8ae264ca875304e0
+SHA256: 0837e44b48928b0f79387f5a75ae43e8bbab9ec3d21865f7af0d7f31d79c5096
+SHA512: 925bbed905ff3e46d40a827062cbe149b5a4e49f92a4225274b1bb7549f4ee488543f2c2ada7d48032ac84d35fe0c0df823187497aed0905a33d6ea5b94f76bf
+Homepage: https://github.com/linuxdeepin/treeland-protocols
+Description: wayland protocols of treeland.
+

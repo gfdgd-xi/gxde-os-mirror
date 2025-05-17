@@ -1,0 +1,33 @@
+Package: qt6-webengine-dev-tools
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 631
+Provides: convert-bdic
+Depends: libc6 (>= 2.38), libevent-2.1-7 (>= 2.1.8-stable), libgcc-s1 (>= 3.0), libicu74 (>= 74.1-1~), libqt6core6 (>= 6.6.1+dfsg~), libstdc++6 (>= 13)
+Filename: ./q/qt6-webengine-dev-tools/qt6-webengine-dev-tools_6.6.3-0deepin4_loong64.deb
+Size: 186128
+MD5sum: 83259bd40912a3e2649dc862def65970
+SHA1: 9339f03121bf8b9d04638a7722933ebe9e1a9c33
+SHA256: 2648213c66106160040f69cf9cacbeb9183c1f4e08459d49be869eaa70b0db0a
+SHA512: 4b672e9725df2ae529e6dc2d6e9b97d5f7a20dbe66b8dee276baaabd639c04d81eccc78d28a0152db3a8f60e50792b13a150050916105994dc0cbf903448b272
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 WebEngine development programs
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ Qt WebEngine provides a Web browser engine that makes it easy to embed content
+ from the World Wide Web into your Qt application.
+ .
+ This package contains the qwebengine_convert_dict tool which converts hunspell
+ 'dic' dictionaries to binary 'bdic' format, which is required by spellchecker
+ in Qt 6 WebEngine. The package provides the convert-bdic virtual package
+ so that Hunspell dictionaries can depend on it at build time without having
+ to adjust for future Qt releases.
+ .
+ Non-Qt packages using convert-bdic are not supported!
+

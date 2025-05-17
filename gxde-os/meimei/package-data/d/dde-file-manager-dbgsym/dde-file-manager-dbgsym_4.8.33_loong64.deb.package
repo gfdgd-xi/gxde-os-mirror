@@ -1,0 +1,19 @@
+Package: dde-file-manager-dbgsym
+Architecture: loong64
+Version: 4.8.33
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 19518
+Depends: dde-file-manager (= 4.8.33)
+Filename: ./d/dde-file-manager-dbgsym/dde-file-manager-dbgsym_4.8.33_loong64.deb
+Size: 19441160
+MD5sum: 02b5377d6b8b0446fb33b6201732369f
+SHA1: ed55bbbc667cfcab8fee5c9231979ec083562554
+SHA256: 0e9f3c757d1d6ae4d83a87e4ca5c34ce38ea01a852e52169cd8194a8d1e8b2db
+SHA512: 8acfb900a183c4024b4110005953ad67ffc01b2c58e88801129e0b79dc284178a13ade1c1fe5a8f7cd13593fac2bd17d9ede6bf07517dc74fe53aa81b465e144
+Description: debug symbols for dde-file-manager
+Build-Ids: 09bb51ffbdca4461cc1a749f238abbacf8b810ce 5fe5fb8ce8683914226a5f26ade8a12f098cc639 e00a237446338dc403313b8da6568189d5a4b55c fc52eb6bcde4781bf49ab494ffe0bfc32264cfc5
+

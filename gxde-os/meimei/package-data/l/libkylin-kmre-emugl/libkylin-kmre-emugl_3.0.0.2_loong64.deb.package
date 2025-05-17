@@ -1,0 +1,19 @@
+Package: libkylin-kmre-emugl
+Architecture: loong64
+Version: 3.0.0.2
+Priority: optional
+Section: libs
+Source: kylin-kmre-emugl
+Maintainer: mc <machao@kylinos.cn>
+Installed-Size: 11811
+Depends: libc6 (>= 2.40), libdrm2 (>= 2.4.75), libgcc-s1 (>= 3.0), libgl1, libpciaccess0, libstdc++6 (>= 13.1), libx11-6, libxcb-dri3-0, libxcb1, libegl1-mesa (>= 18.0) | libegl-mesa0, libgles2-mesa (>= 18.0) | libgles2
+Conflicts: kydroid2, kydroid2-app-data, kydroid2-daemon, kydroid2-filewatcher, kydroid2-fuse, kydroid2-image-data, libkydroid-emugl-normal
+Filename: ./l/libkylin-kmre-emugl/libkylin-kmre-emugl_3.0.0.2_loong64.deb
+Size: 1820332
+MD5sum: be9b2a2a4731a54f42deb7e843e0500a
+SHA1: cc65bb1875d051949e1f5607df2b5b9258b8d9d1
+SHA256: 5834f508ec83fcacc08df6ce80099b8b440fe6674132a8de210f3671d7fc5a5d
+SHA512: 61dcc75d41f18ecdf636d5e57836dc2b69f28350dd2218daac1dbf37189673292d2b6abdad906ff3d2c111a1985c551e1d97b95e2c2214730d7dc7af82b4147a
+Homepage: http://www.kylinos.cn
+Description: emugl libraries for kylin-kmre.
+

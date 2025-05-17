@@ -1,0 +1,25 @@
+Package: qml6-module-qtquick-pdf
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 289
+Depends: qml6-module-qtquick (>= 6.6.1+dfsg~), qml6-module-qtquick-controls (>= 6.6.1+dfsg~), qml6-module-qtquick-shapes (>= 6.6.1+dfsg~), qml6-module-qtquick-templates (>= 6.6.1+dfsg~), qml6-module-qtquick-window (>= 6.6.1+dfsg~), qt6-image-formats-plugin-pdf, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglx0, libopengl0, libqt6core6 (>= 6.6.1+dfsg~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libqt6opengl6 (>= 6.6.1+dfsg~), libqt6pdf6, libqt6pdfquick6 (>= 6.6.0), libqt6qml6 (>= 6.6.1+dfsg~), libqt6qmlmodels6 (>= 6.6.1+dfsg~), libqt6quick6 (>= 6.6.1+dfsg~), libstdc++6 (>= 5), libxkbcommon0 (>= 0.5.0)
+Filename: ./q/qml6-module-qtquick-pdf/qml6-module-qtquick-pdf_6.6.3-0deepin4_loong64.deb
+Size: 54092
+MD5sum: 511b3504f2ae14bba45f546706aee572
+SHA1: 5ceddf8634bf849f73eaab7fd94ebc0b397aedd5
+SHA256: be35ffcd708dee68d54a27d9d6a38967f0c88f4a63e85eefd365b3a33645246a
+SHA512: 1937870007f91eacb87553515e716845ce0411e0f6f960d878776c32f8a05aaa6aa56d5a6eef08be352e10e13f2a29a634f9d621059328d0ad0211201a400336
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 Quick PDF QML module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt PDF module contains classes and functions for rendering PDF documents.
+ .
+ This package contains the Qt 6 Quick PDF QML module.
+

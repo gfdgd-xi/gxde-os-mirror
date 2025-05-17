@@ -1,0 +1,29 @@
+Package: boot-repair
+Architecture: all
+Version: 4ppa2083
+Priority: optional
+Section: admin
+Maintainer: Yann Mrn <yannubuntu@protonmail.com>
+Installed-Size: 67
+Depends: boot-sav (>= 4ppa2080)
+Recommends: ntfsprogs | ntfs-3g (>= 1:2011.4.12AR.4)
+Filename: ./b/boot-repair/boot-repair_4ppa2083_all.deb
+Size: 16992
+MD5sum: ae9be4b9c8d026ee7619b3c3eaa47346
+SHA1: 274d79151ba8d5009559cd035e6680e23fd416a3
+SHA256: 9429360e69590af6e3c9b5ca2981ab3f4e338c7469ee094b947afc510373a52e
+SHA512: 4b3d242963ef0d31b8afa6703e457334dda954373f7f33a6184bdebb349f0fd3313a0f422aa2292a56aeacacf1aa87636e1cef5a33e6764e5015ebc0e534cc11
+Homepage: https://launchpad.net/boot-repair
+Description: Graphical tool to repair boot problems
+ In some situation, you might loose access to one or several of
+ your operating systems, because of a buggy update, a bootloader
+ problem, or after installing a new OS (e.g. installing
+ Windows breaks Linux bootloader).
+ .
+ Boot-Repair is a graphical tool that will repair these problems,
+ generally by reinstalling GRUB, which then restores access to the
+ operating systems you had installed before the issue.
+ .
+ Boot-Repair also has advanced options to reinstall GRUB, add
+ kernel options, or restore a generic MBR.
+

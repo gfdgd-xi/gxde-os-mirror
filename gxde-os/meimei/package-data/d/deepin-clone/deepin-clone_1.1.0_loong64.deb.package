@@ -1,0 +1,19 @@
+Package: deepin-clone
+Architecture: loong64
+Version: 1.1.0
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 5120
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtklog (>= 0.0), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5t64 (>= 5.14.1), libstdc++6 (>= 14), qtbase-abi-5-15-13, partclone, jfsutils, ntfs-3g, xfsprogs
+Recommends: gxde-system-assistant, garma
+Filename: ./d/deepin-clone/deepin-clone_1.1.0_loong64.deb
+Size: 3936652
+MD5sum: 1b305a0d486b8159981025f553978781
+SHA1: 7c84aa60a7b7e7299c9c0bf6416367ccd8662b38
+SHA256: 1535d0575bd7fd9d176deb649348c7b81dd0391a162ff65b31fc42da7c1c0963
+SHA512: 4def91b3083a839b337d268b28a65bfdf211462dca4bb5a579e6bd57a56cfb905321c6cfa491c9ef4a531694c2a96fc9dcf14a8984a132e5ef10cd242be67456
+Description: Backup Restore Tool
+  It is a tool for disk or partition clone, backup and restore, and other functions.
+  It supports clone disk to disk, disk to file, partition to partition, partition to file; and restore from file to disk, file to partition.
+

@@ -1,0 +1,20 @@
+Package: aptss
+Architecture: all
+Version: 4.7.0-1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo<shenmo@spark-app.store>
+Installed-Size: 149
+Provides: spark-store, spark-store-console
+Depends: wget, aria2, curl, gnupg
+Conflicts: spark-store, spark-store-console
+Filename: ./a/aptss/aptss_4.7.0-1_all.deb
+Size: 29232
+MD5sum: 5bdfff61af88ddefd7034f6ed90b908e
+SHA1: 0294a979074f62135cc630af2a64ced67c3bbc0f
+SHA256: 9600825e9a5ed8f427a9bd12c5ce56b58da54feb8be4704e2f6ac8d92c1143ae
+SHA512: dbef2003181a10bab748f7ab6e4362de6e1639ee4169156a429f444c8a7551d4a1fa1c5b9dd32f38f5ee4f03fceda559763e2e1515ad92b8b52e41ece9628c97
+Homepage: https://gitee.com/GXDE-OS/aptss/
+Description: aptss
+

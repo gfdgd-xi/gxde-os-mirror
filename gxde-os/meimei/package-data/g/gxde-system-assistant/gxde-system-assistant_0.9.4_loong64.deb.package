@@ -1,0 +1,20 @@
+Package: gxde-system-assistant
+Architecture: loong64
+Version: 0.9.4
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 816
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.3), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.11.0~rc1), libqt5xdg3 (>= 3.10.0~), libstdc++6 (>= 13.1)
+Recommends: gxde-timer, deepin-clone, gxde-kernel-manager, gxde-easteregg-yunli, gxde-autotrash
+Conflicts: sysbro
+Replaces: sysbro
+Filename: ./g/gxde-system-assistant/gxde-system-assistant_0.9.4_loong64.deb
+Size: 159244
+MD5sum: fee49fd3c5e460a15e67b154533257f5
+SHA1: 6ea66ccda7752fa62a7b3b48a05f37004b1ccdbf
+SHA256: dbbad0dfc3c7527e27aa7ef73a1d97ad9a2b41b51990b9b7144e5d6dda68017c
+SHA512: 61fda95d409717e7051946957fb5c67dbf56464671ea097d38910f433d18523da74fea11c7f504418be7ba33aac46d80aa00fd5eab78d08f5c76bb3176db5815
+Homepage: https://gitee.com/GXDE-OS/gxde-system-assistant
+Description: Sysbro is a system assistant for GXDE.
+

@@ -1,0 +1,30 @@
+Package: libgnome-keyring-common
+Architecture: all
+Version: 3.12.0-2
+Multi-Arch: foreign
+Priority: optional
+Section: libs
+Source: libgnome-keyring
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 328
+Breaks: libgnome-keyring0 (<< 3.2.0-4)
+Replaces: libgnome-keyring0 (<< 3.2.0-4)
+Filename: ./l/libgnome-keyring-common/libgnome-keyring-common_3.12.0-2_all.deb
+Size: 57296
+MD5sum: d249cf81e73d1a61e553e6bd48715a22
+SHA1: f22157dc9c9fcd39dff5cf24ca882fb8005d8edd
+SHA256: 26c961558036bccfc181de90e4698e233a5364d82a683bf4d4e4a2f86026b09b
+SHA512: 460a9626acef9d86ce1c7674f0bf95255dd23a91726b73fb4d203aa42d0044c23fe5b031b14296543c4c31006cb27af022d330c2f0cefc502f35aa6e218eb4fb
+Homepage: https://wiki.gnome.org/GnomeKeyring
+Description: GNOME keyring services library - data files
+ gnome-keyring is a daemon in the session, similar to ssh-agent,
+ and other applications can use it to store passwords and other
+ sensitive information.
+ .
+ The program can manage several keyrings, each with its own master
+ password, and there is also a session keyring which is never stored to
+ disk, but forgotten when the session ends.
+ .
+ This package contains data files and translations for the GNOME keyring
+ library.
+

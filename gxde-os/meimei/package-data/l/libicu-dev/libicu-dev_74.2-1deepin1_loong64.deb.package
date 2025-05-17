@@ -1,0 +1,25 @@
+Package: libicu-dev
+Architecture: loong64
+Version: 74.2-1deepin1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: icu
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 101375
+Depends: libicu74 (= 74.2-1deepin1), icu-devtools (>= 74.2-1deepin1), libc6-dev | libc-dev
+Suggests: icu-doc
+Breaks: icu-devtools (<< 74.1~rc-1~)
+Replaces: icu-devtools (<< 74.1~rc-1~)
+Filename: ./l/libicu-dev/libicu-dev_74.2-1deepin1_loong64.deb
+Size: 15070296
+MD5sum: 92d3b435e5810b78f39c641280f74a5f
+SHA1: a315585642d0e2cf0429bbe7e81f12aef3168144
+SHA256: 0097f7a413bc81529df1d21103e49bdf65cb957a1b54da2f840899444d513480
+SHA512: 476998fdff888096b1ef454a51bcc6c56fa57c91a81dfc7d4ba7a983170148ac3cc0e3c36274a65be63f41f8ff574091e78b13c3818fa4ed1d0f7a7ac3977def
+Homepage: https://icu.unicode.org/
+Description: Development files for International Components for Unicode
+ ICU is a C++ and C library that provides robust and full-featured
+ Unicode and locale support.  This package contains the development
+ files for ICU.
+

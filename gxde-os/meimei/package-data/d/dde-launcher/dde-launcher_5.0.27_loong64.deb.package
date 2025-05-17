@@ -1,0 +1,18 @@
+Package: dde-launcher
+Architecture: loong64
+Version: 5.0.27
+Priority: optional
+Section: x11
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 1718
+Depends: libc6 (>= 2.40), libdframeworkdbus2 (>= 6.0.0), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 2:2.3.1), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libxcb-ewmh2 (>= 0.4.1), libxcb1, qtbase-abi-5-15-13, lastore-daemon, deepin-desktop-schemas (>= 3.1.11), gxde-app-uninstaller
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-launcher/dde-launcher_5.0.27_loong64.deb
+Size: 332760
+MD5sum: 50094ffe5e30694b7d59ea3e2ab5444d
+SHA1: d84629f0c4ef63a420277d00523ac9308bddf38f
+SHA256: 088d1071f10117d235a97a5df472008b944c72a1f3bee9ce21c62b2301034836
+SHA512: 7a20d6e14deb9ab520dfcf0efa4efcd4d064503fcadac98b31e340d9c9ee2a25ac23f216be7f6483ebd7e8703c3a8955c4de302db85100c91409f174efdd1a02
+Homepage: http://www.deepin.org/
+Description: GXDE desktop-environment - launcher module
+

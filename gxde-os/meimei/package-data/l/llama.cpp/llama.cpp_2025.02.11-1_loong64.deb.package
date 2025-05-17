@@ -1,0 +1,17 @@
+Package: llama.cpp
+Architecture: loong64
+Version: 2025.02.11-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 56869
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), libstdc++6 (>= 14)
+Filename: ./l/llama.cpp/llama.cpp_2025.02.11-1_loong64.deb
+Size: 7507188
+MD5sum: d9667597fcfc7eff474f5f842e4395d7
+SHA1: 80b6506dbd9df49853c19d640e27ef4f9e5188d2
+SHA256: f36d3b475467314f7ca83d06586eeeb921b59407c5aa8fcf14b10a1ab1c68641
+SHA512: 53fb3ad789ab4510249e3a0556320af0156c729d47d0c067713c3743dfb10047b31e3b66d0dfccd8b7665afef53f2887d990aee3980260989e235d2686e15709
+Homepage: https://gitee.com/GXDE-OS/llama.cpp
+Description: Inference of Meta's LLaMA model (and others) in pure C/C++
+

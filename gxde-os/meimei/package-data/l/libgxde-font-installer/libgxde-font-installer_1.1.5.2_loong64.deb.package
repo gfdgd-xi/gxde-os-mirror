@@ -1,0 +1,20 @@
+Package: libgxde-font-installer
+Architecture: loong64
+Version: 1.1.5.2
+Multi-Arch: same
+Priority: optional
+Section: utils
+Source: gxde-font-installer
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 101
+Depends: libc6 (>= 2.40), libdtkwidget2 (>= 15.14.1), libfreetype6 (>= 2.2.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./l/libgxde-font-installer/libgxde-font-installer_1.1.5.2_loong64.deb
+Size: 24964
+MD5sum: 5193c9be6cc268da75182f92ea624e57
+SHA1: e361053a5649b09dbddee8ddf326f25efbc4ce53
+SHA256: 790a66454a2f490a0c1f7b0108b7f3f7138deb79abb6620fa7ec9ba089345022
+SHA512: 4501ddbcf44168196754adaf65d5fbfdfa57695af49a007e82009a7c86a9494853926c8b4bdf337cc284657f3891be4ca4e388f2d4c657d6c2dbe4bb3400ff31
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE Font Installer library
+ This package contains the shared libraries.
+

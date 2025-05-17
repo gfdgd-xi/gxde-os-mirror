@@ -1,0 +1,20 @@
+Package: dummyapp-wps-office
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: editors
+Source: gxde-dummyapps
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 17
+Provides: wps-office
+Depends: spark-store (>= 4.3.2)
+Conflicts: wps-office
+Filename: ./d/dummyapp-wps-office/dummyapp-wps-office_1.0.0_all.deb
+Size: 3232
+MD5sum: df768faa94a04d32ebb178c3fbfac69e
+SHA1: a1f8a031918b2509a0ddc0512f56b72323e1170c
+SHA256: 90e8796591f8dd1fd57c39e7f7bf4cc444f123fb30e86ee2e22b28ce9123e1aa
+SHA512: e686a10eff4ce1da145dea21473f1121d2fa31ba9592d5b5b6e68ec584c2c70368f64a2c5c06a8374519368f151970f09bebb61b02121df011779c490c03d943
+Description: wps-office dummy package that provides placeholder
+ application icon that installs wps-office on demand.
+

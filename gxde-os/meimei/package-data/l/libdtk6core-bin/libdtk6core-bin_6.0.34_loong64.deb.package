@@ -1,0 +1,20 @@
+Package: libdtk6core-bin
+Architecture: loong64
+Version: 6.0.34
+Priority: optional
+Section: libdevel
+Source: dtk6core
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 789
+Depends: libc6 (>= 2.40), libdtk6core (= 6.0.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.6.0), libqt6dbus6 (>= 6.6.0), libqt6xml6 (>= 6.1.2), libstdc++6 (>= 14), qt6-base-private-abi (= 6.6.2)
+Filename: ./l/libdtk6core-bin/libdtk6core-bin_6.0.34_loong64.deb
+Size: 318664
+MD5sum: 0ff9cd1ba1e7b98bec5a2f9006c34106
+SHA1: f502518c9bc8d30df91e8820382f88a36d877e44
+SHA256: 516dd323f0fe1c39fe0a011d66700418b38eb0ba2e1d131d3b66429b65017168
+SHA512: bc55e8421a047a8334ed9ed0ea9951249fbdbb4553543008361d146e4802381fc1eef5e396e6e3a245f3d3e2a4097c99cd86bdbfd3e71dbbf097ff1da283ad5d
+Description: Deepin Tool Kit Core Utilities
+ DtkCore is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the utilities of DtkCore
+

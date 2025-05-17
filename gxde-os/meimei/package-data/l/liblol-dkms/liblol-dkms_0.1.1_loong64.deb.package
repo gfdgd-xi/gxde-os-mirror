@@ -1,0 +1,20 @@
+Package: liblol-dkms
+Architecture: loong64
+Version: 0.1.1
+Priority: extra
+Section: kernel
+Maintainer: Miao Wang <shankerwangmiao@gmail.com>
+Installed-Size: 44
+Depends: dkms (>= 3.0.11)
+Conflicts: glibc
+Filename: ./l/liblol-dkms/liblol-dkms_0.1.1_loong64.deb
+Size: 8152
+MD5sum: 3db8987c35b386402d53897109891720
+SHA1: d71813ee1a3469be6a14a5860ce12ada4b376007
+SHA256: 34330e3ab65470311c0150ebc33af0bdb103d3b2f8ebeddaeb07db3990464962
+SHA512: aa8680eed963a45379d28d1b27ebf261135f5ed590a45769636e5e21fae87b2d52ed79aa18b6f6c1e8fb9035597c7fb83f16d50deb32b3e9247b8b7600e46157
+Homepage: https://github.com/AOSC-Dev/la_ow_syscall
+Description: Compatibility layer kmod for old world applications
+  This package contains a compatibility layer for old world
+  applications on new world loongarch64 platform.
+

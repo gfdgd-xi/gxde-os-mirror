@@ -1,0 +1,20 @@
+Package: gxde-live-local
+Architecture: all
+Version: 2.1.3
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 28
+Provides: live-filesystem, live-filesystem-community-debian, live-filesystem-community-debian-core, live-filesystem-community-debian-mini, live-filesystem-community-full, live-filesystem-community-full-15.11, live-filesystem-community-tiny
+Depends: debconf (>= 0.5) | debconf-2.0, grub-common, python3, python3-pycdlib
+Conflicts: live-filesystem, live-filesystem-community-debian, live-filesystem-community-debian-core, live-filesystem-community-debian-mini, live-filesystem-community-full, live-filesystem-community-full-15.11, live-filesystem-community-tiny
+Replaces: live-filesystem, live-filesystem-community-debian, live-filesystem-community-debian-core, live-filesystem-community-debian-mini, live-filesystem-community-full, live-filesystem-community-full-15.11, live-filesystem-community-tiny
+Filename: ./g/gxde-live-local/gxde-live-local_2.1.3_all.deb
+Size: 5592
+MD5sum: 1bae53042acca8425b8dcd59c474339c
+SHA1: 0aff4ab7bc22eb13ddaf918b68806142c482e62d
+SHA256: 7e99c945ec2999d35e41fc111c6b2951e43bb23b8988c90407dee7b42d517874
+SHA512: f6c4f0e5f04e740a8cb13dda8dfd74a9f36a0150b4e77d4cc395a2d0204207bd919320884f8a3f10eeef8c77f05beb0fddcc4f57c184431f57d834808bc3ab5b
+Homepage: https://gitee.com/GXDE-OS/gxde-live-local
+Description: GXDE Live on local disk
+

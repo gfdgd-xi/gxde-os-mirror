@@ -1,0 +1,18 @@
+Package: libdtklog-dev
+Architecture: loong64
+Version: 0.0.3
+Priority: optional
+Section: libdevel
+Source: dtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 54
+Depends: libdtklog (= 0.0.3)
+Filename: ./l/libdtklog-dev/libdtklog-dev_0.0.3_loong64.deb
+Size: 9036
+MD5sum: 75f81b34f3316152baf0a787a80bd462
+SHA1: 4a1bcf05333a880e0bab22130165ee55d4445c65
+SHA256: a1aed5594129bde6df0a12b83b5f04c36f6b52d9988b9a65e5f061be545f3d42
+SHA512: 8f70fb6a7d3f960459768163c5665c9171c547308b6ac1d42622a3e0ce45aa3fcf9830a466a578394558a73a6697cfb8172fe0b10b39aa8ef84cddb75f3a2757
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the header files and static libraries of dlog
+

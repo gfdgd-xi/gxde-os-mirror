@@ -1,0 +1,18 @@
+Package: gxde-picker
+Architecture: loong64
+Version: 1.6.7
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 187
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5t64 (>= 5.2.0), libstdc++6 (>= 13.1), libx11-6, libxtst6
+Filename: ./g/gxde-picker/gxde-picker_1.6.7_loong64.deb
+Size: 47676
+MD5sum: 0a9262f477a68310908055025cf76c1c
+SHA1: 597dc9d119d42d418cfb925050cc359918a8a842
+SHA256: eac0216479ed98884ac9525062ba0f26c5fe42a8f19ba438dc0f1fedf29f7fed
+SHA512: 0f8d1c92d91f8981de34de779f310e23c71cb701626216d9840dc861e6398b540e4c82c78f8e3c493ac8fc7067d64fed58ea8216fc6ba2a9eb27310eea714137
+Homepage: http://www.deepin.org
+Description: Color picker tool for GXDE
+ A color picker tool for GXDE.
+

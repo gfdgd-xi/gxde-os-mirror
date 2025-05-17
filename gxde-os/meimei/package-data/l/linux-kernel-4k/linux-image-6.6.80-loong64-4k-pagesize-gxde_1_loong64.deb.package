@@ -1,0 +1,19 @@
+Package: linux-image-6.6.80-loong64-4k-pagesize-gxde
+Architecture: loong64
+Version: 1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: shenmo-thunder <shenmo-thunder@shenmo-thunder-PC>
+Installed-Size: 62321
+Filename: ./l/linux-kernel-4k/linux-image-6.6.80-loong64-4k-pagesize-gxde_1_loong64.deb
+Size: 53213520
+MD5sum: b76d6578f6b7a98aa60c433138350728
+SHA1: 452e0b68a7bc5842eb3eb13b36287db5936e115b
+SHA256: d8ccbe1a195abd3052dc88b158b84bb2f085ab52f7c83db90a42dc2c25c20e19
+SHA512: e72a81c698d69cfa8ac5d5f4b8195f45164c5c3e4c080eb0d206149163660afc10e272d68af11f3803c956f297286186ca628ba7bc1a51fa9ef1a496c54f3cfd
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.80-loong64-4k-pagesize-gxde
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.80-loong64-4k-pagesize-gxde.
+

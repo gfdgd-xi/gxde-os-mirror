@@ -1,0 +1,19 @@
+Package: gxde-app-upgrader
+Architecture: all
+Version: 1.5.2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 87
+Depends: zenity, bash, libnotify-bin, transhell
+Recommends: spark-store | aptss, garma
+Filename: ./g/gxde-app-upgrader/gxde-app-upgrader_1.5.2_all.deb
+Size: 20560
+MD5sum: 8b2183504fd0e66f03bfc0e23c589411
+SHA1: 2ccd225fc44bc45e1eb57f433a5349f383554def
+SHA256: af7c33eabb2342198ff8b897ceff44dff50c39fc84f96bec930cf19861c9001a
+SHA512: d60d3c7de77664910fcd47335ecf459f58fdc92b659831f1ea3d70f0a1308ddf7809e5db8b077d24f12703a1f58b66e3125b7028e863a86a5fed7c4d4a5d8385
+Homepage: https://gitee.com/GXDE-OS/gxde-app-upgrader
+Description: GXDE App Upgrader
+

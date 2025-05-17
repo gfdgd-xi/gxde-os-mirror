@@ -1,0 +1,18 @@
+Package: gxde-artwork
+Architecture: all
+Version: 2024.08.25
+Priority: optional
+Section: misc
+Maintainer: LiLongyu <lilongyu@linuxdeepin.com>
+Installed-Size: 9
+Depends: gxde-icon-theme, deepin-gtk-theme
+Suggests: grub-theme-gxde
+Filename: ./g/gxde-artwork/gxde-artwork_2024.08.25_all.deb
+Size: 1916
+MD5sum: 2439ecc02761685530141ae0514d6a62
+SHA1: b032159767e7a2dc82d167235f27afd90df53709
+SHA256: f63f78dd7eb6cdd251d94714f5943659e9fa061efff5442158854e4b8f357d53
+SHA512: a720df8f54bb4c8734553c03b89f7cc699be4ec40fb39f851e9f03f3caad0e1ef89e5576b5fb99491ed855956be74f894e9cc12c4552bb8131500440fd769636
+Description: GXDE Artwork
+ This package is a meta package of GXDE Artworks.
+

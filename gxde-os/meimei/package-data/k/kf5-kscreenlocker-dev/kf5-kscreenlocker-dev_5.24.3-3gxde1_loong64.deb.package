@@ -1,0 +1,33 @@
+Package: kf5-kscreenlocker-dev
+Architecture: loong64
+Version: 5.24.3-3gxde1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: kscreenlocker
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 47
+Depends: kf5-libkscreenlocker5 (= 5.24.3-3gxde1)
+Conflicts: kscreenlocker-dev
+Filename: ./k/kf5-kscreenlocker-dev/kf5-kscreenlocker-dev_5.24.3-3gxde1_loong64.deb
+Size: 10764
+MD5sum: 91aca7236973c0044b4efa3df94c0f59
+SHA1: c988c13aebfc4b1f22c1b75171b62d8a28056d87
+SHA256: be4f2c11eedfe1aa8f4d0b2408aaebf04c50f5d9249bd91dcdb8bd47f3754c89
+SHA512: ceca3733b7ba7acb8feae43c6cbd27e84a256c845b052f16cc53571a0e1b1ef19f7011ecf8c94990a8778d71ae383f6e54b74e40ab9dc0d12c54b9c5ef5a8946
+Homepage: https://invent.kde.org/plasma/kscreenlocker
+Description: Development files for kscreenlocker
+ KDE systemsettings module to configure kscreenlocker.
+ .
+ kscreenlocker can be configured to support the PAM ("Pluggable Authentication
+ Modules") system for password checking (for unlocking the display).
+ .
+ PAM is a flexible application-transparent configurable user-authentication
+ system found on FreeBSD, Solaris, and Linux (and maybe other unixes).
+ .
+ Information about PAM may be found on its homepage
+       http://www.kernel.org/pub/linux/libs/pam/
+ (Despite the location, this information is NOT Linux-specific.)
+ .
+ This package contains development files for kscreenlocker.
+

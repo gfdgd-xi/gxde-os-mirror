@@ -1,0 +1,19 @@
+Package: gxde-boot-maker
+Architecture: loong64
+Version: 2.0.5.2
+Priority: extra
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Installed-Size: 4427
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtklog (>= 0.0), libdtkwidget2 (>= 15.14.3), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.6.0~beta) | libqt5gui5-gles (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 5.2), p7zip-full, mtools
+Filename: ./g/gxde-boot-maker/gxde-boot-maker_2.0.5.2_loong64.deb
+Size: 849344
+MD5sum: e1c730b8616f146cee31a6593e761d2a
+SHA1: d1b5a6115ab21a76b16329b67bfbffea63fccd16
+SHA256: efb7b89e7fa2a2c408fe5e4837d18ce400510101c5126f75cf11265fe1474a02
+SHA512: 7e6ce6adf727df23611cc96f90f2a9cbf670ac193ae13373bcfeb33f2c85fbfb96d400aec3ff1ccdf58b99ab0084c1de30da0c1fcd627c730aebad6a86af91e1
+Homepage: http://gitee.com/GXDE-OS/gxde-boot-maker
+Description: Deepin Boot Maker is help for user to create a boot
+ usb stick quick and easy, it designed to support only deepin
+ install iso, but it can work for all ubuntu live install iso too.
+

@@ -1,0 +1,16 @@
+Package: libvpx7
+Architecture: loong64
+Version: 1.0.0
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 837
+Depends: libvpx9
+Filename: ./l/libvpx7/libvpx7_1.0.0_loong64.deb
+Size: 816
+MD5sum: 358722510007fa3fa178573b9718d0d3
+SHA1: a05d467dacfd12a6a90e44835c2df009090ce283
+SHA256: 351ed16ad3795614c595eccd9cd3f83cb196fbe0922f947bd4347dbf596108a3
+SHA512: 5efe8f99bfe892fc4fe8a2a7f27a64cb96027c2435ecef1641767a3c80f02be706b5ad7804679b9630d7453f26a9bffc20dc2c19d5ceef08253b5a7caf91b0c6
+Description: Wrapper package of libvpx9
+

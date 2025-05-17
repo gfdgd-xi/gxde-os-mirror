@@ -1,0 +1,24 @@
+Package: linux-headers-6.6.52-loong64
+Architecture: loong64
+Version: 6.6.52-1.3-lnd.7
+Priority: optional
+Section: kernel
+Source: linux
+Maintainer: Debian Kernel Team <debian-kernel@lists.debian.org>
+Installed-Size: 3158
+Depends: linux-headers-6.6.52-common (= 6.6.52-1.3-lnd.7), linux-image-6.6.52-loong64 (= 6.6.52-1.3-lnd.7) | linux-image-6.6.52-loong64-unsigned (= 6.6.52-1.3-lnd.7), linux-kbuild-6.6.52, gcc-14
+Filename: ./l/linux-headers-6.6.52-loong64/linux-headers-6.6.52-loong64_6.6.52-1.3-lnd.7_loong64.deb
+Size: 1321508
+MD5sum: 364c26ad962d99029f0c4769fb258ea2
+SHA1: 08130a176b939a10264cdd0a5dbc22e6233188b6
+SHA256: c479bf9c2045649484dfeca630a267dd3fae3bbe79c628c29208decd99b9d158
+SHA512: 32fda5e58afc9926ce804a6e3ae6eb551959ea0489966e338ffe82df4396e93f63467ca57fcc210935d523b03ac51ac1c34fc5fc176e6b2d6d9286b4d1d8d3ac
+Homepage: https://www.kernel.org/
+Description: Header files for Linux 6.6.52-loong64
+ This package provides the architecture-specific kernel header files for
+ Linux kernel 6.6.52-loong64, generally used for building out-of-tree
+ kernel modules.  These files are going to be installed into
+ /usr/src/linux-headers-6.6.52-loong64, and can be used for building
+ modules that load into the kernel provided by the
+ linux-image-6.6.52-loong64 package.
+

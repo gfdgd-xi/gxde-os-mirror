@@ -1,0 +1,17 @@
+Package: screensaver-pp
+Architecture: loong64
+Version: 0.0.3
+Priority: optional
+Section: devel
+Maintainer: Packages Builder <zccrs@live.com>
+Installed-Size: 259
+Depends: deepin-screensaver, qml-module-qtquick-particles2, qml-module-qtquick2, qml-module-qtquick-window2, qml-module-qtgraphicaleffects
+Filename: ./s/screensaver-pp/screensaver-pp_0.0.3_loong64.deb
+Size: 251412
+MD5sum: f8ab8b2443c17136d6cecb5e2f80db09
+SHA1: 56ca2099d211c20150b3ef19782a4199c058db69
+SHA256: a4674db45ca36b260761609cf7e3d26c1d4fb0624f311d148121b6b5acc9db64
+SHA512: ed90ea875f82893aa5678bc62eb96c85e3e95ab65f2405a6d347633098a1e05b7f7bee3452209d7142cda82ca6fb9a63fec43151ae6f68f2e77ee703a67ac7b9
+Description: A bubble screensaver application
+ Apply to Deepin Desktop Environment.
+

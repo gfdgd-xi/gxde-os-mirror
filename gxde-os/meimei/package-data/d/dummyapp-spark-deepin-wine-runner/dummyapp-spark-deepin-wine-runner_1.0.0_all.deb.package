@@ -1,0 +1,20 @@
+Package: dummyapp-spark-deepin-wine-runner
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: editors
+Source: gxde-dummyapps
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 25
+Provides: spark-deepin-wine-runner
+Depends: spark-store (>= 4.3.2)
+Conflicts: spark-deepin-wine-runner
+Filename: ./d/dummyapp-spark-deepin-wine-runner/dummyapp-spark-deepin-wine-runner_1.0.0_all.deb
+Size: 8160
+MD5sum: 7f40277c7af944511dd79e168490c23e
+SHA1: d24ac4d84f4749589804199f1bd7f802018e30d9
+SHA256: 0327c645b41c12b41af961fbd1defb8e107b6ba10537ec644bbdfc25d28be31a
+SHA512: db529d8261f8ad14b8de0ebd1e4cb2a0a1fe6c28df76fc67ea2b7fffd813a251b7b8257f8825d37ec5750e3f8dcc75ce32e87f8230bd1738fc2831b4ff99dbba
+Description: spark-deepin-wine-runner dummy package that provides placeholder
+ application icon that installs spark-deepin-wine-runner on demand.
+

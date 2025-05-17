@@ -1,0 +1,20 @@
+Package: libgxde-font-installer-dev
+Architecture: loong64
+Version: 1.1.5.2
+Priority: optional
+Section: utils
+Source: gxde-font-installer
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 26
+Depends: libgxde-font-installer (= 1.1.5.2)
+Filename: ./l/libgxde-font-installer-dev/libgxde-font-installer-dev_1.1.5.2_loong64.deb
+Size: 3688
+MD5sum: 88f8cf80b83ac8f6f828ee1a58c32523
+SHA1: 22561f59b8783e36bae293c6b87a2d77e9a62a64
+SHA256: 0a68afcf763507dce887475a3c59b1528858e991615a06cb1c02c0b93b5acc79
+SHA512: e50ca3f16d9bd73c88e7b2f08ace77e2de0d6a29fd4231ae99938fe555af014e80abd1bacfa31f53263b9ccd4c5f53b7a8b38323e81c593061394f482c5703d8
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE Font Instaler Devel library
+ This package contains the header files and static libraries
+ of libgxde-font-installer
+

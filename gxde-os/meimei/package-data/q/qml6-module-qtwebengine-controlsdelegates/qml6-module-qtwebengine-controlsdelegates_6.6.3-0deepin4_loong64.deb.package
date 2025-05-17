@@ -1,0 +1,29 @@
+Package: qml6-module-qtwebengine-controlsdelegates
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 324
+Depends: qml6-module-qtquick, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libqt6qml6 (>= 6.6.1+dfsg~), libstdc++6 (>= 5)
+Breaks: libqt6webenginequickdelegatesqml6
+Replaces: libqt6webenginequickdelegatesqml6
+Filename: ./q/qml6-module-qtwebengine-controlsdelegates/qml6-module-qtwebengine-controlsdelegates_6.6.3-0deepin4_loong64.deb
+Size: 60036
+MD5sum: f5f03dc4984c826b230d7e1319a705e9
+SHA1: 09c87ad2f771f6cfdffee5815f3c5c34ad503812
+SHA256: 8ebd40d0149b44da9d57af006c437dd2383a42009b5bce1fdfd564ed2c3dd11a
+SHA512: da399e1cb2344a34485ab1c1422ceaefe7d34a0f3f4089594d4d7ee50324052f965a49f26d62ba0cbeaafc41c895620e333a1a515aded78a3e7a90bf9a6b1e48
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 WebEngine Controls Delegates QML module
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ Qt WebEngine provides a Web browser engine that makes it easy to embed content
+ from the World Wide Web into your Qt application.
+ .
+ This package contains the Qt 6 WebEngine Controls Delegates QML module
+ for Qt 6 Declarative.
+

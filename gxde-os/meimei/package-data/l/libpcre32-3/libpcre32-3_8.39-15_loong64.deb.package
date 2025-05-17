@@ -1,0 +1,21 @@
+Package: libpcre32-3
+Architecture: loong64
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 369
+Filename: ./l/libpcre32-3/libpcre32-3_8.39-15_loong64.deb
+Size: 183080
+MD5sum: 81fdd9608ed136930ae45039cb3e0a01
+SHA1: eb8b12a3e5f427fb4d791d821f0a4ef1b0502e83
+SHA256: 88694f898008d168a1b087fa1cc1aaf239d01f6a6836971f175070d35632be0a
+SHA512: fe4602aa52049d54439c3c4f47155e4e0c16bdf560228b5da9745feb554d47d0e77234256f985d25d0c6052842196a790754a9e4baeeeee64b6325e65f938b7a
+Description: Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
+ This is a library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ This package contains the 32 bit runtime library.
+

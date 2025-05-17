@@ -1,0 +1,20 @@
+Package: gxde-wallpapers
+Architecture: all
+Version: 1.7.34
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 55289
+Recommends: gxde-community-wallpapers
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Replaces: debian-dde-wallpapers
+Filename: ./g/gxde-wallpapers/gxde-wallpapers_1.7.34_all.deb
+Size: 53830920
+MD5sum: 31b3d28f0c34c1921e18656110cbc2fd
+SHA1: ffc3fe72d60a0cddacf1531c37cdbb7a6b5435ad
+SHA256: 9ecab796e77ecb94b744091cd34c3f924f7cc69b1e760e0877b00c234576e975
+SHA512: d38847f86fe934dc18f04d0efa3e7575b3d78332ec72a98dc4cc09da1665052f08141d11fa05d0ea7ce8166dd437744f52b5efe3f89484523b976e2aca56953f
+Homepage: https://www.deepin.org/
+Description: dde wallpapers
+ Default wallpapers for dde
+

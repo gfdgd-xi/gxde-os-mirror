@@ -1,0 +1,24 @@
+Package: libkf5globalaccel-data
+Architecture: all
+Version: 5.117.0~realis5.103.0-1
+Multi-Arch: foreign
+Priority: optional
+Section: libs
+Source: kglobalaccel
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 373
+Filename: ./l/libkf5globalaccel-data/libkf5globalaccel-data_5.117.0~realis5.103.0-1_all.deb
+Size: 24848
+MD5sum: dfff07ed5eae802a4cfd5a9b8502aa4b
+SHA1: 9fa9fe1ef2d251c3bb30316d69bf3542f52f6a2f
+SHA256: 5c285c2193dc56564936a7e222c9c995bfb4034b72a6548cdc028ab0386fe215
+SHA512: b05be7251946b7c3cb5d7aa59f05d0e977728ece2377ffbdec275246fb4382284d05ebe05bb4e8651aca129dc84fa2375ba2ae612bd6e8318f65bb3c85652e3d
+Homepage: https://invent.kde.org/frameworks/kglobalaccel
+Description: Configurable global shortcut support.
+ KGlobalAccel allows you to have global accelerators that are
+ independent of the focused window. Unlike regular shortcuts,
+ the application's window does not need focus for them to be
+ activated.
+ .
+ This package contains data files.
+

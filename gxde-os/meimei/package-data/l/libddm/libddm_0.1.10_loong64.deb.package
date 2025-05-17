@@ -1,0 +1,20 @@
+Package: libddm
+Architecture: loong64
+Version: 0.1.10
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ddm
+Maintainer: justforlxz <zhangdingyuan@deepin.org>
+Installed-Size: 473
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.6.1~), libqt6dbus6 (>= 6.6.1~), libqt6network6 (>= 6.6.1~), libqt6qml6 (>= 6.6.1~), libstdc++6 (>= 5.2), libxau6 (>= 1:1.0.9)
+Filename: ./l/libddm/libddm_0.1.10_loong64.deb
+Size: 114788
+MD5sum: 417058ab9f91ce8206f87155878c4056
+SHA1: 162286066e9454bef4ebfad1b687f28ff96922bb
+SHA256: 6d8e5b8237c168f3160997b477d1495e913998d61ad0a5c305067f2ea03156d5
+SHA512: 3d0737666ee72574316497db28e83a8f6b18e1a9987661f5d3789320fe5cfb5d8c2698422854b7d4790c70eaefb449558983b45b8fbe227976d48722b6640e51
+Homepage: https://github.com/linuxdeepin/ddm.git
+Description: DDM library
+  provide PAM libraries
+

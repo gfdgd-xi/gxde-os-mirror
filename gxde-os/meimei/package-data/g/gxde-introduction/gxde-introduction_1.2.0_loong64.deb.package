@@ -1,0 +1,18 @@
+Package: gxde-introduction
+Architecture: loong64
+Version: 1.2.0
+Priority: optional
+Section: utils
+Maintainer: zhangdingyuan <zhangdingyuan@deepin.com>
+Installed-Size: 12026
+Depends: libc6 (>= 2.40), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.14.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Filename: ./g/gxde-introduction/gxde-introduction_1.2.0_loong64.deb
+Size: 11149152
+MD5sum: 39cc8da487fc21668648992e0a555784
+SHA1: c418717fcafbcdc630e3762f16f58acfa1722996
+SHA256: 82215be95b0ae9c1634f0e36c36c804faf415f1df9bf428dd234660c9a1f7bdd
+SHA512: f8614dea3e18fb7f6baa316faf928515d4ead02f545c071304eaa072680e33b0b85ef0c7c6005f2011d2e257df65973d7bdfec4592158b20377256750b1d1e64
+Homepage: http://www.deepin.org
+Description: Introduction for GXDE
+ GXDE initialization setup tool
+

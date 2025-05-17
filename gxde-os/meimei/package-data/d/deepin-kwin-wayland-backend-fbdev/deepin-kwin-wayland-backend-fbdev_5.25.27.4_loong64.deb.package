@@ -1,0 +1,28 @@
+Package: deepin-kwin-wayland-backend-fbdev
+Architecture: loong64
+Version: 4:5.25.27.4
+Priority: optional
+Section: libs
+Source: deepin-kwin
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>, gfdgd xi <3025613752@qq.com>
+Installed-Size: 86
+Provides: kwin-wayland-backend
+Depends: deepin-kwin-common (= 4:5.25.27.4), libc6 (>= 2.40), libqt5core5t64 (>= 5.15.0~), libqt5gui5t64 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libstdc++6 (>= 5)
+Filename: ./d/deepin-kwin-wayland-backend-fbdev/deepin-kwin-wayland-backend-fbdev_5.25.27.4_loong64.deb
+Size: 30608
+MD5sum: 6ef5a0a7afd4491699e1c6a677bf5b2a
+SHA1: e5a124ec3fa7cef3096c9e7833ed90326e9906e1
+SHA256: 3cf5dd9fa3e5d0a0826d99cbaf4ceee3557f05dd7bfc950955fe8578176f569f
+SHA512: a9198203fc28351ece6d1beddddca539875955f0541eaec4e1bbc5bf53c178cafa80ad6338a0750c5212e5810b8f70a4ba93053c017fecfaa3cf0da6cecac4bc
+Homepage: https://projects.kde.org/projects/kde/workspace/kwin
+Description: KDE window manager fbdev plugin
+ KWin (pronounced as one syllable "deepin-kwin") is the window
+ manager for the KDE Plasma Desktop. It gives you complete
+ control over your windows, making sure they're not in the way
+ but aid you in your task. It paints the window decoration,
+ the bar on top of every window with (configurable) buttons
+ like close, maximize and minimize. It also handles placing
+ of windows and switching between them.
+ .
+ This package is part of the KDE base workspace module
+

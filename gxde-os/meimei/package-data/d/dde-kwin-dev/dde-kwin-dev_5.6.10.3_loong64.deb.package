@@ -1,0 +1,18 @@
+Package: dde-kwin-dev
+Architecture: loong64
+Version: 5.6.10.3
+Priority: optional
+Section: libdevel
+Source: dde-kwin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10
+Filename: ./d/dde-kwin-dev/dde-kwin-dev_5.6.10.3_loong64.deb
+Size: 4468
+MD5sum: d49009132dce4bceebd4e2415aad2b37
+SHA1: 23428dbcfe34ee278ab17f0ec618baf4442e560d
+SHA256: 3672ee1c09ee359589f0e307143314dab36f8d598bba9cb62e62900df75a34d1
+SHA512: 177ad29585d8cbc955687d49e1dc54b05b7807ec740660cd86991f9dbb424e88a861201aeb1f3a9f20604077c02bb2840612b7dd7dc72962531fb599edab9758
+Homepage: https://github.com/linuxdeepin/dde-kwin
+Description: Developer package of dde-kwin
+ Provide dde-kwin plugin implementation basis files.
+

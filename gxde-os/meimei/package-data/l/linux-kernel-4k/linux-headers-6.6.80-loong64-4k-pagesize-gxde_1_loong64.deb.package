@@ -1,0 +1,20 @@
+Package: linux-headers-6.6.80-loong64-4k-pagesize-gxde
+Architecture: loong64
+Version: 1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: shenmo-thunder <shenmo-thunder@shenmo-thunder-PC>
+Installed-Size: 53562
+Filename: ./l/linux-kernel-4k/linux-headers-6.6.80-loong64-4k-pagesize-gxde_1_loong64.deb
+Size: 8806512
+MD5sum: 773506edce8beb68deb310451de35540
+SHA1: 299582eac3486889fd48e27def4d759ca40939c0
+SHA256: f49a6ad6012e98a1b00a982d9bf5719415ff0ad359e1244089dde9200d68897a
+SHA512: c2dd0bb6223885b5689c2437a4953b3e215850417ba5b08cf9d9e1519d0802c981f3950fdb67f13cde78b734e4151cf341978927fafd6db1bf0f1724a84a3ed7
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.80-loong64-4k-pagesize-gxde on loong64
+ This package provides kernel header files for 6.6.80-loong64-4k-pagesize-gxde on loong64
+ .
+ This is useful for people who need to build external modules
+

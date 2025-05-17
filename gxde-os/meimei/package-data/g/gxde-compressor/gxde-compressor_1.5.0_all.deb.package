@@ -1,0 +1,20 @@
+Package: gxde-compressor
+Architecture: all
+Version: 1.5.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 16
+Depends: gxde-shell-compressor | deepin-compressor | file-roller | engrampa | ark
+Recommends: gxde-shell-compressor, deepin-compressor
+Filename: ./g/gxde-compressor/gxde-compressor_1.5.0_all.deb
+Size: 3268
+MD5sum: 9cfcd7cec77a3b4c676f709240169f05
+SHA1: 604ee94803fb0aa83c165f25e8c4120a9a65afe5
+SHA256: fc19974f747fc5be9bddb7cfa2cfc2becefc5f9d4a045679bded5be7c8b6b7fb
+SHA512: b098ba8f3808941c2b4db9fc370ec7d5e12f7b89be8d07438f88f3dafacf9694123d079b81a7b860cdef01be1d5f5f16eb9f0086ce5aa289c1eaab05275091f4
+Homepage: https://gitee.com/GXDE-OS/gxde-compressor
+Description: GXDE Compressor is a general wrapper for DCompressor/Ark/Engrampa/file-roller/garma
+ GXDE Compressor is a general wrapper for DCompressor/Ark/Engrampa/file-roller/garma
+

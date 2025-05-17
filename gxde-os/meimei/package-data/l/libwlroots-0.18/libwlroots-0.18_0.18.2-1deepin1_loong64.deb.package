@@ -1,0 +1,23 @@
+Package: libwlroots-0.18
+Architecture: loong64
+Version: 0.18.2-1deepin1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: wlroots
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 1338
+Depends: libc6 (>= 2.40), libdisplay-info2 (>= 0.2.0), libdrm2 (>= 2.4.122), libegl1, libgbm1 (>= 21.1.0), libgles2, libinput10 (>= 1.26.0), libliftoff0 (>= 0.4.1), libpixman-1-0 (>= 0.30.0), libseat1 (>= 0.5.0), libudev1 (>= 183), libvulkan1 (>= 1.2.131.2), libwayland-client0 (>= 1.23), libwayland-server0 (>= 1.23), libxcb-composite0, libxcb-dri3-0 (>= 1.13), libxcb-errors0 (>= 1.0.1), libxcb-ewmh2 (>= 0.4.1), libxcb-icccm4 (>= 0.4.1), libxcb-present0, libxcb-render-util0, libxcb-render0, libxcb-res0 (>= 1.10), libxcb-shm0 (>= 1.10), libxcb-xfixes0 (>= 1.15), libxcb-xinput0 (>= 1.17.0), libxcb1, libxkbcommon0 (>= 0.5.0)
+Filename: ./l/libwlroots-0.18/libwlroots-0.18_0.18.2-1deepin1_loong64.deb
+Size: 367168
+MD5sum: 5b2ed12c3dbe327b62dabea722d296a7
+SHA1: 668b05f58d1be23f53a471584b70a27095321710
+SHA256: b6557ee669417f0e691db6a9a02dc1d063f7169f550259b87f66e6d11935b9f6
+SHA512: 4971233d9b60414ef69f1df07adb59fa5b93591b90120dcf23f397fed3d1ce957f235f57b7862160016632ad8a881ec239cd0f115c33c4971c32d3be7d3a17da
+Homepage: https://gitlab.freedesktop.org/wlroots/wlroots/
+Description: Modular wayland compositor library - shared library
+ wlroots is a set of pluggable, composable modules to build a Wayland
+ composior.
+ .
+ This package contains the shared library.
+

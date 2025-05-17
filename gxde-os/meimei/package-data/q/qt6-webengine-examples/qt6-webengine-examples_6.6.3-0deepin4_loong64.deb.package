@@ -1,0 +1,23 @@
+Package: qt6-webengine-examples
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: misc
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 1972
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libglx0, libopengl0, libqt6core6 (>= 6.6.1+dfsg~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libqt6opengl6 (>= 6.6.1+dfsg~), libqt6pdf6 (>= 6.6.0), libqt6pdfwidgets6 (>= 6.6.0), libqt6positioning6 (>= 6.6.1~), libqt6printsupport6 (>= 6.6.1+dfsg~), libqt6qml6 (>= 6.6.1+dfsg~), libqt6qmlmodels6 (>= 6.6.1+dfsg~), libqt6quick6 (>= 6.6.1+dfsg~), libqt6webchannel6 (>= 6.6.1~), libqt6webchannelquick6 (>= 6.6.1~), libqt6webenginecore6 (>= 6.6.0), libqt6webenginecore6-bin (>= 6.6.0), libqt6webenginequick6 (>= 6.6.0), libqt6webenginewidgets6 (>= 6.6.0), libqt6widgets6 (>= 6.6.1+dfsg~), libstdc++6 (>= 5)
+Filename: ./q/qt6-webengine-examples/qt6-webengine-examples_6.6.3-0deepin4_loong64.deb
+Size: 770172
+MD5sum: 75e8c137520967bef21ee7cbfe833c60
+SHA1: 75b2afded3b38b0a2d6ea075b841731397229ecc
+SHA256: 5d46fe8f2b6aefab24c0d21f2da82b2bf62a85f4cd86037895afaa396ddc46ea
+SHA512: 9421d88e85a8d6e4b174c0200275c94eedd1fdf828864d1af3561b04f29d18c89b22cd9ade81751aac3ab26f0fd8fdd9751327f909f0afc0f93c165eb1f17e67
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 web engine examples
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ This package contains the examples for the Qt web engine submodule.
+

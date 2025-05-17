@@ -1,0 +1,19 @@
+Package: gxde-installer-oem
+Architecture: loong64
+Version: 2.7.21
+Priority: extra
+Section: utils
+Source: gxde-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 308
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 5.2), gxde-installer
+Filename: ./g/gxde-installer-oem/gxde-installer-oem_2.7.21_loong64.deb
+Size: 96152
+MD5sum: 8abedf59249c56a0337c30845bff6884
+SHA1: dc87d9ff8a7f856b50423682d6e66745f73796e6
+SHA256: ad1f517462fa09158d10fbde15bc6d4f1b21f60623755313ffc2a530b5fbd3fc
+SHA512: 1f14ca10f5b22dd02852b31312958f60c17e9d8d35c2e6b13b7274391d34ec0996d241079dfeecafa729bdbf6f1923ed7e467844589ed3f1168040488d619a38
+Homepage: http://www.gfdgdxi.top
+Description: OEM tool
+ OEM tool for gxde-installer
+

@@ -1,0 +1,20 @@
+Package: fantascene-dynamic-wallpaper
+Architecture: loong64
+Version: 2.0.3-1
+Priority: optional
+Section: utils
+Maintainer: liuminghang <liuminghang0821@gmail.com>
+Installed-Size: 10098
+Provides: fantascene-gxde
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.36.0), libmpv2 (>= 0.29), libqt5charts5 (>= 5.7.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.0.2), libqt5sql5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.11.0~rc1), libstdc++6 (>= 14), libx11-6, libxcb-ewmh2 (>= 0.4.1), libxcb1, libxext6, wget, ffmpeg, aria2
+Breaks: fantascene-gxde (<< 1.9~)
+Replaces: fantascene-gxde (<< 1.9~)
+Filename: ./f/fantascene-dynamic-wallpaper/fantascene-dynamic-wallpaper_2.0.3-1_loong64.deb
+Size: 7254488
+MD5sum: 2710ea77beec3428ee076a947bbd6f56
+SHA1: 05f17514c6a082e313fc0bd55ecdb76b51a31367
+SHA256: 3f6ee9f16ea9424070759896f6815ea5319f9c654df26434560a9aafb84775ed
+SHA512: e3b0efc8cc6742c62a9086fc498274aa42ad64a22f4dcf5ca63e50318d672ec31982f36e8bcc18110acde16213930cf04e01b527b46c2187962c07d34fdaa724
+Homepage: http://github.com/dependon/fantascene-dynamic-wallpaper
+Description: animated wallpaper for fantascene.
+

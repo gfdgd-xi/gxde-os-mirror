@@ -1,0 +1,17 @@
+Package: gxde-daemon
+Architecture: all
+Version: 1.2.3
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 67
+Depends: python3-pydbus, dde-kwin | gxde-kwin, gxde-k9 (>= 1.4.0), policykit-1 | pkexec | polkit-1 | polkit
+Filename: ./g/gxde-daemon/gxde-daemon_1.2.3_all.deb
+Size: 6740
+MD5sum: 573deb2c8668169141c44d24626b8208
+SHA1: 5806d8426e613679ff81120143a7af04e9c9239a
+SHA256: 8ff96455d5f8d3c83b76e9acfb3940c4f538c6f220f5cbdd21a1de275702da44
+SHA512: 99428d2354c37729ac06d9f9fac55ca04f31e609e71a0ad17057540d4ca0f3a92edb00b9736b51e6a45c544a41074518a69dcd10f241eb3a1bf4248c95ede098
+Homepage: https://gitee.com/GXDE-OS/gxde-daemon
+Description: GXDE Daemon
+

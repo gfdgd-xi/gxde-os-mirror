@@ -1,0 +1,17 @@
+Package: gxde-calculator
+Architecture: loong64
+Version: 1.1
+Priority: optional
+Section: base
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1026
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 4.2.1)
+Filename: ./g/gxde-calculator/gxde-calculator_1.1_loong64.deb
+Size: 244504
+MD5sum: 2a73a927001ed2681e1bfabc1b47af52
+SHA1: ef0ee73915799bb49e28f71daf7b0270f5625922
+SHA256: 5025dba7d6b8a016798c0b9b068c6ccc7ff5e6035e923960de3d31ccf921104f
+SHA512: 8a7417d976fcc73c8ca8f26b26f8b136783763bc1407961e5b25c2e6da145de308d92398001c8ec9e66ad4422f213aa3231b4be411047a6e492c081b3e07760e
+Homepage: https://github.com/rekols
+Description: A simple calculator for GXDE.
+

@@ -1,0 +1,20 @@
+Package: gxde-installer-timezones
+Architecture: all
+Version: 2.7.21
+Priority: extra
+Section: utils
+Source: gxde-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 546
+Provides: deepin-installer-timezones
+Conflicts: deepin-installer-timezones
+Filename: ./g/gxde-installer-timezones/gxde-installer-timezones_2.7.21_all.deb
+Size: 53648
+MD5sum: 7364e6e6656399c232e38e95dc0cb387
+SHA1: b18cd26e495c38b462cb9b9d46eacee2c58fbce6
+SHA256: 18557640fede6b8a1503eb9b0e7689d36c654f098c00221d09171edda2202d1e
+SHA512: 1e12e084c62a2f8dfdcce6b7b5c774ec870bff6b335facecd0ffde52c30f020c04910739d4f46d73bd4285d3137c71b15d0051a9681b9065e8f455f191b13a83
+Homepage: http://www.gfdgdxi.top
+Description: Language package for timezone names
+ Installer language package for timezone names
+

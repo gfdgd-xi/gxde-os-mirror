@@ -1,0 +1,23 @@
+Package: liblayershellqtinterface5-dev
+Architecture: loong64
+Version: 5.27.5-2
+Priority: optional
+Section: libdevel
+Source: layer-shell-qt
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 35
+Depends: liblayershellqtinterface5 (= 5.27.5-2), qtbase5-dev
+Conflicts: liblayershellqtinterface-dev
+Filename: ./l/liblayershellqtinterface5-dev/liblayershellqtinterface5-dev_5.27.5-2_loong64.deb
+Size: 7560
+MD5sum: 480729dd46d188489f061196507cd315
+SHA1: c50e04cc3f1513ac4633052683d7a6cdcac5f7b2
+SHA256: 17b7f052af5e91031a549bf60edd8ae65bbda20e0954f023d8e71fcb0b03393a
+SHA512: 374a08a7912d3c0d63a1d2d3cccc16fa416ab90285cd43b858031ffdc20954c35f1bc887e06245565fca279ff80d1eeb92d67239841cbfde463cc3bf3585fa7e
+Homepage: http://www.kde.org/
+Description: use the Wayland wl-layer-shell protocol - development files
+ Qt component to allow applications to make use of the Wayland
+ wl-layer-shell protocol.
+ .
+ This package includes the development files.
+

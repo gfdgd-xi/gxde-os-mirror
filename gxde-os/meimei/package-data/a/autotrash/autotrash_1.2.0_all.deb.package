@@ -1,0 +1,21 @@
+Package: autotrash
+Architecture: all
+Version: 1.2.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 20
+Depends: bash, transhell
+Filename: ./a/autotrash/autotrash_1.2.0_all.deb
+Size: 4424
+MD5sum: 27a97f17470cde818cb45d14cac23eb0
+SHA1: 404a0bbfc0319855e7217faca1259ff9b19a48a2
+SHA256: 3dada422440e70d3c7311577808dddd3a433e8895d6a93a39d6f9dd931699661
+SHA512: e4ebe2d6408a5c7c638599c8fc0476f360f73a8fea0039dfa44d1ef713a7f35fe4d3b57bea12f971959232233d2a57586198fd2786b64553017f98dafc548b07
+Homepage: https://gitee.com/GXDE-OS/autotrash
+Description: purges files from your trash based on age and/or filename
+ A script useful to purge files from your trash based on their age.
+ It can also be used to purge the files based on the filename
+ using a regular expression.
+

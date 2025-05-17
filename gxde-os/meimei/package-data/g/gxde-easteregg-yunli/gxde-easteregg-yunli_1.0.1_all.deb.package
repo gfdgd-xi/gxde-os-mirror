@@ -1,0 +1,18 @@
+Package: gxde-easteregg-yunli
+Architecture: all
+Version: 1.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 243
+Depends: gxde-system-assistant, dbus-bin, gxde-community-wallpapers
+Filename: ./g/gxde-easteregg-yunli/gxde-easteregg-yunli_1.0.1_all.deb
+Size: 233436
+MD5sum: 64f1ce4ef313a44ae5c3be42d87750bb
+SHA1: 34aeff337c06bcccca0e9377a07d66e86d3f7ee2
+SHA256: 131eda6973751b7c5a186165efc45e85b9980453e420057021626943384ca400
+SHA512: c9cc9447191822b84f216aaaeba49491831797f1cce8617cb5aad19193f7ca6ac105e895aac9e6aec9bcda18cde52acb43f8b22d2978651b13eb9291fbf57069
+Homepage: https://gitee.com/GXDE-OS/gxde-easteregg-yunli
+Description: This is a easteregg package for Yunli
+

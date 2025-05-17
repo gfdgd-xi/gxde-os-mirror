@@ -1,0 +1,22 @@
+Package: libwlroots-0.18-examples
+Architecture: loong64
+Version: 0.18.2-1deepin1
+Priority: optional
+Section: libs
+Source: wlroots
+Maintainer: Sway and related packages team <team+swaywm@tracker.debian.org>
+Installed-Size: 426
+Depends: libc6 (>= 2.40), libcairo2 (>= 1.2.4), libegl1, libgles2, libwayland-client0 (>= 1.23), libwayland-egl1 (>= 1.23), libwayland-server0 (>= 1.23), libwlroots-0.18 (>= 0.18.0), libxkbcommon0 (>= 0.5.0)
+Filename: ./l/libwlroots-0.18-examples/libwlroots-0.18-examples_0.18.2-1deepin1_loong64.deb
+Size: 71524
+MD5sum: 9af59732a1eda668d29a4fdd3089f2a1
+SHA1: d5fc198b1a8f876668c3576508c0e262e942923b
+SHA256: f6ef70dfc01600b4ee34ad8f33ea7b64b181a57c49acaac45ae8c976aba184df
+SHA512: 2e8a04bf98b8bfeb4bae250cf3c31c5b1a5721ca8b2ed2805d5070ad96d463fe283e076a4dc6442a04efe20a133e6d6577b8259a903dbeafe8d98c9dafb5ebdc
+Homepage: https://gitlab.freedesktop.org/wlroots/wlroots/
+Description: Modular wayland compositor library - binaries
+ wlroots is a set of pluggable, composable modules to build a Wayland
+ composior.
+ .
+ This package contains various examples on how to use wlroots.
+

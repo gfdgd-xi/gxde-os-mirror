@@ -1,0 +1,20 @@
+Package: dwayland-data
+Architecture: loong64
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 19
+Filename: ./d/dwayland-data/dwayland-data_5.25.0-kwayland.5.24.3_loong64.deb
+Size: 4680
+MD5sum: c012722848eef0af13eace03dfb6d9f2
+SHA1: 4afc4cd66c71b324c1550891fabe3b60d4076be7
+SHA256: ff2485e018d4b7358573967aedb26f77c99a2b4b660e8168b78c34f8fe63fb2b
+SHA512: 990809f5bf61683163bf21908783b4f8e651ef29e9ecc436e1a55df3736dc1a954ab59b99d91db85a1714369c65fe60ffb49ad068aa5bab1c5a852d963d7eb26
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries - data files
+ DWayland provides a Qt-style Server library wrapper for
+ the Wayland libraries.
+

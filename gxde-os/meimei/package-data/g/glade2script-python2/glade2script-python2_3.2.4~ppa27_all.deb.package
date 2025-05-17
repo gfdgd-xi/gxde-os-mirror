@@ -1,0 +1,23 @@
+Package: glade2script-python2
+Architecture: all
+Version: 3.2.4~ppa27
+Priority: optional
+Section: devel
+Source: glade2script
+Maintainer: Yann MRN <yannubuntu@protonmail.com>
+Installed-Size: 198
+Depends: python2 | python, python2-gi | python-gi, gir1.2-gtk-3.0
+Recommends: gir1.2-notify-0.7
+Suggests: gir1.2-appindicator3-0.1
+Filename: ./g/glade2script-python2/glade2script-python2_3.2.4~ppa27_all.deb
+Size: 35928
+MD5sum: 89a5022d6a2cff6469c5182c01724826
+SHA1: aeacfc06638573a209ea4993173119bd499089d9
+SHA256: bbb3506039cdce56fbec3d97038a3d4fe5636bfca6ab0a8f52d02fe856813d57
+SHA512: 021cda037a0cafc040e8075f3fc0e2df5dc2416ce0cca0eaa538be524386ae34c9b3fab334ff3302666e2fbd487733a67b21bb07fbbb54b5c5258bef6be70438
+Homepage: https://launchpad.net/glade2script
+Description: Glade interface engine for scripts (Python2 version)
+ Python2 version of Glade2script for retrocompatibility purpose.
+ .
+ The python3 version is recommended when possible.
+

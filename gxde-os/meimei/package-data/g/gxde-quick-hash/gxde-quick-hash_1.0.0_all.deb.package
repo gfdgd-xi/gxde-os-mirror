@@ -1,0 +1,18 @@
+Package: gxde-quick-hash
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 48
+Depends: dde-file-manager (>= 4.8.17), gtkhash
+Filename: ./g/gxde-quick-hash/gxde-quick-hash_1.0.0_all.deb
+Size: 13320
+MD5sum: cf9e67e35d18d0cb47a99167052559d7
+SHA1: aac8c2b865b0626cd6ace5e58fd07e52c0be03c2
+SHA256: e6bb96dc956226bd3bc84f5821c65cf0fb23a4a4d82d0c96b1df68d932c6fe6c
+SHA512: b72dda17ef60f805bd5576dc3f376bbfa963a7086a1aeafcce41f5642f36e4c7d4af5964a6acd3044dc2affa5214a8c975009b958387d7ca33ea06f9a7e668f3
+Homepage: https://gitee.com/GXDE-OS/gxde-quick-hash
+Description: GXDE OS quick hash dfm plugin
+

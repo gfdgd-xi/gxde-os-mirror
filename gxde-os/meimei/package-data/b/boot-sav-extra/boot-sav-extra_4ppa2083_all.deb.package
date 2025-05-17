@@ -1,0 +1,22 @@
+Package: boot-sav-extra
+Architecture: all
+Version: 4ppa2083
+Priority: optional
+Section: admin
+Source: boot-repair
+Maintainer: Yann Mrn <yannubuntu@protonmail.com>
+Installed-Size: 160
+Depends: boot-sav
+Filename: ./b/boot-sav-extra/boot-sav-extra_4ppa2083_all.deb
+Size: 148004
+MD5sum: 6fc6f16c05b0974facfd2f057905cb4b
+SHA1: 60058ce3e14f44f536ca802cccdc482db18c81c9
+SHA256: 51a42edc2302ee66f5339d6941e0852979f4e94cf388e7331eb7f7479653eca6
+SHA512: 72a220edd866da93efaf52b97a09be711d11b353949574254e5a3f7ce3a6d491daf485eceb5389fb95862ee5590f2c16feb1ffb6a1071c9d43ab0f005ff73e79
+Homepage: https://launchpad.net/boot-repair
+Description: Extra librairies for OS-uninstaller and Boot-repair
+ Common files for 3 tools related to boot:
+ Boot-Info,
+ OS-Uninstaller,
+ and Boot-Repair
+

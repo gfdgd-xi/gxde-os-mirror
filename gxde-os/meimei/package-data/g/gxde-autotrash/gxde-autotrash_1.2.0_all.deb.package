@@ -1,0 +1,19 @@
+Package: gxde-autotrash
+Architecture: all
+Version: 1.2.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 108
+Depends: bash, libnotify-bin, zenity, garma, gxde-system-assistant, transhell, autotrash | autotrash-bash, gxde-k9 (>= 1.4.0)
+Filename: ./g/gxde-autotrash/gxde-autotrash_1.2.0_all.deb
+Size: 87860
+MD5sum: d3f2de0df7dc92a81cf24bd33ae11771
+SHA1: 30475a3fcfcf11dc3f08940475cb3d4c76e35888
+SHA256: e9644cbed23b7c49f8a325e5d2c648a0ebd5ef7b25f48a9c12b035fdcb430d68
+SHA512: 72f92d1ba847e30f3057748da74f1ce7b873398ad48858234141e0c69c7f937b685e788fd254757f9ceed43d54a32720f5fcc46a5dbfac13a09f319af103a023
+Homepage: https://gitee.com/GXDE-OS/gxde-autotrash
+Description: This is a shell tool to configure auto trash cleaner
+ This is a shell tool to configure auto trash cleaner
+

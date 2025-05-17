@@ -1,0 +1,20 @@
+Package: gxde-sound-theme
+Architecture: all
+Version: 15.15u1
+Priority: optional
+Section: x11
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 4611
+Provides: deepin-sound-theme (= 15.15)
+Conflicts: deepin-sound-theme (<= 15.15)
+Replaces: deepin-sound-theme (<= 15.15)
+Filename: ./g/gxde-sound-theme/gxde-sound-theme_15.15u1_all.deb
+Size: 3684756
+MD5sum: ffd01e372e4111f8918330477ceb6732
+SHA1: 2916916ae191279f1fa7f0558d74aacdd181a95e
+SHA256: e0500df7e4a33f24bdc432793c859b3c3fb8ee86018d3055dc71d146ee0c5420
+SHA512: 5ad4c9ca95b7e4910a632f7dc1665c17c6ae987a0068e334ab3415e0f6f70e76e0f52c619e23094f3aeb2155661ba31dedf08bd096cb347f77a251d2c8d5d732
+Homepage: http://www.gxde.top/
+Description: GXDE sound
+ This package contains the GXDE sound theme.
+

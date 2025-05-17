@@ -1,0 +1,22 @@
+Package: gxde-icon-theme
+Architecture: all
+Version: 2025.01.26
+Priority: optional
+Section: x11
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 88010
+Provides: deepin-icon-theme
+Depends: adwaita-icon-theme
+Recommends: gxde-sea-icon-theme
+Suggests: papirus-icon-theme
+Conflicts: deepin-icon-theme, gxde-cursor-theme
+Replaces: deepin-icon-theme
+Filename: ./g/gxde-icon-theme/gxde-icon-theme_2025.01.26_all.deb
+Size: 13145752
+MD5sum: e69f6081428ee4fb5ef2a45e876ae643
+SHA1: eff94fef6377310cad6306d350c3acc903a7df3b
+SHA256: f32b5256ef5cc54ca24982450bc0b475bf6a0656b1ed9d12e0812281eadfd54b
+SHA512: b6e9d36953b3e3a8d6267006dd212e2055fe85a2f6d84032672e7f62188bd27455783b38a89e64d4b293b2b3c6c82ab50f5b82d83b2a58a398f1cd04b1f7b497
+Description: GXDE Icons
+ This package is GXDEIconTheme
+

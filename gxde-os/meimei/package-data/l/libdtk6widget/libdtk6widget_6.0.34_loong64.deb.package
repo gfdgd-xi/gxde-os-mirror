@@ -1,0 +1,21 @@
+Package: libdtk6widget
+Architecture: loong64
+Version: 6.0.34
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dtk6widget
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 4593
+Depends: libc6 (>= 2.40), libdtk6core (>= 6.0), libdtk6gui (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.6.0), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libstartup-notification0 (>= 0.10), libstdc++6 (>= 11), libx11-6 (>= 2:1.2.99.901), libxcb-util1 (>= 0.4.0), libxcb1, libxext6, libxi6 (>= 2:1.2.99.4), qt6-base-private-abi (= 6.6.2)
+Filename: ./l/libdtk6widget/libdtk6widget_6.0.34_loong64.deb
+Size: 1121468
+MD5sum: 4c923a15e8b5712d8b6f61eed521295b
+SHA1: 83f73d92b6f34a55dff13ab65c80c97ef255d2eb
+SHA256: 73868724291010184c67d12bb13bf78d7cc8ffef53039ab2ba88ac7aa8cb86ef
+SHA512: 11423167af410a46ce9be31c74a3241f5d3bd8c34c6aea95b0a4b6d7cfaec1c8cf3357138804b03daaf228114f1f855d9065aac365bc5062c50119ebc17bf3a2
+Description: deepin graphical user interface library
+ DtkWidget is deepin graphical user interface for deepin desktop development.
+ .
+ This package contains the shared libraries.
+

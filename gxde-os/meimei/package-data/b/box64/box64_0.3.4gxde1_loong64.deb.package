@@ -1,0 +1,18 @@
+Package: box64
+Architecture: loong64
+Version: 0.3.4gxde1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Installed-Size: 79903
+Filename: ./b/box64/box64_0.3.4gxde1_loong64.deb
+Size: 12905124
+MD5sum: 8426f0396e9227e27338d02e4ba0133d
+SHA1: 7d6090f00eac6ee398157ccbbe2d85f3f14547fd
+SHA256: 6228c2e82a195164eb3cc6e67f9f0c0341cdaa3ed4d858a1fd97d2541bf3cba4
+SHA512: 5c853586eceb3c2394a9981ad28148c9f771b67efc2b28a77e4422758f8837e4b6ca1196cb4050a8925e709435f15d5e066d9f60bf43ed30ac84230f31a7ac7d
+Homepage: https://github.com/ptitSeb/box64
+Description: Linux Userspace x86_64 Emulator with a twist, targeted at ARM Linux devices
+ Box86 lets you run x86_64 Linux programs (such as games) on non-x86 Linux systems, like ARM (host system needs to be 64bit little-endian).
+

@@ -1,0 +1,23 @@
+Package: boot-info
+Architecture: all
+Version: 4ppa2083
+Priority: optional
+Section: admin
+Source: boot-repair
+Maintainer: Yann Mrn <yannubuntu@protonmail.com>
+Installed-Size: 46
+Depends: boot-sav (>= 4ppa2080)
+Filename: ./b/boot-info/boot-info_4ppa2083_all.deb
+Size: 11400
+MD5sum: ef228a22652428a3c4add38f63a6d5e5
+SHA1: 40ba7c3a3707952e72fe726ea0ed8d4e6c59e43a
+SHA256: 0b396fcd601b870489e90226db7402ba1993c69483ab3a46577b6d7df81ecc41
+SHA512: 38c9573862ab8312c675bfebb200a5df5b68061d8186d12410ba4a751480887fd622d1cd623cbd41a86fdd11ad6f88d8ccd0659a5524fb359cc37425fdbea001
+Homepage: https://launchpad.net/boot-info
+Description: Diagnose the boot of the computer
+ Boot-Info creates a report about your boot environment.
+ This can help diagnose boot issues, and find the best solution.
+ .
+ The report can be either opened in a text file, or uploaded
+ to a pastebin URL for easier sharing with people who help you.
+

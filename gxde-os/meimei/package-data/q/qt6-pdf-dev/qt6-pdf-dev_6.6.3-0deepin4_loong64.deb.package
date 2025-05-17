@@ -1,0 +1,26 @@
+Package: qt6-pdf-dev
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 452
+Depends: libqt6pdf6 (= 6.6.3-0deepin4), libqt6pdfquick6 (= 6.6.3-0deepin4), libqt6pdfwidgets6 (= 6.6.3-0deepin4), qt6-base-dev
+Filename: ./q/qt6-pdf-dev/qt6-pdf-dev_6.6.3-0deepin4_loong64.deb
+Size: 59080
+MD5sum: 207d0ffea0ffdb7be47eb90b47393660
+SHA1: ee678923932c3516025086a33a09d1d16ef0bc0c
+SHA256: 3f63a4239274d63c355d9d68375e15a32465be941c0fad9b0c3b782452635dde
+SHA512: 08e9392c893faa5a0cf8860774245f390d1f76c117b751cd733a3b8d78388f1a6156e5a13e326d28da8aef96f8960d8c5f4c65c5664a18b84de11fc22a89fe1f
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 PDF library - development files
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt PDF module contains classes and functions for rendering PDF documents.
+ .
+ This package contains the development files needed to build Qt 6 applications
+ using Qt PDF library.
+

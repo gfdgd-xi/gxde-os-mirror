@@ -1,0 +1,20 @@
+Package: gxde-desktop-android
+Architecture: all
+Version: 2025.05.04
+Priority: extra
+Section: metapackages
+Source: gxde
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 8
+Depends: gxde-daemon, gxde-desktop, gxde-calculator, gxde-terminal, gxde-deb-installer, gxde-editor, gxde-image-viewer, gxde-ocr, gxde-music, gxde-font-installer, gxde-movie, gxde-quick-hash, spark-store | aptss, loongsonapplication, deepin-system-monitor, dde-control-center, dde-file-manager
+Conflicts: linux-kernel-gxde-amd64, linux-kernel-gxde-arm64, linux-kernel-gxde-i386, linux-kernel-gxde-loong64, linux-kernel-gxde-mips64el, linux-kernel-oldstable-gxde-amd64, linux-kernel-oldstable-gxde-arm64, linux-kernel-oldstable-gxde-i386, linux-kernel-oldstable-gxde-loong64, linux-kernel-oldstable-gxde-mips64el, plymouth, plymouth-theme-gxde-logo, tela-grub2-themes
+Filename: ./g/gxde-desktop-android/gxde-desktop-android_2025.05.04_all.deb
+Size: 2556
+MD5sum: d4b34b90a0426e3131b0aa24b7d5d4a9
+SHA1: 989c8228f08bc58d263e8b7fa2cb879dbd6ab1f7
+SHA256: 61818eef47b64d0586150b04db264a94bfab0b7daf048b7f91a47ac467c566b7
+SHA512: 8d423adf13c9a839d8fd63fbeedaf787334ccfb128922ad52c5d76e6423e794f760b554f849c0cf0ac0ddba81c0f1f0693680ffc8a3f14a4c6d0496c09c12b8b
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment For PRoot - Next
+ This is a meta package depends GXDE New Desktop Envrionment in Android PRoot.
+

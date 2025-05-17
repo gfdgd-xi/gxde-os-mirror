@@ -1,0 +1,18 @@
+Package: kylin-kmre-modules-dkms
+Architecture: all
+Version: 3.0.0.0-gxde1
+Priority: optional
+Section: misc
+Maintainer: machao <machao@kylinos.cn>
+Installed-Size: 345
+Depends: dkms (>= 2.1.0.0)
+Conflicts: binder-dkms, kydroid-modules-dkms
+Replaces: binder-dkms
+Filename: ./k/kylin-kmre-modules-dkms/kylin-kmre-modules-dkms_3.0.0.0-gxde1_all.deb
+Size: 63612
+MD5sum: 83ec3e1a116df8a8e79321cc4a8173c4
+SHA1: 9f1b3abc1511dadf5736cb62cdc7c81c5eec104e
+SHA256: 2675758c5c1b663abe7a76342dcfee42b4f6bb6dc1137c255d7190954f02c6e0
+SHA512: 9479a2425a173b15411dc0ee1e0fc97d9848f91a8a8116fc19f34c19f3a8bbdb06e0c2002cbe89fc48dd27ebbc98d348a8bb72ee0f23b80316c8d78d8d64dbcc
+Description: kylin-kmre-modules-dkms driver in DKMS format.
+

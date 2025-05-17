@@ -1,0 +1,17 @@
+Package: gxde-dict
+Architecture: loong64
+Version: 0.8.3
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 300
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.3.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libx11-6, libxtst6
+Filename: ./g/gxde-dict/gxde-dict_0.8.3_loong64.deb
+Size: 65408
+MD5sum: 52139714eef3ef546454c258351131f0
+SHA1: d99ba4b7f0c8505efadde0f67a7f042556f3dc08
+SHA256: e91cc3068c331f3952b68384306022211c1d5b118010b8543d62209a7a47e610
+SHA512: 8c87c5933ec9408c6476fce50eca317de2ce92fb9f05ebe5015cd6d429ad7a714adb83641116119204954c43457b282e47781db871b8b0ebb6c2132082e9029e
+Homepage: https://gitee.com/GXDE
+Description: GXDE youdao dictionary.
+

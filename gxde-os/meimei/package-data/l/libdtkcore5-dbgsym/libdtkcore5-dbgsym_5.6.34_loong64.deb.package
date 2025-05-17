@@ -1,0 +1,20 @@
+Package: libdtkcore5-dbgsym
+Architecture: loong64
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6695
+Depends: libdtkcore5 (= 5.6.34)
+Filename: ./l/libdtkcore5-dbgsym/libdtkcore5-dbgsym_5.6.34_loong64.deb
+Size: 6639452
+MD5sum: 25b5ee96eb1f0925b1aef2468a6886d0
+SHA1: 94e68c6e1da372dfe3b3d3995899b85b13358175
+SHA256: 74b886025b44cdb03c5f87aba059208d16b70cce5b63857c0eb2cafa62a19a89
+SHA512: 6e8a129093ecf8ee7d51cd66b36e8c6611131386824c7e9ddd4b59d2ddb43e780ce1b6dc6e361641eb9856e68bb96ab3917f2407b14df16881acede48ffe8a75
+Description: debug symbols for libdtkcore5
+Build-Ids: d3f38021460aad58d6cf29986a5b3adc7e7f6b62
+

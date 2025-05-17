@@ -1,0 +1,28 @@
+Package: qt6-webengine-dev
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 887
+Depends: libqt6webenginecore6 (= 6.6.3-0deepin4), libqt6webenginequick6 (= 6.6.3-0deepin4), libqt6webenginewidgets6 (= 6.6.3-0deepin4), qt6-base-dev, qt6-declarative-dev, qt6-positioning-dev, qt6-webchannel-dev, qt6-webengine-dev-tools (= 6.6.3-0deepin4), libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglx0, libopengl0, libqt6core6 (>= 6.6.1+dfsg~), libqt6designer6 (>= 6.6.1~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libqt6opengl6 (>= 6.6.1+dfsg~), libqt6openglwidgets6 (>= 6.6.1+dfsg~), libqt6positioning6 (>= 6.6.1~), libqt6printsupport6 (>= 6.6.1+dfsg~), libqt6qml6 (>= 6.6.1+dfsg~), libqt6qmlmodels6 (>= 6.6.1+dfsg~), libqt6quick6 (>= 6.6.1+dfsg~), libqt6webchannel6 (>= 6.6.1~), libqt6webenginecore6-bin, libqt6widgets6 (>= 6.6.1+dfsg~), libqt6xml6 (>= 6.6.1+dfsg~), libstdc++6 (>= 5)
+Recommends: qt6-pdf-dev (= 6.6.3-0deepin4)
+Filename: ./q/qt6-webengine-dev/qt6-webengine-dev_6.6.3-0deepin4_loong64.deb
+Size: 95016
+MD5sum: e5ddb826afabbc0644efef633abf299d
+SHA1: 9a6b0941b5bbb9bd8e3af594474062ace689dbce
+SHA256: ab415423640555e8da4b42a89a48c299e67ba2868f29e1b6a95200ddc0a50244
+SHA512: 93d86591aef57cf45775e40c245522917454455ffb4e32eac71f4d6dfb5b0ebaecab1e02d169e0bcb3a62ca15802de432c89f6afb501bfb974b5a6b8dd30bb8b
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 WebEngine library - development files
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ Qt WebEngine provides a Web browser engine that makes it easy to embed content
+ from the World Wide Web into your Qt application.
+ .
+ This package contains the development files needed to build Qt 6 applications
+ using Qt WebEngine libraries.
+

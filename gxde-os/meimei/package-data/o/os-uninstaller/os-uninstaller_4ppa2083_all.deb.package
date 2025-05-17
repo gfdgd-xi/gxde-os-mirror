@@ -1,0 +1,28 @@
+Package: os-uninstaller
+Architecture: all
+Version: 4ppa2083
+Priority: optional
+Section: admin
+Source: boot-repair
+Maintainer: Yann Mrn <yannubuntu@protonmail.com>
+Installed-Size: 67
+Depends: boot-sav (>= 4ppa2080)
+Filename: ./o/os-uninstaller/os-uninstaller_4ppa2083_all.deb
+Size: 17120
+MD5sum: 9ac11e409da2f603f4255f876041d5c3
+SHA1: a4266e33f3a9a5d0ba0ab4b862dcbe7ac44f4334
+SHA256: d39d78b5c6550f606b522851e6557d65a08cb076411598e36080594a96539cbc
+SHA512: 3bd3f3c6b0e387c03b289758b8aa5abb88fb5e7a07f2a65238614e23b084d56b214720e0007f6f13aa6dcdc139a9261e1cc7aff686fb1006c2bb39ffa038e6be
+Homepage: https://launchpad.net/os-uninstaller
+Description: Operating System Uninstaller
+ When you have several operating systems (Windows, MacOS, GNU/Linux ..)
+ installed on your computer, you may want to remove one of them.
+ .
+ OS-Uninstaller is a graphical tool that will let you choose the system
+ you want to remove, and uninstall it very easily. After your
+ confirmation, it will format the selected system, and update the
+ bootloader so that you will still access your other remaining systems.
+ .
+ OS-Uninstaller also has advanced options for OS formatting, and
+ bootloader updating.
+

@@ -1,0 +1,17 @@
+Package: garma
+Architecture: loong64
+Version: 1.2.3
+Priority: optional
+Section: unknown
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 285
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5t64 (>= 5.12.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 13.1), libx11-6, gxde-qt5integration
+Filename: ./g/garma/garma_1.2.3_loong64.deb
+Size: 83964
+MD5sum: 853cbcaed68381180af2ccf2bf2a9566
+SHA1: 4571f25179ca29c77886bd64d1fa177343caf28f
+SHA256: 051d36dd96d91c0f258a5c78f38acf773ad7bb212bc3253e1f447b300c9e7fd0
+SHA512: 81ef4633b1c2b127c0cf82f6124501ca14ef4d896c1cc886cef155c4095a9b7f6782beaae88cd137cabf733671ce45470883372da12ab0640afde965cde381d0
+Homepage: https://gitee.com/GXDE-OS/garma
+Description: Garma is a tool to create dialog boxes, based on Qt + dtk2. It's a clone of Zenity which was written for GTK+.
+

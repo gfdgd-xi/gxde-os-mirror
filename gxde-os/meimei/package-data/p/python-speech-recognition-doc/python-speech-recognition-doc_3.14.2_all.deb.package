@@ -1,0 +1,20 @@
+Package: python-speech-recognition-doc
+Architecture: all
+Version: 3.14.2
+Priority: optional
+Section: doc
+Source: speech-recognition
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 7
+Filename: ./p/python-speech-recognition-doc/python-speech-recognition-doc_3.14.2_all.deb
+Size: 1256
+MD5sum: c91343cefef02c773f373b0821bc6feb
+SHA1: 25a4713546170fabacca7bd19b5518feeb5265ce
+SHA256: 7fb03f212854919b55f7637e76bf825bd55d15d242c66e2bdc98f01bd81b15ea
+SHA512: 5db04b6024a4dc08d15f36f98f40e88ff51bd673725c3820eb3ff667e1f783a3d34a40dd1f36adfd43eceb85fde7114c3737220ae22e53d47c9841ba2a4ca9b3
+Homepage: https://github.com/GXDE-OS/speech_recognition/
+Description: Speech recognition module for Python, supporting several engines and APIs, online and offline. (common documentation)
+ Speech recognition module for Python, supporting several engines and APIs, online and offline.
+ .
+ This is the common documentation package.
+

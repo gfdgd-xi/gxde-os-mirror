@@ -1,0 +1,20 @@
+Package: libdtklog-dbgsym
+Architecture: loong64
+Version: 0.0.3
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1270
+Depends: libdtklog (= 0.0.3)
+Filename: ./l/libdtklog-dbgsym/libdtklog-dbgsym_0.0.3_loong64.deb
+Size: 1247324
+MD5sum: dd199c7d6fcabcb8d327f665b2eeb64f
+SHA1: ee31321806bf95b33e974d5ec2b4e5bfe66989a6
+SHA256: fafae7b39fc14a07fea91deaf32a17d1ae1d10a836c9cb9cb8cda26bc885defc
+SHA512: d127fd92788cdd0c5f24feac7f7e9807f75264145952a9d4b4412933e4f5de70961e5c8a789b9e12a436855ef4ec717b490663a162759a4ed63242bb3542cc49
+Description: debug symbols for libdtklog
+Build-Ids: 136c78a982547df0e3038e701521ceaa9f432640
+

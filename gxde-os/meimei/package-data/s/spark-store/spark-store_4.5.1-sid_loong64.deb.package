@@ -1,0 +1,19 @@
+Package: spark-store
+Architecture: loong64
+Version: 4.5.1-sid
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 9589
+Provides: spark-store-console-in-container
+Depends: libc6 (>= 2.28), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5qmlmodels5 (>= 5.14.1), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6, dde-qt5integration, curl, openssl, aria2, gnupg, zenity, policykit-1 | pkexec, libnotify-bin, qtwayland5, desktop-file-utils, dpkg-dev, lsb-release,liblol,liblol-dkms
+Filename: ./s/spark-store/spark-store_4.5.1-sid_loong64.deb
+Size: 2792224
+MD5sum: e6b9b7c9cd2711afe2943e04169e6129
+SHA1: e39278858ccd759bd06d3c39d36436ebe0992d20
+SHA256: 5460a461fc31258eebca42216ebc9262a067195fc5c2a15dcf7cc665942d5dcf
+SHA512: 6793af2ca7d85460ce20b04b4d1aaee7a61e4ae203d43b0b3f4b7c657c2959ff4f99e8c2d00f9cc5bf1a45263aba616f31a1c75df2923ff759584a3850d5d698
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+

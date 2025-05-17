@@ -1,0 +1,20 @@
+Package: libdtk6log-dbgsym
+Architecture: loong64
+Version: 0.0.2
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6log
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1544
+Depends: libdtk6log (= 0.0.2)
+Filename: ./l/libdtk6log-dbgsym/libdtk6log-dbgsym_0.0.2_loong64.deb
+Size: 1526272
+MD5sum: aa165370b886e8944a7f0158f9e4ea46
+SHA1: 88f8ff20e114ca1c9ce027c283056f97168e2dd4
+SHA256: cc96d86caa4c1807fa246ada6f3853b992e8ec0f3e380cc8c814cdfa126cf61e
+SHA512: a5043e4c9602f7f413bea1c51f54e6c43b76c0b71dfc4f297b24498edc7658c6b86f8b3013b892a9bef74abcf8ce80d4768117a6e225b851ada033b81175aad0
+Description: debug symbols for libdtk6log
+Build-Ids: 92b64613eb3afb2b857ecaf68d06ad086c732507
+

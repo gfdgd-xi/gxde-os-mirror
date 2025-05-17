@@ -1,0 +1,23 @@
+Package: gxde-account-faces
+Architecture: all
+Version: 2:1.0.12.2
+Priority: optional
+Section: utils
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 3465
+Depends: accountsservice
+Conflicts: deepin-system-settings-module-account
+Breaks: dde-account-faces
+Replaces: dde-account-faces
+Filename: ./g/gxde-account-faces/gxde-account-faces_1.0.12.2_all.deb
+Size: 2149332
+MD5sum: 6d0f6b00d16bb3ee0a41fba10892d109
+SHA1: 3470969f2632e4cf7ad0d0c616cde09763d8feb5
+SHA256: 1ac7b7e3c242f39cec5ec571db7c1df27b685d711e38f17a217ad936df93e196
+SHA512: 81e6ef4826492fdc81c8078c6cb78688a95d80e8cae030662a2c4b4aaa73246c69a923fb6d209e5cf9817456e20497d8885baa4e24d0c9983e24a5c5cc356017
+Homepage: https://github.com/linuxdeepin/gxde-account-faces
+Description: provides account-faces of dde
+ When users are ready to set their own account avatars,
+ Deepin Account avatars provide many beautiful avatars for users to choose from.
+ It is part of Deepin software and DDE (Deepin Desktop Environment).
+

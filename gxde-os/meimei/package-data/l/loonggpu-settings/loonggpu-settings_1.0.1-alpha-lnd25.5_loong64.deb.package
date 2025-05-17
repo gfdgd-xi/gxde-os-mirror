@@ -1,0 +1,15 @@
+Package: loonggpu-settings
+Architecture: loong64
+Version: 1.0.1-alpha-lnd25.5
+Priority: optional
+Section: admin
+Maintainer: Loongson <service@loonggnix.cn>
+Installed-Size: 17
+Filename: ./l/loonggpu-settings/loonggpu-settings_1.0.1-alpha-lnd25.5_loong64.deb
+Size: 4708
+MD5sum: 5f39e61c6e52f49c28cd7fa8da648c62
+SHA1: f9b6ca65a58ea9660e88c134e8f67bdce9dae0ab
+SHA256: ef0c97ef3681786bee9b70e6f1a3ffd522b6b79b7dfe71ad7f8838feb44e41a8
+SHA512: a28557f7a159eed8cb35df5996835ace2e545bc87f73965294e8669aa26af0a5ef90872cd1f5f09e50c8cce0ab7b4c081abb56c18688adb3850d72120f200c5a
+Description: Configuration files for configuring LOONGGPU graphics drivers
+

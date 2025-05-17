@@ -1,0 +1,23 @@
+Package: pcregrep
+Architecture: loong64
+Version: 2:8.39-15
+Priority: optional
+Section: utils
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 74
+Replaces: pgrep (<< 4.5)
+Filename: ./p/pcregrep/pcregrep_8.39-15_loong64.deb
+Size: 27040
+MD5sum: fdad1f2aebca8c470881e2933e9b9cfb
+SHA1: 821a5cd7ce88d4d774ef0e74bd3f51d5a6cb65b5
+SHA256: f165365dce4d803e67f0f4230462686fe5e8e2bdc4df7f59f2e7e8caa05efea8
+SHA512: 31f56e0b2cc1779688e6de734f1b9b10125f80d37e6856a6149ff71ae1990e7124497faa984314b0656e1d3b49b80c6e0613ddadc286b2f3b1c82e43891bd455
+Description: grep utility that uses perl 5 compatible regexes.
+ Perl-style regexps have many useful features that the standard POSIX ones
+ don't; this is basically the same as grep but with the different
+ regexp syntax.
+ .
+ The other reason for the existence of pcregrep is that its source code is an
+ example of programming with libpcre.
+

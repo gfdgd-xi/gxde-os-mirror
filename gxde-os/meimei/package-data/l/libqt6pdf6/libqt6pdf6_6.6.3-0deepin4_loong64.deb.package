@@ -1,0 +1,25 @@
+Package: libqt6pdf6
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 5369
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.4), libglib2.0-0 (>= 2.12.0), libglx0, libicu74 (>= 74.1-1~), libopengl0, libopenjp2-7 (>= 2.2.0), libpng16-16 (>= 1.6.2), libqt6core6 (>= 6.6.1+dfsg~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libstdc++6 (>= 13), zlib1g (>= 1:1.1.4)
+Filename: ./l/libqt6pdf6/libqt6pdf6_6.6.3-0deepin4_loong64.deb
+Size: 2015388
+MD5sum: ee9cc0cf57c9ac29c4e9d971bca7bdff
+SHA1: b03d7f87b4a124bc913583bf0d61f9fee609ba9d
+SHA256: 2328d9e4a7117153c3b0487f646d41089be89d448ac58c2b077d7c59e01c561f
+SHA512: 4b45c13ca04e10f2da1e22da6946c51b68e2f239a4d3adf5f672216282014c38ed5913231be92ccd4de0c3b45588053a4fd326b228b3722ba89eb0a1a433dc2c
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 PDF library
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt PDF module contains classes and functions for rendering PDF documents.
+ .
+ This package contains the Qt 6 PDF library.
+

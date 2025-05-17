@@ -1,0 +1,20 @@
+Package: gxde-image-viewer
+Architecture: loong64
+Version: 1.5.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 5702
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.3-2.2.9), libexif12 (>= 0.6.21-1~), libfreeimage3 (>= 3.18.0+ds2), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5printsupport5t64 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.11.0~rc1), libraw23t64 (>= 0.16.0), libstdc++6 (>= 4.5), libqt5sql5-sqlite, qt5-image-formats-plugins
+Recommends: libqt5libqgtk2, kimageformat-plugins, gxde-ocr
+Replaces: deepin-image-viewer
+Filename: ./g/gxde-image-viewer/gxde-image-viewer_1.5.1_loong64.deb
+Size: 3858048
+MD5sum: 3d1aae3b7c3c27fb4964075c420ebaaa
+SHA1: 09bb72971497a1e816c548cdf3dbbcdf2e9c364d
+SHA256: 695f1ed553c10da048e230a6491398842c122cc1130e150ee3c927e9185ca400
+SHA512: cf85c9832b2b69d9dc82f9f67edb85361924bc0d55d3e4255682e262603ad6a996952fef2ff402087b46cdcd7e0b578ccf1ba086bc92d45ccdfe2256f6b658db
+Homepage: http://www.deepin.org
+Description: Image Viewer for GXDE Desktop Environment
+ GXDE Image Viewer is GXDE Desktop Environment Image Viewer.
+

@@ -1,0 +1,18 @@
+Package: gxde-app-uninstaller
+Architecture: all
+Version: 1.5.0
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 35
+Depends: garma | zenity, bash, libnotify-bin, transhell
+Recommends: dpkg, packagekit
+Filename: ./g/gxde-app-uninstaller/gxde-app-uninstaller_1.5.0_all.deb
+Size: 7312
+MD5sum: e9cc484bcde8b19e708e91e7a0bffd44
+SHA1: 869947e8a444d73d26fe6d6c5efcf8c83dd91c67
+SHA256: d3031e14ea41d16f957b80bce435f609577dd4aaff018e4737e3b72342c82395
+SHA512: 9e1dbc6c811f44383cedb16d93805d79e064e4fe893403d3cad2e948051593bc56a0f036150c939244b5c2fa7eb35d7295d42beaed17d6ad65ea0a0c8b4edf6d
+Homepage: https://gitee.com/GXDE-OS/gxde-app-uninstaller
+Description: GXDE APP Uninstaller
+

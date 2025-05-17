@@ -1,0 +1,19 @@
+Package: libdtkgui5-bin-dbgsym
+Architecture: loong64
+Version: 5.6.35
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 867
+Depends: libdtkgui5-bin (= 5.6.35)
+Filename: ./l/libdtkgui5-bin-dbgsym/libdtkgui5-bin-dbgsym_5.6.35_loong64.deb
+Size: 806808
+MD5sum: 733e4938b50470861b485a561df19e9b
+SHA1: e3e097a6949de7959474ec11ce3cbf52ef4f9e25
+SHA256: b2caf30eded032c52fa34bd391c269bbcce58cc7f8c94666b853e0195cbc9e5a
+SHA512: c126a5fa74089fa5a4cb339b28fde57b1dc3a252ba1e5345544a175dcd88936a6564860714563023fbcba4ab0c226cad18574cd1ab9a8153f046a8ad3f3ff048
+Description: debug symbols for libdtkgui5-bin
+Build-Ids: 10f5ffe5dbb5fc055ac47e62b90fb32c3eef0706 35dbe943c74a6cf5e8c5d0a0dde53ed9e295443f 5b0f92b2a6196573db58500731674efce56e64ed b9ec2ec15aacd176a06c01a17068cd0fbac87d75 ed2016421aa3fee7e2e0e14c0a2791e9f4927871
+

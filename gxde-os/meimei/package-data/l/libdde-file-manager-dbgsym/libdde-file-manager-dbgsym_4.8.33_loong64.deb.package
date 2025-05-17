@@ -1,0 +1,20 @@
+Package: libdde-file-manager-dbgsym
+Architecture: loong64
+Version: 4.8.33
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 70539
+Depends: libdde-file-manager (= 4.8.33)
+Filename: ./l/libdde-file-manager-dbgsym/libdde-file-manager-dbgsym_4.8.33_loong64.deb
+Size: 70926736
+MD5sum: 06ca7fe966edd1b7690a019ef95b4590
+SHA1: 64688c0dbc05032fc4c16d3f5d333424e091f3c7
+SHA256: 4b8d3cbc717ea6f79bee43241cd7bbba8f14c51e6f21dd0d77e2b0265d984ce3
+SHA512: 2256df3913f7ff78f90f1e856e6e21bc6f199cad4e94302977b719f690ae5c8db47b44055b24178a3ef1aeb45a39e69f877509e0e559266c9131aecf4383ae6f
+Description: debug symbols for libdde-file-manager
+Build-Ids: 28ac95062a81ae566679b0f11175de910d91b281 5e164e3fd08be91b966ffbdbf06007afc7dfc2bd 9add0c214e98a458b053f0c1d4f03a96e38d5ca3 b1247c9d289ce1bd89060276813896bc1819b203 c36896c109272eceb6c5c54cefd6e8faf7ae7f09 c9a5998fb502e6f70660d1a56645aa0d9c144449 dff296b7527cae16dec63ca1a21eeea399fa8029
+

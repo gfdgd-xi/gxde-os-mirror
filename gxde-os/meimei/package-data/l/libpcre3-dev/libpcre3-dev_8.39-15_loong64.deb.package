@@ -1,0 +1,26 @@
+Package: libpcre3-dev
+Architecture: loong64
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 6918
+Depends: libc-dev, libpcre3 (= 2:8.39-15), libpcre16-3 (= 2:8.39-15), libpcre32-3 (= 2:8.39-15), libpcrecpp0v5 (= 2:8.39-15)
+Filename: ./l/libpcre3-dev/libpcre3-dev_8.39-15_loong64.deb
+Size: 944564
+MD5sum: 4ac123c3f0dc02745432ecd07d334b5e
+SHA1: 0b8e49708f96c8da029e805ec95ac362908a057e
+SHA256: 052dc303b4b9fe9ce5ac9bb655f8d270c79ba7372047bb3ce886383ce137a0f3
+SHA512: 85b25f020274d831c7ff843b3cd7ffc76a7792e59112398fbdc33140ab47972b3fb53cc7a8bccc3ce7765e55b7c173df0f0f6e8ea945fb0a016557ca5cb6f3f1
+Description: Old Perl 5 Compatible Regular Expression Library - development files
+ This is a library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ New packages should use the newer pcre2 packages, and existing
+ packages should migrate to pcre2.
+ .
+ This package contains the development files, including headers, static
+ libraries, and documentation.
+

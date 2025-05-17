@@ -1,0 +1,21 @@
+Package: gxde-calendar
+Architecture: loong64
+Version: 2.0.8
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 352
+Provides: dde-calendar
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.3-2.2.9), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 5), dde-api
+Conflicts: dde-calendar
+Replaces: dde-calendar
+Filename: ./g/gxde-calendar/gxde-calendar_2.0.8_loong64.deb
+Size: 77284
+MD5sum: fd7155e629a78014911d9b36b5474dfd
+SHA1: cf9f342fc07a7bf24488756320af3ba2bd9fe8d8
+SHA256: 3da18190a9c966df6fc7f79b9b04c2866d089037989c14f8a60ece4c03553d57
+SHA512: 14e92df091d3d8745cf545f4aedec30ac2c375d7066eb9c05612e92a11480af6dd38da9df58fd4bd10aee3451c5119c92824c15f77a619289bb74668da4fa9b5
+Homepage: http://www.gxde.org
+Description: Calendar software for GXDE OS
+ Calendar for GXDE Desktop Environment.
+

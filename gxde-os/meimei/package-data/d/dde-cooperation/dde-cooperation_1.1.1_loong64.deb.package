@@ -1,0 +1,19 @@
+Package: dde-cooperation
+Architecture: loong64
+Version: 1.1.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 20366
+Depends: libavahi-client3 (>= 0.6.16), libavahi-common3 (>= 0.6.16), libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 14.2.0-4), libqrencode4 (>= 3.2.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.11.0~rc1), libqt5widgets5t64 (>= 5.2.0), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libsystemd0, libuuid1 (>= 2.16), libvncclient1 (>= 0.9.10), libx11-6 (>= 2:1.2.99.901), libxext6, libxi6 (>= 2:1.2.99.4), libxinerama1 (>= 2:1.1.4), libxrandr2, libxtst6, zlib1g (>= 1:1.1.4), dde-cooperation-transfer
+Replaces: QtZeroConf, dde-cooperation-daemon (<< 1.0.0)
+Filename: ./d/dde-cooperation/dde-cooperation_1.1.1_loong64.deb
+Size: 8878044
+MD5sum: 4a2e2ff177b6217c3778eccbb2bc1dd6
+SHA1: 2239a49d70fdc3cd7ff7ddabcc573a2dcf72af78
+SHA256: b4ec2dc3323b63830464e7879726753672f8ef420da271a37548cc311664d79b
+SHA512: d809e7651434ab697213a8f8f1556ef01d4b6f64b9fed08595d9b89aac6cd64409e58a1bac1470453716de8de8e7d5eba4f208984809bc305ee614dfd2a47ff0
+Homepage: http://www.deepin.org
+Description: deepin cooperation application
+ Deepin Desktop Environment (DDE) - cooperation application.
+

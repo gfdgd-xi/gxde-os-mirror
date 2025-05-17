@@ -1,0 +1,19 @@
+Package: gxde-shell-compressor
+Architecture: all
+Version: 1.4.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 25
+Depends: garma (>= 1.2.1-2), 7zip | p7zip-full, zipu, tar, bzip2, pigz, uuid, zenity
+Recommends: deepin-compressor
+Filename: ./g/gxde-shell-compressor/gxde-shell-compressor_1.4.0_all.deb
+Size: 5576
+MD5sum: 0607575551b953244607395a18b6865b
+SHA1: 1215806417afb30866fd6e8ea1f5358181aa6617
+SHA256: c90d360506556e657d3797afd1b021297e851b28ee4d49331acda64878ff21bb
+SHA512: 4f34b82450ab72a48dfc82dd754eafdb41798d96150f1a93aafd5973413e645d9eaa1222d0aab7146bedaa4e6cb9650c9bf7f33546b1934847424330dcf01f65
+Homepage: https://gitee.com/GXDE-OS/gxde-shell-compressor
+Description: gxde-shell-compressor
+

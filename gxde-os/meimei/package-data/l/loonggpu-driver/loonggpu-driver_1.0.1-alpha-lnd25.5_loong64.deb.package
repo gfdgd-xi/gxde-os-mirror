@@ -1,0 +1,18 @@
+Package: loonggpu-driver
+Architecture: loong64
+Version: 1.0.1-alpha-lnd25.5
+Priority: optional
+Section: x11
+Maintainer: Loongson <service@loongnix.cn>
+Installed-Size: 21
+Depends: firmware-loongson-graphics (= 1.0.1-alpha-lnd25.5), xserver-xorg-video-loonggpu (= 1.0.1-alpha-lnd25.5), libldrm (= 1.0.1-alpha-lnd25.5), libloong-gpucomp (= 1.0.1-alpha-lnd25.5), loonggl (= 1.0.1-alpha-lnd25.5), loonggpu-kernel-dkms (= 1.0.1-alpha-lnd25.5), loonggpu-settings (= 1.0.1-alpha-lnd25.5)
+Filename: ./l/loonggpu-driver/loonggpu-driver_1.0.1-alpha-lnd25.5_loong64.deb
+Size: 5772
+MD5sum: 2d24076f1e46b44f01eba2f77908d312
+SHA1: 9defedfd0f396cc8c872c24016069dd9a5c9ca2e
+SHA256: d6238dab8c82d483a195a9d097341e70dde135b51bce023177508a4a262b5330
+SHA512: e37af26af072f42289f356186e12eca58adfe298737732e9423e3123b216d5ea4519a4d56b873d24d2f64f8395cc4fd139966ec17896685c2cbf45037d29ce67
+Homepage: <insert the upstream URL, if relevant>
+Description: LOONGGPU metapackage
+ This meta-package installs a group of loonggpu packages.
+

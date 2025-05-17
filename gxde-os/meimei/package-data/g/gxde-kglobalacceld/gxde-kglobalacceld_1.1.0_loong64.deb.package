@@ -1,0 +1,17 @@
+Package: gxde-kglobalacceld
+Architecture: loong64
+Version: 1.1.0
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 14
+Depends: libkf5globalaccel-bin (>= 5.117.0~realis5.103.0-1)
+Filename: ./g/gxde-kglobalacceld/gxde-kglobalacceld_1.1.0_loong64.deb
+Size: 2608
+MD5sum: 936625353efcfcfce43cdf4554f9a5ac
+SHA1: 84323b73b315cb2326980b75b93a5c4d52bc2fbc
+SHA256: 2b869d5c33461cd5a39e304bf7ff9d83335916b9ea0a0aae26f345e73591f3ba
+SHA512: 8e5a4747c81715aa74a4d6de3c3ac49790196b67de2b71981ca2f2f8ceea87f4fc7ac5c2297ab85f294c4e3f5e795f222069f70c2d5e6ce377471801879e2eda
+Homepage: https://gitee.com/GXDE-OS/gxde-kglobalacceld
+Description: An daemon held by gxde-k9 to launch kglobalacceld
+

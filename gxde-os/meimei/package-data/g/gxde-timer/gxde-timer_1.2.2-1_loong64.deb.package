@@ -1,0 +1,18 @@
+Package: gxde-timer
+Architecture: loong64
+Version: 1.2.2-1
+Priority: optional
+Section: utils
+Source: gxde-timer-neo
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 220
+Depends: libc6 (>= 2.40), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 14)
+Filename: ./g/gxde-timer/gxde-timer_1.2.2-1_loong64.deb
+Size: 121112
+MD5sum: 2a40270a24345de0de6d19262ad8ea86
+SHA1: 31ec564482d0d7906458ae366b736a8503e2874c
+SHA256: 3411488f761e5b3716415eaa4b1dd4149de46b0777fff826980c8a8b5e9588d0
+SHA512: 367ce6f91153be11ae830481ebc97be486e9f0a2d085989ccc10aaff1321a0a2108efb33b680671e39a20a46292d222a50770a6c819785215752261e92699296
+Homepage: https://gitee.com/GXDE-OS/gxde-timer-neo
+Description: gxde-timer
+

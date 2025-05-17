@@ -1,0 +1,18 @@
+Package: apt-is-aptss
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 47
+Depends: spark-store | aptss
+Filename: ./a/apt-is-aptss/apt-is-aptss_1.0.0_all.deb
+Size: 12756
+MD5sum: 832d162cfbb3c1417b8d0c1490bbf9ea
+SHA1: 667109924b1da051c4014dafd6c4f730424334f8
+SHA256: 2e84005b37315e635380a5f31f9bec6d94f872052fcb26333ecb1ac4a840bc7d
+SHA512: 59bab81cb31209e541dc34ce74c5db58595e03b6e2ea6534e2c0f62f0fb56b55624779a2c13398828c25d0dbe58b8bf8ecfbaff38fb647e75bf31cfc18a54fbb
+Homepage: https://gitee.com/GXDE-OS/apt-is-aptss
+Description: apt is aptss
+

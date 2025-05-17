@@ -1,0 +1,21 @@
+Package: libdde-file-manager
+Architecture: loong64
+Version: 4.8.39
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 10177
+Depends: libc6 (>= 2.40), libdisomaster, libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.3-2.2.9), libffmpegthumbnailer4v5 (>= 2.2.2+git20240104+dfsg), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.50.0), libgxmr, libjemalloc2 (>= 5.0.0), libkf5codecs5 (>= 4.96.0), libpoppler-cpp1 (>= 24.08.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5sql5t64 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xdg3 (>= 3.10.0~), libsecret-1-0 (>= 0.7), libstdc++6 (>= 14), libudisks2-qt5-0 (>= 5.0.6), qtbase-abi-5-15-13, gvfs-backends (>= 1.27.3), cryptsetup, deepin-anything-libs
+Breaks: dde-file-manager (<= 1.2.3-3)
+Filename: ./l/libdde-file-manager/libdde-file-manager_4.8.39_loong64.deb
+Size: 2402596
+MD5sum: c2d3585020feec068b4695c128f51af0
+SHA1: 18359d93b52f1f9cc6504788eef7b4d1c0e863db
+SHA256: 26a4db31f406f97f06a1a34a04f62fd6ad556cb2235fc6d34aeeb7ed6d782ef0
+SHA512: cd1148dd0256e614d45029b420020b0124637d478f6f1e33876b65d0de2cab3d38f3d3cd63e9e616c639fda8ec649000b8c9abec0630d23e847ec0cca1e93d9d
+Homepage: http://www.deepin.org
+Description: DDE File Manager library
+ This package contains the shared libraries.
+

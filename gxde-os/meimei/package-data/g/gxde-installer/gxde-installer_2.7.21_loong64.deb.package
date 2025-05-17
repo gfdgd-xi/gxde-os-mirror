@@ -1,0 +1,19 @@
+Package: gxde-installer
+Architecture: loong64
+Version: 2.7.21
+Priority: extra
+Section: utils
+Source: gxde-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 24474
+Depends: libc6 (>= 2.40), libgcc-s1 (>= 3.0), libparted2t64 (>= 3.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5t64 (>= 5.5.0), libqt5widgets5t64 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 14), libx11-6 (>= 2:1.2.99.901), libxext6, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.3), libxtst6, zlib1g (>= 1:1.1.4), gxde-installer-timezones, dosfstools, imageworsener, mtools, ntfs-3g, parted, pciutils, squashfs-tools, udev, x11-xserver-utils, xinit, xkb-data, grub-efi
+Filename: ./g/gxde-installer/gxde-installer_2.7.21_loong64.deb
+Size: 16553260
+MD5sum: 8e41f23b419707a20bd7dcf37a92af32
+SHA1: 690d94edd3d44e3114587a497316a007d0e86323
+SHA256: 5669a6c793ebdc3b2ee157ad1a06a346cf04a23c01bac1bcc6b2d79fbd6b7f10
+SHA512: ea8d988a2501c098d6f64f46637c155fe825dc99bf030465ea5552eb7beee26b54cec70e85504767340da33e4009cb702c59109fcd7061e0e39380dbaa8a102c
+Homepage: http://www.gfdgdxi.top
+Description: Release version of deepin installer
+ New version of gxde-installer, rewritten with Qt5.
+

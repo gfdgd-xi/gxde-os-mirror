@@ -1,0 +1,25 @@
+Package: libqt6pdfquick6
+Architecture: loong64
+Version: 6.6.3-0deepin4
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: qt6-webengine
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 570
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libglx0, libopengl0, libqt6core6 (>= 6.6.1+dfsg~), libqt6gui6 (>= 6.6.1+dfsg~), libqt6network6 (>= 6.6.1+dfsg~), libqt6opengl6 (>= 6.6.1+dfsg~), libqt6pdf6 (>= 6.6.0), libqt6qml6 (>= 6.6.1+dfsg~), libqt6qmlmodels6 (>= 6.6.1+dfsg~), libqt6quick6 (>= 6.6.1+dfsg~), libstdc++6 (>= 5), libxkbcommon0 (>= 0.5.0)
+Filename: ./l/libqt6pdfquick6/libqt6pdfquick6_6.6.3-0deepin4_loong64.deb
+Size: 133264
+MD5sum: 203fb0c2f64a231f1d87508015c4db10
+SHA1: 5f891179d38af4eebfae91df9f159326a6c6f730
+SHA256: ed7a40edd7e22b9e0bf678dbee1ce3e5475e76b48a8c64a02651390003106301
+SHA512: a307bc6d28458763b1c6731044899f32aacbb85b3e5c47572cd39e1f6a4bcb54e700c84105f2dad7a6a925e1bea0aa026875870e72baba2d50052158cf6f151f
+Homepage: https://www.qt.io/developers/
+Description: Qt 6 PDF Quick library
+ Qt is a cross-platform C++ application framework. Qt's primary feature
+ is its rich set of widgets that provide standard GUI functionality.
+ .
+ The Qt PDF module contains classes and functions for rendering PDF documents.
+ .
+ This package contains the Qt 6 PDF Quick library.
+

@@ -1,0 +1,20 @@
+Package: libdtkwidget2-dbgsym
+Architecture: loong64
+Version: 2:2.3.2
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkwidget2
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 26193
+Depends: libdtkwidget2 (= 2:2.3.2)
+Filename: ./l/libdtkwidget2-dbgsym/libdtkwidget2-dbgsym_2.3.2_loong64.deb
+Size: 26157536
+MD5sum: 7bd0b1a1824562f743c27c49fded8b88
+SHA1: f2ce13eb70174a921c87121a6c378f3fdc559457
+SHA256: 7661a506c1f094e72943e45dde16c4fc703733240052fe0691144e0967a3c2af
+SHA512: 5a6a972576c92d6b027a2bc86862d2d9213d03bc911b4266b0ff79a19d8c9db8d4b8f3fa04124631996c66fba663af998c7c43dfc17cb5a4116fbcd33d277b41
+Description: debug symbols for libdtkwidget2
+Build-Ids: d57830b0128b334778b5ba79d466f9a2dc25fbd4
+

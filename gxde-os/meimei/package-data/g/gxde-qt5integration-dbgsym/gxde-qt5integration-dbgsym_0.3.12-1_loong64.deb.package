@@ -1,0 +1,19 @@
+Package: gxde-qt5integration-dbgsym
+Architecture: loong64
+Version: 0.3.12-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: gxde-qt5integration
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 4186
+Depends: gxde-qt5integration (= 0.3.12-1)
+Filename: ./g/gxde-qt5integration-dbgsym/gxde-qt5integration-dbgsym_0.3.12-1_loong64.deb
+Size: 4217880
+MD5sum: 7f401e314f9d6a09df2d89d91883a200
+SHA1: 944782832c28e54270ed2288263a8935f19a410a
+SHA256: ad5f4a2a5f42eb59f95c8c5f379a4df8b4e531e89f5f1ce9d93779de85de466d
+SHA512: dd681b041292495e3a9b0438eab60b9db389480136ad61692b4bdeb670631887806e006ce3eca094f66d52a3b0afcc685f15c417b624fc1ebdc91d7ec99cda7f
+Description: debug symbols for gxde-qt5integration
+Build-Ids: f3bdc05c7a2ae0d8b07f7121b8dcc328b1f3313a
+
